@@ -1,0 +1,8 @@
+Origin: Blatant's Repo
+Label: Blatant's Repo
+Suite: stable
+Version: 1
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: A repository for my packages, supporting roothide, rootless, and rootful environments.
