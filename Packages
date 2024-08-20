@@ -62,16 +62,16 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm64e.deb
-Size: 32510
-MD5sum: e2a8b6c5991ee7321f0cf2203276d419
-SHA1: 7e8efcba420be4a32063f4e0889372923c17bac9
-SHA256: 368da808999bfda0ba5e3d12c60a5e9619530bb52d6a1b1065069b44fe970340
+Size: 32524
+MD5sum: 43de7a46cd46b0e66407e59108f0b361
+SHA1: c0196afec819257599ea4a71724b6bbba981b99c
+SHA256: 38905c3a1ff083dcac0bd0d3aa96b08fd83248f79c583c74c4fa716a4c93185a
 Section: Tweaks
-Description: Cracked By Blatant
+Description: Automatically unlock's subscription for most RevenueCat-based apps
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
-Name: AutoRC
+Name: AutoRevenueCat
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
 
 Package: com.blatant.autorc
@@ -82,15 +82,15 @@ Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm64.deb
 Size: 32580
-MD5sum: 019940f4e42fd31a58ff91769bceb196
-SHA1: a8f596d44fa399b4a0edad4f06d71bd4288279c7
-SHA256: 259d4f57b5a369bf21202d538d7144be854b33d9c2b406da594d4d4f73282364
+MD5sum: d7c2011e1e2e1aa21b521a94e8dc0b67
+SHA1: 600a2bceb47814c46eb0642c0ad0bfd801b484fd
+SHA256: 4aea0a3fca02a0955b823aea0ee9b2e8acab1758980f83cc41f2404b2ce7e1a5
 Section: Tweaks
-Description: Cracked By Blatant
+Description: Automatically unlock's subscription for most RevenueCat-based apps
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
-Name: AutoRC
+Name: AutoRevenueCat
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
 
 Package: com.blatant.autorc
@@ -100,16 +100,16 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm.deb
-Size: 32414
-MD5sum: 2a6683eb560be49d1a1d83e227f296a1
-SHA1: ae3f5916da1d639e79b7e6640d0ecb1ce66c7f15
-SHA256: ae742aaa094662231c856c4d831f13a3f1b37f7606e9acd58a34872db34bba1b
+Size: 32460
+MD5sum: b63d303d97eeeb98427c75933b27b3e4
+SHA1: ba89a8da3fd51b32243bda86c48fdce636135568
+SHA256: f34a475e6861fdc03ba5f3fc45aeb2ee09d5ecc5f26bbe063269b050919053a3
 Section: Tweaks
-Description: Cracked By Blatant
+Description: Automatically unlock's subscription for most RevenueCat-based apps
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
-Name: AutoRC
+Name: AutoRevenueCat
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
 
 Package: com.blatant.avatarify
