@@ -1879,6 +1879,63 @@ Icon: https://i.postimg.cc/50YqJvTx/IMG-5438.jpg
 Name: StressWatch
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.html
 
+Package: com.blatant.swipewipe
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64.deb
+Size: 22522
+MD5sum: 21485565565f614431d545e06143bd5d
+SHA1: 446b1620636d72f5ad994d2f6b8a9498071f5451
+SHA256: b6bcf2577b300aaf8f37485e224e9a8512b8a36bbb543b7094f29f3eadefedaf
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
+Name: SwipeWipe
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+
+Package: com.blatant.swipewipe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm.deb
+Size: 22614
+MD5sum: a4864f6a0b53c36ca14e00187e2bcedb
+SHA1: 2381345c154b65303c7f32b9e6ca9f65f2de2413
+SHA256: fab3c02a5537dd3cd53ff7538a64a0c771ce87f72b4cac82746575ed29650047
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
+Name: SwipeWipe
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+
+Package: com.blatant.swipewipe
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64e.deb
+Size: 22634
+MD5sum: 896d8978f56b987fdaf9f9420333362e
+SHA1: 430c228d9171840b2179ec3f0754d85182620a9c
+SHA256: 100b4735c346a0e0cabe1992e76ee7fbfb21cda10e4232f48e10608ea10ec206
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
+Name: SwipeWipe
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+
 Package: com.blatant.thenx
 Version: 1.0
 Architecture: iphoneos-arm64e
