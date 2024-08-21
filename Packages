@@ -5,17 +5,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.animock_1.0_iphoneos-arm.deb
-Size: 24850
-MD5sum: 5944bb367cf74e80cdb6f50eba9ef5c3
-SHA1: 4ace64582b04725f98d433f74db0658d8da8e359
-SHA256: 1b10c0b9102dda5a00cf7731d4b4b813d5e2169d971479bb4796c721279b3359
+Size: 24888
+MD5sum: 15937246ff2e8324af23bcd6af2b297b
+SHA1: b61f1e713ddcda7568a13f13dbabaf8f76472816
+SHA256: 763a59101010829ab63619bb39af9e2b28aa80e3d9b6c3cbd46de2d25029133e
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/FRWg5pDC/IMG-5407.jpg
 Name: Animock
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.json
 
 Package: com.blatant.animock
 Version: 1.0
@@ -24,17 +24,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.animock_1.0_iphoneos-arm64e.deb
-Size: 24870
-MD5sum: 75ae73b6d7007543805de1ffbba46d3b
-SHA1: e5ec0210436867444f0a45b802c08bd9e0f0dd20
-SHA256: 19ce818e1f4308b1abd2152e07b1d827b548f3f35f9b4a13907be4ef93166aaa
+Size: 24888
+MD5sum: 6aa42f79e565c21b83904c6c2e670cbe
+SHA1: 73788a7c850b479c0530d9255fc6de9310c5a1ce
+SHA256: 03add409c8d87338168c843881b12f2c71ab991d68120a9663dff1c091a31a27
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/FRWg5pDC/IMG-5407.jpg
 Name: Animock
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.json
 
 Package: com.blatant.animock
 Version: 1.0
@@ -43,17 +43,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.animock_1.0_iphoneos-arm64.deb
-Size: 24978
-MD5sum: bea7649f13d49fdff095f095297903f9
-SHA1: 0dae26114dd8c997bf2d2937e48ddff052692f4e
-SHA256: 9597ab993ff618e3b111b1f9a9b5a5be50ff7d141b57cc24518727c1712023b7
+Size: 24912
+MD5sum: 6b56adfae5bbdf48ebc3e963d39a85e7
+SHA1: 6478ebd91139815cbb5533363ef789eab89aea2b
+SHA256: 0e56e3d90b08e124a308abb65c5d56458ef1ef9f4dbf18c348511c3852d515a3
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/FRWg5pDC/IMG-5407.jpg
 Name: Animock
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Animock.json
 
 Package: com.blatant.autorc
 Version: 1.0
@@ -62,17 +62,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm64e.deb
-Size: 32580
-MD5sum: 93bb15c03ec921c2c8f94f3955af7c02
-SHA1: 17b61794e7aecb82b0cef7d7fb44709a8f4d5c83
-SHA256: 0aa9d54624c86b9a9da99e346614f3081a5da1da7aeba23b76353ea4f645626d
+Size: 32680
+MD5sum: 8e28118d70fa091222ef40e010390b0a
+SHA1: c5fb5f289e8e914de626270ee0481a4c922b5bd8
+SHA256: 1981f838c696f3ed665c33738ae767ffa4d42ae7287e4980ff059e8833b52837
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
 Name: AutoRevenueCat
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.json
 
 Package: com.blatant.autorc
 Version: 1.0
@@ -81,17 +81,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm64.deb
-Size: 32610
-MD5sum: a9dc943065d13119f479579034e771d7
-SHA1: 8fb5ed96aa951fc02039360354ccac21b5c2910c
-SHA256: 9770789c73b178574a62177dcbdc0fca417b33bb2e0f2d64eda2776a5d28b046
+Size: 32656
+MD5sum: c59bd573db3cfbbc1c6f0956e9cd3349
+SHA1: 3be9dfa7ce6c4d45e45706068cfc8d78e8b52165
+SHA256: 6499afb6036ff8939760386f9fb900ae18069e5d49d0b2a0611f925789f30657
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
 Name: AutoRevenueCat
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.json
 
 Package: com.blatant.autorc
 Version: 1.0
@@ -100,17 +100,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.0_iphoneos-arm.deb
-Size: 32534
-MD5sum: cf8eedcd4cbc7b71e3a7a173184edc3b
-SHA1: 4c48ca7d1453e5301029e427e8395de19c330f83
-SHA256: b2ec70b15da166c44681c49f4fbc297031ed95368c039a1804ae6bd3147f1f0b
+Size: 32610
+MD5sum: 30798fad521a072974ba8175d2aa9841
+SHA1: 759c1cd24fea41364b0159926c957591fb9f053d
+SHA256: e926e8210d19601710c2a4ffecf7bb93fef2420fb1166349ece23b39d699226a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqmvvQ2y/image.png
 Name: AutoRevenueCat
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.json
 
 Package: com.blatant.avatarify
 Version: 1.0
@@ -119,17 +119,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.avatarify_1.0_iphoneos-arm64e.deb
-Size: 17788
-MD5sum: 0d89cc4e198b5d0b4963b10862240458
-SHA1: bc6f8f2dc08f2a67a747ec2982e5d5c9fb676f78
-SHA256: 1b501f4ce2d868f47cb1cddba1de237e1d714500e109f6ab1f2aefa0fa402734
+Size: 17812
+MD5sum: cf80c0c9a0e55c94e8d1fed3acf96fb5
+SHA1: 8d1bf6f92d1fb7374933afc5dce5436dc8c87189
+SHA256: 7e5cf7aeb486f966995cc93105b78d29f7ae8601507f71401b9cb5af914ba793
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/tJ837T0h/IMG-5408.jpg
 Name: Avatarify
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.json
 
 Package: com.blatant.avatarify
 Version: 1.0
@@ -138,17 +138,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.avatarify_1.0_iphoneos-arm.deb
-Size: 17776
-MD5sum: 53efe44c8661b7f4cf995f1b976af9ff
-SHA1: 0653bd3434a818a618b3035d1ac8da16be77a072
-SHA256: f6ec52debb2d909121cd11a52093f124d51621111874877e10b0a362cc47965d
+Size: 17780
+MD5sum: 870a70a53ef65cbbd2201078d7c58a10
+SHA1: 3b9090bdb0869da1d561ebc812ef6d3dd6b89be9
+SHA256: b5d09e670231503c0c0d4aa739692a0bdd49189396eb2e9daef25b2283c13e4c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/tJ837T0h/IMG-5408.jpg
 Name: Avatarify
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.json
 
 Package: com.blatant.avatarify
 Version: 1.0
@@ -157,17 +157,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.avatarify_1.0_iphoneos-arm64.deb
-Size: 17830
-MD5sum: 6c176a1dfe8b1e0ca919b7f798ff7eac
-SHA1: 60a236f7cab203fd24226c0e368d68889f4cb5a0
-SHA256: 2739b1144d4d6f87d1da1e6e4924965ba2d94db7df8a5100ce37c78fdb93174e
+Size: 17834
+MD5sum: edd0fb1dd753a0b1e4c4094a283a778f
+SHA1: eb34be7563b386006cb3372c4c654e743c68daf3
+SHA256: 7f62f9be3f3991a597cdb7df91e8ffc1ffa28ec089f39d68c567c7049b69701f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/tJ837T0h/IMG-5408.jpg
 Name: Avatarify
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.json
 
 Package: com.blatant.bettersleep
 Version: 1.0
@@ -176,17 +176,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.bettersleep_1.0_iphoneos-arm64e.deb
-Size: 18008
-MD5sum: d6628a960e8e9a1ccf6f7d71c4690cea
-SHA1: 0799a0f0bea23000c5810be1473c7a807e4bae82
-SHA256: 86737b03f734c8ae24aa3ea898b97f6dbf4bddc26f4387c27595af7dcd3019db
+Size: 17992
+MD5sum: 0f1cc0d0d44eb5a0b825e4db8e022197
+SHA1: 82704fab45120fb04ef2107045831ba98f20d03e
+SHA256: 64fcdc007a19c32f8696e9fe6b4cc606d73d8edd6b0875b76ad53a924f053d59
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
 Package: com.blatant.bettersleep
 Version: 1.0
@@ -195,17 +195,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.bettersleep_1.0_iphoneos-arm.deb
-Size: 17966
-MD5sum: 075156295cc0917b06e5d0f29a4e7581
-SHA1: 96d71257eb0aae033816d1b816e6a41959cd9a62
-SHA256: c5db08760ba2af9220972d2e80105b4736ae55f0d1368dac64082f2e0fa227d9
+Size: 17988
+MD5sum: 29bfaf62183c25ace55c714167dd8d60
+SHA1: fef1d9e44e1b060de163f13cdb62a9b3c3f4372a
+SHA256: 27dde5df6bb8553f607253b33a3f4fe72fd20f2093c957364b6927f6407449e0
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
 Package: com.blatant.bettersleep
 Version: 1.0
@@ -214,17 +214,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.bettersleep_1.0_iphoneos-arm64.deb
-Size: 18030
-MD5sum: 35d0b983264cf76accfc3a061e5cbd0a
-SHA1: ee86437b92e71ad66d9ae3c0cdb3a7263810186d
-SHA256: 36994845ca25c10097cf0389c4c35914ebd0ac988f34cc7051f4093806ea88c8
+Size: 18038
+MD5sum: fb414dba580dea4aba0a874a26294e70
+SHA1: e665e57ede6e17b31ab467953cfdc506905b9f80
+SHA256: 0e955651d9bdf2d4370c29730aa90d615929a3984b04e014c028be925d878fe5
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
 Package: com.blatant.cmprocalc
 Version: 1.0
@@ -233,17 +233,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.cmprocalc_1.0_iphoneos-arm64.deb
-Size: 15688
-MD5sum: 8a341b000ac559ea9e95a2862ff2a317
-SHA1: c093866113bb63644c7f9f7c2233542014153fe2
-SHA256: 01af8731e29e316c9ccef2782c3f33e5d9c773f095ff3565bbc7048be96f02b2
+Size: 15564
+MD5sum: d306622190f46dd7440487bacd5ed1b3
+SHA1: 80ad195b86adaee59249bcf957d419d5c9a7cae2
+SHA256: 5a57e900756400a35f4dc81eeca93b286679f35f200d36493d33fa814d08644a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKC5MLXQ/512x512bb.jpg
 Name: cmprocalc
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.json
 
 Package: com.blatant.cmprocalc
 Version: 1.0
@@ -252,17 +252,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.cmprocalc_1.0_iphoneos-arm.deb
-Size: 15534
-MD5sum: bdfc5914b3714c98bcaa3db30380c3b6
-SHA1: 83f1b92d773c3cd1e2e51963daa0ebf3e666801e
-SHA256: 7e2fa14b1c8513c0c97e55213aaa07731f4fd8a6d36121d7532e38cc0718f40c
+Size: 15506
+MD5sum: f474b18facb84ee1c49b2873f8d78cb1
+SHA1: 5e01443f1813bbe6bda5a1eba4fb7587256d8978
+SHA256: 8990b7e3d11b043e5b43326e98fd23f82315f745a30b03635cb8d2c90b960df1
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKC5MLXQ/512x512bb.jpg
 Name: cmprocalc
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.json
 
 Package: com.blatant.cmprocalc
 Version: 1.0
@@ -271,17 +271,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.cmprocalc_1.0_iphoneos-arm64e.deb
-Size: 15596
-MD5sum: 589f648b7aa38b10810aef6034c566ba
-SHA1: b6e0586babaf85d73a047611e066d5ea42046113
-SHA256: a0b47b9ea143ea7b5f08779d1a80bef9501077326cee4ccb3dd4732d610f18db
+Size: 15504
+MD5sum: 92b2a6e92bf1e91bde8fd039362b6ad2
+SHA1: a9b0fccd555f095cf06782d039e2f08d255f14c0
+SHA256: f026a38b0b46cde9347bc83f01b8e653ec4fe37f08d203a3f3ff1c5e84d73550
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKC5MLXQ/512x512bb.jpg
 Name: cmprocalc
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CMProCalc.json
 
 Package: com.blatant.coinid
 Version: 1.0
@@ -290,17 +290,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.coinid_1.0_iphoneos-arm64e.deb
-Size: 15762
-MD5sum: d6add0ce2147cfeed7daf4a20930fa35
-SHA1: a3ab6a6fc5db7eaa28d033d7a03b63a13737a3b8
-SHA256: 1af1ac8c05ec5ad58ed85ae26f11192d37caec3f2325aa79398cef2efa7b30b3
+Size: 15708
+MD5sum: 78c02d13673efa12fe96bb9dde393ab6
+SHA1: d8a296f64e869b9909cec149e30513d11e74178a
+SHA256: ab0d88e2f4956599f605462a7b0cfaf2ae4aad044ae31166cc5a6a678390d080
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Z588K4wd/IMG-5410.jpg
 Name: Coin ID
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.json
 
 Package: com.blatant.coinid
 Version: 1.0
@@ -309,17 +309,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.coinid_1.0_iphoneos-arm.deb
-Size: 15720
-MD5sum: f44cfee18bd0f1d675b14faf41221169
-SHA1: 515c8a0ac1bd12a696125e17919455d74a6c00a1
-SHA256: ccdde80ce132783c99e06356a93097962de4458e581a4d936b49186757bed182
+Size: 15732
+MD5sum: dd00461ca6af4c10be56954c2e3270fb
+SHA1: f291edc36f87391b04f1cd9e6ce215f0145b801d
+SHA256: 4ae2f14ace7ee91a3f2068c4a7b66927a9a9ef849cdb00e8e502bda76aa9bd7b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Z588K4wd/IMG-5410.jpg
 Name: Coin ID
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.json
 
 Package: com.blatant.coinid
 Version: 1.0
@@ -328,17 +328,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.coinid_1.0_iphoneos-arm64.deb
-Size: 15798
-MD5sum: 24b4e408e1d796fb933938d1854fb315
-SHA1: 09f6468a2156ffc43c608098ebfceb68284158c1
-SHA256: ae35182383452639f029bd98cae77f71b496a2bb46cadec602a6c17172b10ffc
+Size: 15802
+MD5sum: f83ae2474cbefd5c3e733343079442e5
+SHA1: 2a4567cf7a7b3a3bf11566701767d39e1fadb97b
+SHA256: 6a1d6328a4697a884455f786061ce06f4d451003bfc89c3500a9226faeff72db
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Z588K4wd/IMG-5410.jpg
 Name: Coin ID
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.json
 
 Package: com.blatant.diamondfinder
 Version: 1.0
@@ -347,17 +347,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.diamondfinder_1.0_iphoneos-arm64e.deb
-Size: 18738
-MD5sum: 46a4be945a5d0660497ef33c140419de
-SHA1: b42b74dd6128bf2d7912084e6f287c18096776f7
-SHA256: 62ae02c8723aab827b44f9b670a627413e5561d41b315165f92efbc607d80cd7
+Size: 18676
+MD5sum: 755fb31f83144665bf675b8c91d54604
+SHA1: 27d51419470396ea17e8764b81b762fd29b086f2
+SHA256: e5ce7bffe242ca46c0bdc77cf7b87d702885ad16a19fbc596f6e871358c6f896
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/kXtNzx8w/IMG-5411.jpg
 Name: Diamond Finder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.json
 
 Package: com.blatant.diamondfinder
 Version: 1.0
@@ -366,17 +366,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.diamondfinder_1.0_iphoneos-arm64.deb
-Size: 18794
-MD5sum: 014ddc824a3d03e12bc949f140817422
-SHA1: 51adf36d401b0d8a67db0dc49a9b3c0b5d926146
-SHA256: 803d6c460c4ed48aa805863dc0904814504a0e1d63e0c9ef5748123bf2da8a86
+Size: 18732
+MD5sum: 9297749cf98f2facc8c56c45954cfaf5
+SHA1: cd2631c43f6c2c0cd8486eddc5b63a7c8c47bd90
+SHA256: 8ab083625abc6454448df177c12c8b61c5e200969a03c5516892fd08b3a9b1ce
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/kXtNzx8w/IMG-5411.jpg
 Name: Diamond Finder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.json
 
 Package: com.blatant.diamondfinder
 Version: 1.0
@@ -385,17 +385,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.diamondfinder_1.0_iphoneos-arm.deb
-Size: 18602
-MD5sum: 1969e02ec0aea9a406fa0dd37ddc2973
-SHA1: 839783f03c7adf90a0aebfe980cb04e399912614
-SHA256: 4e61d6753594e2a2fb1c1073a0991b24456cc72b843a08e1e9247b157ea84b8d
+Size: 18700
+MD5sum: c50e1337011149ca97a98c203e165f47
+SHA1: 7528a8aa66bdd8987c6b33ec36bd9be8361122e9
+SHA256: ee56e40349b22efed40809c9e4ad0a82f497a7e08019e1e4d37bb9e7c9d6a8cd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/kXtNzx8w/IMG-5411.jpg
 Name: Diamond Finder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DiamondFinder.json
 
 Package: com.blatant.drafts
 Version: 1.0
@@ -404,17 +404,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.drafts_1.0_iphoneos-arm64e.deb
-Size: 22104
-MD5sum: 2c5c7fc2673d61514065561473083371
-SHA1: 96ff3d1e02a4c5558f401c630d06aec467b6c19a
-SHA256: 5cf25f98358efbc28b3b2433856a8c88d020f178f809fd63ebcf426de87e8943
+Size: 22096
+MD5sum: d55f4cb971890e57c1acb8cf54e286f6
+SHA1: 0e2b54cd306c11ba48f3949cfd1febd6be271bdc
+SHA256: 3dc8ad47ad44507a19af7c853f50d6b04a7bf4c5e40b89cdf723fbcb9f7b10c1
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/hvX8SmYD/IMG-5412.jpg
 Name: drafts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.json
 
 Package: com.blatant.drafts
 Version: 1.0
@@ -423,17 +423,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.drafts_1.0_iphoneos-arm64.deb
-Size: 22206
-MD5sum: dab068eda2607dfb0a28a18bac82ee36
-SHA1: de36fe0512018b49c546e66d4ab40e4abcc48828
-SHA256: f408f7cc2ba5c4ccc6d915998b62cd237b7c93b188d10ced60615d38c66e4e6e
+Size: 22146
+MD5sum: be87f529e079d5715d3ed65311c5a541
+SHA1: 53ea7aa2d0a2b0ab712ab3ec35ec62a749ceecbd
+SHA256: b7187affa9ad2dd30dbb6bab2fc76ed043a030269a52e71880ceca34a40cb5c4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/hvX8SmYD/IMG-5412.jpg
 Name: drafts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.json
 
 Package: com.blatant.drafts
 Version: 1.0
@@ -442,17 +442,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.drafts_1.0_iphoneos-arm.deb
-Size: 22120
-MD5sum: 0629ed4b23d7646d98fe8c4a70f945bf
-SHA1: df4c575093ffc365e51164eb693c8cf5146c7d59
-SHA256: a25d4aaec8b14d19615523e2937e76ddbd140ceef6eb1f401476d92dfdab80c0
+Size: 22100
+MD5sum: a192cc6a5078579ba4070f8975558418
+SHA1: a08aa1b08d5637021b4d88fc98631789b3879d37
+SHA256: 575c6900b950be4e100f19fde25e739d54a435f5b8a63d93a63a21c782aad598
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/hvX8SmYD/IMG-5412.jpg
 Name: drafts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Drafts.json
 
 Package: com.blatant.epik
 Version: 1.0
@@ -461,17 +461,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm64.deb
-Size: 16472
-MD5sum: bf255df516cc7c05bd7caa8543654470
-SHA1: 6c379b8de8c771b1061891f891602f38418d8d50
-SHA256: d3a7e9af87a696efda4a41ef7d61c6141abbf570910f78d9bdb3b5f3322308fa
+Size: 16358
+MD5sum: 9cbab0a77a82facb9349bc0eed5025f7
+SHA1: 15cca10c26b7b80ca2cbe24534e1a4463433988b
+SHA256: bcb51c2113ab2edea814e51835c28b266bf6bec4715b4e921babf7e271a7422a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
 Name: EPIK
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.json
 
 Package: com.blatant.epik
 Version: 1.0
@@ -480,17 +480,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm.deb
-Size: 16308
-MD5sum: a57741e315033acedaeab4f1e72df4a0
-SHA1: 5ada6cbec277ed91f427d0d58aee6fa0747895db
-SHA256: f7b65849604307f010c0c2de56e56514f65ce7020c2b0faaffb169b807992b5f
+Size: 16314
+MD5sum: 3c9551e13effed4a8294ed180217c717
+SHA1: 6ba7af24057481e9185af10af491adc756ff97dd
+SHA256: b67f2df9166ec544cb2a4435a5e64b15ab75c6ce3f706901383be55632b45dd2
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
 Name: EPIK
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.json
 
 Package: com.blatant.epik
 Version: 1.0
@@ -499,17 +499,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm64e.deb
-Size: 16278
-MD5sum: d6e913b2406f4accafdc6015622bf782
-SHA1: fe2b4ecba5595f4ef8158f3df656bac641f64662
-SHA256: 073a6f0bbc3024f86f3cd8d7949d22aaa68aa012791e33eca03473005eecd8d6
+Size: 16286
+MD5sum: a89179a22ccd972b079218d06f5de291
+SHA1: 458214c293ebd32730d277fc93398f788bae0e98
+SHA256: a31aa72f96593e285c89db55885ada1ad9f285d96d96cfa18ec4a2f19a36a7ef
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
 Name: EPIK
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.json
 
 Package: com.blatant.falou
 Version: 1.0
@@ -518,17 +518,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.falou_1.0_iphoneos-arm64e.deb
-Size: 15652
-MD5sum: 8df240e67c79f6c3f155f1dc680e17a8
-SHA1: d0f687c45c83a831e9708d41905da20c6d282bbe
-SHA256: 1aaf47e3896de77e9fc947a227310b2414b82e5b3fb8f30442a555455079f468
+Size: 15636
+MD5sum: d45ef259a204bd59a3f4895ce571e771
+SHA1: d5de4a1738047e87d5d3ef93c3675eb55a82df35
+SHA256: 3d097aa9fd9e191e4ff4fb9e7881ad645f0a95bee1da94b16de7de7cc20975c7
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7Lqg5dRQ/IMG-5414.jpg
 Name: falou
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.json
 
 Package: com.blatant.falou
 Version: 1.0
@@ -537,17 +537,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.falou_1.0_iphoneos-arm.deb
-Size: 15598
-MD5sum: 19a7b0f516bcef6742bf5dd4459277d0
-SHA1: 48fdc44c0355a536b61d31fcbbdb9c49ed6188c6
-SHA256: 6f7c6e6ab8e06f643c555d8672bea1a1c5ec3ca5d52bb97d6181441175e3901e
+Size: 15628
+MD5sum: e17381067f8ea1d08f6e59a8e62293d0
+SHA1: 65ea51318a9e7ccaea929858c1283b06f8ce4756
+SHA256: 5cb86db0d8298828365d1ae8156ffcbeba726197b0c3e6b014022763886c4b0c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7Lqg5dRQ/IMG-5414.jpg
 Name: falou
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.json
 
 Package: com.blatant.falou
 Version: 1.0
@@ -556,17 +556,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.falou_1.0_iphoneos-arm64.deb
-Size: 15698
-MD5sum: 83ea7e55f58398344ff7f856ff1b8117
-SHA1: 07ab23468c4c99c278bd117d3d27881bb16694db
-SHA256: 2206fdb9578c5a359b076676d6b3f9eef60c80b8b266d6369142eb0daeefb9bf
+Size: 15784
+MD5sum: 336b58f481eafb20aaef9a53c4d3fdbb
+SHA1: 401effaa4655b3f9f8cd273242c7ab960ca1e9f3
+SHA256: ba535832fb45deab11c37869c4988e17e2780bf0aafcb2fcecace39e3af0d8bf
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7Lqg5dRQ/IMG-5414.jpg
 Name: falou
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.json
 
 Package: com.blatant.flighttracker+
 Version: 1.0
@@ -575,17 +575,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm.deb
-Size: 17682
-MD5sum: ac0ea3eacb7d6ec1ddd82909d89acc51
-SHA1: 80be8248a000044181096cff2a5bf9923b99e10f
-SHA256: c637234b519a653190959ac59d66e1645a9881251c73511a8d7d425037fea97b
+Size: 17688
+MD5sum: b8c7ffec64e5604386ed524893dc0423
+SHA1: f9c052e10e41ba8aa9da556a23127a56da4ab3b6
+SHA256: 1c3be9792b77e0a72427a6ffefdfb9605721f02e2ff566bade1b36300de216b0
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8zQdSjmG/IMG-5415.jpg
 Name: flighttracker+
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.json
 
 Package: com.blatant.flighttracker+
 Version: 1.0
@@ -594,17 +594,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm64.deb
-Size: 17768
-MD5sum: 964290e43861305174d72cca01fc043a
-SHA1: 26fe0b28404fb779d67bd44e943cd1aeebb35e81
-SHA256: 8b1ad4a45f7d506af93db2dd61170eaee90b6172df2409c9e30b4c3df65077ea
+Size: 17778
+MD5sum: 1ea835c1b0609d4a2003220b24d48977
+SHA1: 26908b7c9016bb32cccdcf445e0286284f82d917
+SHA256: 53659658e903ccb4745c2c33e6cd185df3dacada40c441a45d4d6362255a8c50
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8zQdSjmG/IMG-5415.jpg
 Name: flighttracker+
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.json
 
 Package: com.blatant.flighttracker+
 Version: 1.0
@@ -613,17 +613,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm64e.deb
-Size: 17686
-MD5sum: f10f88cf76468e6c5624439ea1cf979f
-SHA1: 1f73c3f12e8c454c89392957870b6454f20ad7b3
-SHA256: 76ff8d2807ac252c750e35d2cf241689274f297b279f2b33eab44b2e7b265ca5
+Size: 17660
+MD5sum: 7a70b06c901b38be4096d3e297e6612f
+SHA1: 44b6912183b350a8ebc963b97f4857945e2eba8e
+SHA256: 52db777eea9fd3d5f63a00d3650a47723658968db46ee26189b21e6c0b35f5c3
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8zQdSjmG/IMG-5415.jpg
 Name: flighttracker+
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FlightTracker+.json
 
 Package: com.blatant.fltr
 Version: 1.0
@@ -632,17 +632,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.fltr_1.0_iphoneos-arm64e.deb
-Size: 17732
-MD5sum: 334d08593071cf7dc957522b2c3997d1
-SHA1: 505405bed0dc717d2678b9f118d26148c48661a6
-SHA256: 27520f165f4be2a3f21dbe7572f774de1913af4d4041ef3090f70ca5354a4a27
+Size: 17762
+MD5sum: 0cbbf530bd6cbdefb66a347e40e25dbd
+SHA1: d12a95d83b95dc72eca0cc79c05624db33d07299
+SHA256: 43f82d580f7a3445539a4fb0fcb71da502533d8c4ebceb2588bce91f17bd97a3
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yx39qHJW/IMG-5416.jpg
 Name: fltr
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.json
 
 Package: com.blatant.fltr
 Version: 1.0
@@ -651,17 +651,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.fltr_1.0_iphoneos-arm64.deb
-Size: 17802
-MD5sum: fc255bd80d5679c13072eea26c5435ab
-SHA1: 149822fd6a5dc6c9230f0abcf14c735783c9c7fc
-SHA256: 7fecd75fd47c7006c598d51d451c80210453b789d4d38c621ae989c80bfd97c5
+Size: 17842
+MD5sum: ea4eb8c1e2dbcda1c4f7bcdaeb7bbbaf
+SHA1: 03ed44b8f8868c4fdfe021f4835c42acbec4b21e
+SHA256: f1792091a76cc92897672f32ce820241a2c18bc4ba1b9d2cb13c381febf9f782
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yx39qHJW/IMG-5416.jpg
 Name: fltr
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.json
 
 Package: com.blatant.fltr
 Version: 1.0
@@ -670,17 +670,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.fltr_1.0_iphoneos-arm.deb
-Size: 17740
-MD5sum: 634a19feaa7955852ebcf71f0d54d6ff
-SHA1: 76ba4fca665efbc46a6f54f64ab36ccdd20f08a3
-SHA256: 3b5487d1e9609f5aa6beaa3a7e053f75b4fa0616c165222cd651a52ea82d42cd
+Size: 17748
+MD5sum: 410fc38e34dbfadeaef939132ef51f62
+SHA1: 5dcdd475316dcf5ad1f9c8ccb8a7b88b3c676d34
+SHA256: 6df9a532f515166d00677142f98a120d440305f295f746a96be3e4d2bc13836c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yx39qHJW/IMG-5416.jpg
 Name: fltr
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FLTR.json
 
 Package: com.blatant.freeyourmusic
 Version: 1.0
@@ -689,17 +689,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.freeyourmusic_1.0_iphoneos-arm64e.deb
-Size: 24280
-MD5sum: 1324b577e2d972928a9ed676fd23bb84
-SHA1: 077cb2a353ab7daa11cc1c0c1086956cea425889
-SHA256: 10f2ac245c55092dcfdf63a70886cddaf031535f50dcf400ec039cff47e594bf
+Size: 24218
+MD5sum: 89c049e2b9069fd97ccc4880e8f79a58
+SHA1: 914e689ca65141ccc05c678f85ed82444c86be37
+SHA256: 390b9c3480de8aa9525f184766eba9b0069580d702e298e99e866384db1fa0a3
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/RFFKRf47/IMG-5417.jpg
 Name: FreeYourMusic
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.json
 
 Package: com.blatant.freeyourmusic
 Version: 1.0
@@ -708,17 +708,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.freeyourmusic_1.0_iphoneos-arm64.deb
-Size: 24204
-MD5sum: 6ef640fae624c7e9f5341aa4e9fbd5f0
-SHA1: 15cbae5d0f38c6a6995d411da5ae1ae4d4cef59b
-SHA256: 5e8e7366cb45d642581f9d404d8ac32558418a3669359b2653f63cfbd325747f
+Size: 24200
+MD5sum: 8001c9e3c10011240d6287913d0cf014
+SHA1: a57dd6d47114cbb1d57f60daa86c41ef86bda004
+SHA256: 6f4917ace337e42a3583a214d90da793db935803a9d2cc40e28fc2738969067f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/RFFKRf47/IMG-5417.jpg
 Name: FreeYourMusic
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.json
 
 Package: com.blatant.freeyourmusic
 Version: 1.0
@@ -727,17 +727,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.freeyourmusic_1.0_iphoneos-arm.deb
-Size: 24246
-MD5sum: d2c9fce3f9cc910b6f00eef83246ac46
-SHA1: c0abb2a1548e55cfe070002306e5299f9a557a38
-SHA256: 67f65a7a6880b657869a1f5c542f00d5132425e3a5d2ba10321c3dd6e76e9257
+Size: 24274
+MD5sum: 8e8fc2b87867d18c136e81bf9dd758d4
+SHA1: 32da152a2d480ad4f690c96221c3f890d209b8c8
+SHA256: df6864125b6e09a1eb14c203b98d59ad6dbf1c0be0f5e045971c2b247a6a197f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/RFFKRf47/IMG-5417.jpg
 Name: FreeYourMusic
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FreeYourMusic.json
 
 Package: com.blatant.genie
 Version: 1.0
@@ -746,17 +746,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm64e.deb
-Size: 17812
-MD5sum: 95f66dbeba035ec20dc2b8a132670e4e
-SHA1: aeffffcb627884e6da7e422ff5135727e8e0689b
-SHA256: 6cf5fd69186c2a409ceb0186b3b7a780d64eaa25af2ee26051fc4366ba0e1572
+Size: 17754
+MD5sum: 8c755652e9c9eea5a6902199d38658be
+SHA1: 6e0bde8955a983d69e9cbb7acc3414715aec0466
+SHA256: d644793d1c3bb5cfdbf62b14b22514b4cac81725db88abb98b48efd186139014
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.json
 
 Package: com.blatant.genie
 Version: 1.0
@@ -765,17 +765,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm.deb
-Size: 17796
-MD5sum: b98a38224613f054117119264cfd9989
-SHA1: 0d2ee6597c28c3b3a9b887bab121c743efc0bf6a
-SHA256: 209a0c23e0c9660ecc3c33571ff1489c3ac46a6f304673ec1bb8ce005eac13e9
+Size: 17862
+MD5sum: 7218057910c1f9dcc13544d9108929ff
+SHA1: 0c3d94f74a61a3c0829d1523ed2a31e285b69b2b
+SHA256: f00949340abfedaea7bed3291f4642836305ee057c95e3ac3dce731ff13add1a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.json
 
 Package: com.blatant.genie
 Version: 1.0
@@ -785,16 +785,16 @@ Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm64.deb
 Size: 17914
-MD5sum: 564e4a74e975c0d86342bc31422dcc3d
-SHA1: 2310302758293b00de09a95471e59d3557343b8e
-SHA256: dcd465660e46040600270aab477dad7b24a53fff1ee168bb4dd479cb7e26b37b
+MD5sum: 9da8641d454df4b5680e1a888ac1e525
+SHA1: e0342e6dc99dbd9b9036a4e5061bdb6aa4982fc4
+SHA256: 7f62c55ca0520ced1bbcfa42634c07ea8e47c7101a12be82e618c267853ea173
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.json
 
 Package: com.blatant.genie
 Version: 1.1
@@ -803,17 +803,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.1_iphoneos-arm64.deb
-Size: 27762
-MD5sum: e0c779f3a1b12f8a5f64093404ee9360
-SHA1: d6ea149d835965cc88ca0b9b311b207d0fcd75ef
-SHA256: 53983f0c53224115359cfa4abff8c3b711a366d2f50aa694c46d254fccec6c88
+Size: 27698
+MD5sum: 55b6cc22043256968000d7dbf851b862
+SHA1: 321076c324dd331c00d1f17970b06cd92bd5c0db
+SHA256: ac32e4dc284182220693d89d12d87ba1cd1f80d58e4e1fe7e17868d083dde6fb
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.json
 
 Package: com.blatant.genie
 Version: 1.1
@@ -822,17 +822,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.1_iphoneos-arm64e.deb
-Size: 27534
-MD5sum: e3cfac8f6883652e7aeb4d82d16b577c
-SHA1: 656dc2747069d61c62b939caea4b1ee96db3ed5c
-SHA256: bc8e99f5eb8228f7d8a0c30fbe1aaa45f348c2aa8b8a1de8cbae93c852995c35
+Size: 27594
+MD5sum: 7cebcaa22501d231e74e0ee9786bf276
+SHA1: dde3b29b5d0421ffd47828fbda74e076de008c31
+SHA256: f63b5dc2f26497f9982f8ff2b0e52af5f4df1a110ced15cd95b51c9aaa8d764b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.json
 
 Package: com.blatant.genie
 Version: 1.1
@@ -841,17 +841,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.1_iphoneos-arm.deb
-Size: 27692
-MD5sum: ada44090868bd09e25fb5dbe900961f5
-SHA1: 12800d402675f76a1d8feb1e0cd2982b98a73bac
-SHA256: 4c0c219105ca20634aa1f2bcad2cd93952cb883842c88527082c76502da2f5f7
+Size: 27492
+MD5sum: 5714754142f007c183eb219a715fa353
+SHA1: 6adc0d2540913189b3e8a233ac89fa23db0028cc
+SHA256: 75344317b0cfe09f16133ba1da06f3fa2171d6ce6602f298690a4116c6c5bbc2
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.json
 
 Package: com.blatant.goodnotes6
 Version: 1.0
@@ -860,17 +860,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.goodnotes6_1.0_iphoneos-arm64.deb
-Size: 24638
-MD5sum: ef9602f0aca5c1e8b9d23955bd1b2b59
-SHA1: a23c9a2a19348b724e93bbf722e016b91f5620e3
-SHA256: 31b466c3216bce4d931ebc624f8cd5b85c0f737d55b7aa537bcde0948c7acfa4
+Size: 24490
+MD5sum: c2425bf3b4a4e07c4fc1f8528dae4bf1
+SHA1: 2026d63cf4e669b89d2c1f861602ddc674bce30b
+SHA256: 99e73045195bf62bef235603729a1a0123edec20565a77875ac4ff6e8beb7e0a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/3rzfkrFS/IMG-5419.jpg
 Name: Goodnotes6
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.json
 
 Package: com.blatant.goodnotes6
 Version: 1.0
@@ -879,17 +879,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.goodnotes6_1.0_iphoneos-arm.deb
-Size: 24462
-MD5sum: 048222705c03ef002ede543088696eeb
-SHA1: c81041259473f1098b5051b4a702f057073af561
-SHA256: d863d1833faf1f8ca32609dccee2525e146015e1fe4eaefa9103ce292c3fa226
+Size: 24484
+MD5sum: b0ae83392c8068fcf449ec65abaa6506
+SHA1: d95550eb2ce6cf340cdc8c789ac39c517f1d8dc0
+SHA256: 48f6cace39ff28a3f0f660965ce50150791986201ab34f28daf707fa8c428b6a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/3rzfkrFS/IMG-5419.jpg
 Name: Goodnotes6
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.json
 
 Package: com.blatant.goodnotes6
 Version: 1.0
@@ -898,17 +898,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.goodnotes6_1.0_iphoneos-arm64e.deb
-Size: 24396
-MD5sum: 72d10d8cc045c475c05be9bd91c0e18e
-SHA1: 927bdb3dd7ec89f8e0f30a4cfe39f638047a7572
-SHA256: 543ea7435fa0d8a822d34fc56742617ef977960265dbffc1fcd521631a6bb0f1
+Size: 24510
+MD5sum: f815870fa29fc1e05a9cd4a7522bd129
+SHA1: 5f874fac5a593da54fafb6370f13079741fab382
+SHA256: 69c6891f56269bffe6550478342ff800fe231b3f340554d0a586e0c9d9debbcc
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/3rzfkrFS/IMG-5419.jpg
 Name: Goodnotes6
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GoodNotes6.json
 
 Package: com.blatant.gowod
 Version: 1.0
@@ -917,17 +917,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.gowod_1.0_iphoneos-arm64e.deb
-Size: 21720
-MD5sum: c4939a7dc0cc85446e1720f935511b4e
-SHA1: acb1f70baa36f7cfcaeb4b4c64de23e5a652994e
-SHA256: a3f96595399c0d504de0091b4fe536c5423a22bc7f73d7a8b82608790c568546
+Size: 21684
+MD5sum: 09d190f7ec2d3f37ac0b02eb68f6439f
+SHA1: f0b82a02c8c3c484a42188133e1021255e574601
+SHA256: 6cfb86f3dde0159838f0e782e195c3cc6a1702fc9c725666350e64e8b65e2df0
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jqDkqnPn/IMG-5420.jpg
 Name: gowod
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.json
 
 Package: com.blatant.gowod
 Version: 1.0
@@ -936,17 +936,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.gowod_1.0_iphoneos-arm64.deb
-Size: 21802
-MD5sum: 3374b5b638375b0f73710e8972425a2e
-SHA1: 9207b496d0125be199f724c317f3f2678b3dbe9d
-SHA256: ac2cb4310348f2108300d6e187c0db8422dfc635aa8b2e73c96f68b1f9abd302
+Size: 21772
+MD5sum: d0e4ef6c182e3e443f236686bac10930
+SHA1: 43989384928f1203536fd14d1ba16ed8f4d8ed0d
+SHA256: 930b120ef95d6ce1ac61eda2cab1d6b45e8dad4209f00b94b03ccf178884d380
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jqDkqnPn/IMG-5420.jpg
 Name: gowod
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.json
 
 Package: com.blatant.gowod
 Version: 1.0
@@ -955,17 +955,74 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.gowod_1.0_iphoneos-arm.deb
-Size: 21712
-MD5sum: eabfdda51036ce7af8ec1ed3a5e8c689
-SHA1: fe28c4933641fafac24343ceab73ad2aada7f914
-SHA256: 8c5779a9dc905f110a36d94667082571f15858c5a580776b66234a37eaa7488c
+Size: 21706
+MD5sum: e3d1566636ec29247573dcaeb9009a47
+SHA1: 308e49f5b6395d99263b5e6e95dd936ccd1e8a52
+SHA256: f47d85dd410dcaaa20a00416ba168c81bac02f30c6df10bb68153dfb9fb5db91
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jqDkqnPn/IMG-5420.jpg
 Name: gowod
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Gowod.json
+
+Package: com.blatant.gymbros
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.gymbros_1.0_iphoneos-arm64e.deb
+Size: 26704
+MD5sum: c3a626bf441295bbf37f9d37e85bb4bc
+SHA1: 964a15c8194813527ac18491fab71c75fcae5e90
+SHA256: 1079b65c5fd88227f8b106cfad51016f3b7bfcb9329052f294cb10ab00844e74
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/jjmnJfqS/512x512bb.jpg
+Name: GymBros
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GymBros.json
+
+Package: com.blatant.gymbros
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.gymbros_1.0_iphoneos-arm64.deb
+Size: 26902
+MD5sum: 6f179c23ab9a58e8479e0207e4eca2ed
+SHA1: 40bc8f64b5a8fd5254284f5aeb86b314b2c30301
+SHA256: 627ff0535355fea7c7daf68d79ef12ce738ae90b34c9286b0635960151f312c5
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/jjmnJfqS/512x512bb.jpg
+Name: GymBros
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GymBros.json
+
+Package: com.blatant.gymbros
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.gymbros_1.0_iphoneos-arm.deb
+Size: 26806
+MD5sum: 6eec84930dbfb71fb29cc7ad946cc145
+SHA1: 0181b4e54762c5d48bada973f80fd4c9a38f73d9
+SHA256: f32cd8e763c67dff3f26a4a3599d0caf27419552adacda193bcdd2c9a835aa1f
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/jjmnJfqS/512x512bb.jpg
+Name: GymBros
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/GymBros.json
 
 Package: com.blatant.headway
 Version: 1.0
@@ -974,17 +1031,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm64.deb
-Size: 28548
-MD5sum: 4d725cd26829690588fe960f8981cfdb
-SHA1: b67bce239ffccb30964965006562111363848e33
-SHA256: 228ade0700c2382be41c25fae4f35c3b467e1c448ce12cb53261822b90af4fca
+Size: 28526
+MD5sum: e4e1cad6382e7dfaef9280205677b75e
+SHA1: b16e8949c25e0b676a21cf790b1d2984f28e939b
+SHA256: 03141c33812ebc4a601cbac9bdebf39c28c1b64ec19363a484e9713201dc393c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jCVftFNc/IMG-5421.jpg
 Name: Headway
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.json
 
 Package: com.blatant.headway
 Version: 1.0
@@ -994,16 +1051,16 @@ Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm.deb
 Size: 28438
-MD5sum: 53ed1bba99a1330b48066005d1f352a6
-SHA1: 2d2b980dc814d6b7815089f49485c9a3c78897f8
-SHA256: 70aa9752a80e76dc2a1d6fb054d03060c78920ce93e8acecede564a4ebdf5422
+MD5sum: 7e3163b27dcb537ac6eae42185062e76
+SHA1: 046cb7a45b31dc1c1252ebb1372c81ec52610481
+SHA256: fceefc35697583b82d46db9fbb9cd3630f9f87c45f8a5e1164f3ba5890c75c3a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jCVftFNc/IMG-5421.jpg
 Name: Headway
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.json
 
 Package: com.blatant.headway
 Version: 1.0
@@ -1012,17 +1069,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm64e.deb
-Size: 28538
-MD5sum: e1ee981d1630f97fffdc302f5f06a61b
-SHA1: e65293756f45d5a5b261d131d7cd213ac2a4ea76
-SHA256: 28d72b1b2cdd07d75dd2f3133fd51bbb599ab25d421eccfaf02f93b9185ad3be
+Size: 28518
+MD5sum: c85d87fed51ef7c61397bf26f5fb4a98
+SHA1: 6f928e2459b54a18778da5d5099176a43e0e18d3
+SHA256: 34b81fc4f26337562af104e59e5bc74c7d4faff765b86d1d95440e6be165bb58
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/jCVftFNc/IMG-5421.jpg
 Name: Headway
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Headway.json
 
 Package: com.blatant.homeworkouts
 Version: 1.0
@@ -1031,17 +1088,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.homeworkouts_1.0_iphoneos-arm.deb
-Size: 15746
-MD5sum: 9e76b34cfa4032fe27828e1b264dfde5
-SHA1: 203098445826aba3986622226f38f021a9ba734b
-SHA256: aeae3291b32a3be70c174c71eefbd3807166c6057021b8dfa1f98bba3693aa2b
+Size: 15586
+MD5sum: 70dcd75a2eb75a353a213f30b90e7eaf
+SHA1: 7b0eb04ed4b834a03e26cef85c302fb101773654
+SHA256: 722130f2be6be1c7b1a6a6f39da311c932ce2586f5cbf76c149675cc823ff5db
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8Ckt27T5/IMG-5422.jpg
 Name: HomeWorkouts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.json
 
 Package: com.blatant.homeworkouts
 Version: 1.0
@@ -1050,17 +1107,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.homeworkouts_1.0_iphoneos-arm64.deb
-Size: 15762
-MD5sum: 6077041deba1c6516dab9f8fcbf3a66a
-SHA1: ee4581b350c37058a0564e847c8f4fe6b66f4b9c
-SHA256: a9f248d914bccf59208a3db433508b8999bf792980a4917ed9efdc29615ee238
+Size: 15710
+MD5sum: bdf70641720517870cb51dd7b9745cbd
+SHA1: 8cac11c49715b93c2f249fdaa52cd6fb1e95024c
+SHA256: 91db8f35223e9208d83376562b7e110987924cbc4e4d7a23a42df2c667bd6d5d
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8Ckt27T5/IMG-5422.jpg
 Name: HomeWorkouts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.json
 
 Package: com.blatant.homeworkouts
 Version: 1.0
@@ -1069,17 +1126,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.homeworkouts_1.0_iphoneos-arm64e.deb
-Size: 15692
-MD5sum: 70568d68785e63b6325fa5f81013724f
-SHA1: 2aee47d5ee1c3c67f8c5902e58ea2364c78c19d4
-SHA256: 31626352ed27520edf98d1b3e7bf97f57040cf6de03b0949d7a4d9a7e29fc625
+Size: 15720
+MD5sum: aaf3dc6eb80cad5ddbfb1cc4eaa0bd8e
+SHA1: 8b4ce3ed8affc47189a6c0f9fb40e2e26cbeff52
+SHA256: 7294ad0c211d69afe8d8f0bb8887f92202c97015a0c1641ef07d5dcee80029fb
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/8Ckt27T5/IMG-5422.jpg
 Name: HomeWorkouts
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HomeWorkout.json
 
 Package: com.blatant.iosprogramming
 Version: 1.0
@@ -1088,17 +1145,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.iosprogramming_1.0_iphoneos-arm.deb
-Size: 16622
-MD5sum: aa87792f75d2d97829fc9865710d9456
-SHA1: 2c00743d4e42e388c615ce8c1ac2148c61762a43
-SHA256: 7c8b65cf7b7e5b0bd8a1c412b8df166ff5ab5787f1e38006161c4eadb7e49d26
+Size: 16582
+MD5sum: 453fd00b143b7ecfba34fb1168a7f632
+SHA1: 0a2cf6d01b37b568bc059f198ec9d093f3335315
+SHA256: 113c99e1a5a484c9a719af6db3b3b5876a415d47016833ae796c60b65972a399
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/bwh6R6M1/IMG-5423.jpg
 Name: iOS-Programming
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.json
 
 Package: com.blatant.iosprogramming
 Version: 1.0
@@ -1107,17 +1164,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.iosprogramming_1.0_iphoneos-arm64e.deb
-Size: 16572
-MD5sum: c5d0a596795b7be1680e9da7ed7745e5
-SHA1: 253223dac74bbfc51b16dc2283353254f795a6b6
-SHA256: 28d745904e819ca57934e4d24220344060012e7fda16d971be87fa7908928592
+Size: 16658
+MD5sum: e8a598690cc75b99a2f5900de487f2cf
+SHA1: 252531f1042bfebdb0a6ca7a13346a3115617e3b
+SHA256: 389860f29a1832431f7e0d26e05c17b94ecfd747fa4bb01b90ec7fe181dd43bd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/bwh6R6M1/IMG-5423.jpg
 Name: iOS-Programming
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.json
 
 Package: com.blatant.iosprogramming
 Version: 1.0
@@ -1126,17 +1183,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.iosprogramming_1.0_iphoneos-arm64.deb
-Size: 16658
-MD5sum: c1851c8520fa10f64e11c6097258c6e4
-SHA1: 9aa7c4d1212cb904a0f675d01aff6ab6f616c83c
-SHA256: 831d8b76db593da17869029352531738c683a3d4faf7666a2859c9c959262cab
+Size: 16688
+MD5sum: 54339b61f6133ad1703732d478bffbbe
+SHA1: 45acf52e978fb3c35a6a29ff83a471c659dc4b68
+SHA256: e934555ee3f1efc6b3b29a8dd08db2b4a37b41927872940123fa5f1f17e5db29
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/bwh6R6M1/IMG-5423.jpg
 Name: iOS-Programming
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.json
 
 Package: com.blatant.lifesum
 Version: 1.0
@@ -1145,17 +1202,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm64e.deb
-Size: 15474
-MD5sum: f6bf21630aede92e2f7fee14c2a7d363
-SHA1: 63f4ce2ab235162d849b08ecb7d5978fbb1a857b
-SHA256: 6b7bcdb77d2e414c28e2ba9cad8258f419531d0c78c79ad5fff3272060f7ecfb
+Size: 15410
+MD5sum: 0b0432398f8a5b659d6e6ab51319780c
+SHA1: ec487cdb6c50b3bd873eefd6094eca4693ee8fd0
+SHA256: b66e0ee95d3d7cc1d5eab19f561d13544f996c6e8e83ca37bb29ad65146aa734
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
 Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
 
 Package: com.blatant.lifesum
 Version: 1.0
@@ -1164,17 +1221,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm.deb
-Size: 15570
-MD5sum: c5e7f974ae863897bbfb096f55ee509a
-SHA1: 7cdb4a057050c770c74d61a06dfd4e283e29e9d0
-SHA256: bb249844c0b9ad6d4432d2c6c2240240bd12bcde386a04d735d80b4523114441
+Size: 15478
+MD5sum: 7bd58887eebb64670c99aff424c81b19
+SHA1: 530f1ddd2cccf66de585f05085b683a21760a5f7
+SHA256: ce1a1ae3682d09409e20c9c6f3f0cff183bf1af8501cff876e47e0c47a21d380
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
 Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
 
 Package: com.blatant.lifesum
 Version: 1.0
@@ -1183,17 +1240,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm64.deb
-Size: 15482
-MD5sum: 809ab42ba3d0d33bf39b351effa0bd29
-SHA1: 82a2ccd58b7948c01cbd5fcc7d94c97b4bcdee78
-SHA256: 21bb9df08c2410333abd07ad5c55f200a947423d0b10b337de4558b8a827721a
+Size: 15552
+MD5sum: 2db1b15645f14f8927e1532a84a17485
+SHA1: a70d943dcdee5e28f5440f189a3cd28540928f72
+SHA256: 915acca7d2b4bac8fa23c2c8b3e8659748e690c6ad111fdefbb46ed1775a591c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
 Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
 
 Package: com.blatant.m3u8
 Version: 1.0
@@ -1202,17 +1259,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.m3u8_1.0_iphoneos-arm.deb
-Size: 15694
-MD5sum: 97943cbb5c175b2195991b8dd4632e2a
-SHA1: 324b5642bae21bc355a69323c732b1767ab91b79
-SHA256: 35670f66a23872e7157e52a99ecd39b2ddbaf86cbefb5fd79995eed296c3b88a
+Size: 15676
+MD5sum: 41b06509900c46a7a4872a68f3c90aa5
+SHA1: 8b379c5dc87a8fb3f42b4d690412026d4bfd40f1
+SHA256: b36273f9fc4c08361bfae499025732a772bf4d79fe24b766f1a3567af132b447
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/zBVpf4bY/IMG-5425.jpg
 Name: M3U8 Mpjex
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.json
 
 Package: com.blatant.m3u8
 Version: 1.0
@@ -1221,17 +1278,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.m3u8_1.0_iphoneos-arm64e.deb
-Size: 15622
-MD5sum: 3f5e1908547f18e95be061a0bf0f6692
-SHA1: fb613f9592c046e16a9ca89e6872d92bf66988e3
-SHA256: 7e93c7eb5b3ce7fba5846cce796f3cc7904b0aa4863a1aefef4fc25f88d949fc
+Size: 15666
+MD5sum: 0031ccea2ebc73fc34e0ffa363ec07c7
+SHA1: 4143be0379850590172692315d3595731edef59a
+SHA256: d1a5bcb58c16dd4b8059c6009129e6c48e0b9d4d56b72d48120547f456177391
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/zBVpf4bY/IMG-5425.jpg
 Name: M3U8 Mpjex
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.json
 
 Package: com.blatant.m3u8
 Version: 1.0
@@ -1240,17 +1297,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.m3u8_1.0_iphoneos-arm64.deb
-Size: 15660
-MD5sum: 6923c11cc750691bdcb829a248893c54
-SHA1: bae01f0ce8ee9c6e101fb7d9c5a60350b2982625
-SHA256: 339c05eab90abb2d581e9dc7c2e60e4469fde407bd9e8942bd7fd58b882eada1
+Size: 15704
+MD5sum: 305e9aa3fb552104915522fd13cc52a5
+SHA1: e0bbd32a5e64fce763fbb8f98adfe0bcda89a678
+SHA256: bc07958210ab4bd23afb506b41fa486f63d502d06963c2f902d8ceb45fc691ac
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/zBVpf4bY/IMG-5425.jpg
 Name: M3U8 Mpjex
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/M3U8-Mpjex.json
 
 Package: com.blatant.maplereadcx
 Version: 1.0
@@ -1259,17 +1316,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.maplereadcx_1.0_iphoneos-arm64e.deb
-Size: 15532
-MD5sum: ccb3ae15af322ccd6eb9016c65e5c076
-SHA1: e6a23b42999f70a0a58b219b0895e5db691bcdcb
-SHA256: 5e46742354fa7638f8c63b04147413e74a3b0d5fd2aaf2841a66c7702f6951b6
+Size: 15652
+MD5sum: abda27e397243219daaf94ac33e6916b
+SHA1: b4c5cb68a6ff5aa4c2d54a056ee112cb9c6247a1
+SHA256: 447aa448b5bfd9bdf4ae962c72bbb50ff570d624bef8c3a24816c93c8fb8d914
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/WzZnGrw9/IMG-5429.jpg
 Name: MapleReadCX
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.json
 
 Package: com.blatant.maplereadcx
 Version: 1.0
@@ -1279,16 +1336,16 @@ Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.maplereadcx_1.0_iphoneos-arm.deb
 Size: 15596
-MD5sum: ac7460097d5e4086e9cfdd6022c746c2
-SHA1: c7290c42806b3b79fff7c1090d05cc12e3c28c09
-SHA256: 698a8f6c32a88f798b635f9828ab0bfa752bd4185588bf29072117a722a79f1e
+MD5sum: 236f1524dbfc1ff60aa8c30bc81dea00
+SHA1: 4617b96b6fbd9ef875c40b6fdf09a2a11a135652
+SHA256: f930f22f5ed98c3d2a9c25b6abc47b48f4a862b99ffaf1c0c4fb80567be40012
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/WzZnGrw9/IMG-5429.jpg
 Name: MapleReadCX
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.json
 
 Package: com.blatant.maplereadcx
 Version: 1.0
@@ -1297,17 +1354,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.maplereadcx_1.0_iphoneos-arm64.deb
-Size: 15688
-MD5sum: 4fee7943990a227f133ebc8b23031702
-SHA1: 636fd44c84ca1750e29cc4e0df8175f3467c6595
-SHA256: 13b9a1508fc76a316265dd2908da953cd29a3468bceb15bfaae4661aed65af3e
+Size: 15728
+MD5sum: 2394f76ec1eb2f3864b27c02a8fc437c
+SHA1: 4305562dd1dd8aa4f3f06c069d7237ac9b8a41cf
+SHA256: 51881b5f3acd7d0ebc878089c74872d07ed88ba1a230c5a4cb30c465bdcc4bc2
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/WzZnGrw9/IMG-5429.jpg
 Name: MapleReadCX
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.json
 
 Package: com.blatant.mediaconverter
 Version: 1.0
@@ -1316,17 +1373,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.mediaconverter_1.0_iphoneos-arm.deb
-Size: 15618
-MD5sum: 88c8f9a24b9267176946f39f451a551a
-SHA1: 6572c87708c82b9097ebadcf791c7b45d4adace8
-SHA256: 0dbf06b6fdec62900b44bb42643251951ac6a849afb1494e59062c923819b21c
+Size: 15616
+MD5sum: 3e056fd5b5752884d599cbecfab2ff20
+SHA1: 6303e19580c14d3d444f7449498658bc26d79fa4
+SHA256: 15caff2c81579ef2c3ba11091e73bfddf8e6aefbe355512967063fe18e961c21
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/q7mj4p7G/IMG-5426.jpg
 Name: MediaConverter
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.json
 
 Package: com.blatant.mediaconverter
 Version: 1.0
@@ -1335,17 +1392,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.mediaconverter_1.0_iphoneos-arm64.deb
-Size: 15614
-MD5sum: 0448822688d0bccbd02a29b8bbebbca9
-SHA1: 8bfb076aa1d09f25b70d35ff8adbc1ef041086c0
-SHA256: 7c46fe95df890e839aa5f1f68e9d0241e5accef1e7b382ae9f08d7a2d17a37aa
+Size: 15722
+MD5sum: 8e913155d7e87a2749b8744742cf841e
+SHA1: cd3f528e922d6796869c5364934c84089fa7941d
+SHA256: 64723742a1f9e927d9f8682cad193377236dcd1871c3cf2579ecea1fcb511515
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/q7mj4p7G/IMG-5426.jpg
 Name: MediaConverter
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.json
 
 Package: com.blatant.mediaconverter
 Version: 1.0
@@ -1354,17 +1411,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.mediaconverter_1.0_iphoneos-arm64e.deb
-Size: 15606
-MD5sum: be4831494416884f3c0195244dc41bbe
-SHA1: f377b9b45998e8dca190bbc381d0c5f9b6a60257
-SHA256: 466d1b6b9127ca233d50f2228c70713eee7ca6dc3bd3689fc9b79a98eb05d9b0
+Size: 15608
+MD5sum: 9f61b664df9e67cd7721cc7e8b1c8f13
+SHA1: 490d671305572b55aff1911f6a461cbf78875985
+SHA256: 1a40e6aabee2875ec3eb8a312bc20413f529a7d799539320643e9e2dac8715b4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/q7mj4p7G/IMG-5426.jpg
 Name: MediaConverter
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.json
 
 Package: com.blatant.moonly
 Version: 1.0
@@ -1373,17 +1430,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.moonly_1.0_iphoneos-arm64.deb
-Size: 17636
-MD5sum: c45b34bf7328e5f3a749bde8e7b0ab84
-SHA1: b70a08c457323a81ad5af6a24eb0618e6c24d3ea
-SHA256: 198348038bebfcfba47e34c5b0c6a9e8a6f947a9e34172abc6964bd794b127c9
+Size: 17648
+MD5sum: 3afe1a9bfd52be223ccf2dae5fdb357f
+SHA1: 7950ede972a61957d13245fb2a9dfc25d3105c68
+SHA256: fa8ab1cca43d7e479cc46bfbb3391c33bc36b6a8105bfb4c42a54548024fcf7f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/dVj5N2Pp/IMG-5427.jpg
 Name: Moonly
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.json
 
 Package: com.blatant.moonly
 Version: 1.0
@@ -1392,17 +1449,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.moonly_1.0_iphoneos-arm64e.deb
-Size: 17534
-MD5sum: 633c108843aca32f4ff13949b99ce4d0
-SHA1: e6d8bd065a750164baeb15b67d9f5ef5cfc8dc5a
-SHA256: bb987cfb8f98a62e84f4d0cc2ee26a5632b50e40b702ffcbaf59821d3733faef
+Size: 17586
+MD5sum: c1b6c057d92635015119201ed6059f46
+SHA1: 454f7d96d6880ca086923dc8cf65086e8a914587
+SHA256: 5c3fa4061bd7c6f78798661cb1fa072364afbef57dc8d63721397d3f8915cb0a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/dVj5N2Pp/IMG-5427.jpg
 Name: Moonly
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.json
 
 Package: com.blatant.moonly
 Version: 1.0
@@ -1411,17 +1468,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.moonly_1.0_iphoneos-arm.deb
-Size: 17504
-MD5sum: 3271dbad28bee22657cb91b8efbbbda5
-SHA1: a13cfdc1a41e5bfcef4c2831a53f1eb1bcf8a168
-SHA256: a234eca779c361f9610cc94b2937cbc493af2416e5b493d6cbec806df999fefe
+Size: 17588
+MD5sum: 32b5021203ad345dfe8aba85ebdaf1c1
+SHA1: 7952d76d0fd10893fe3ee4ea421a6dcdb9b4e1ca
+SHA256: 07a7a151e6510d5bbbf102d778f8788123129c09b94fbddcb66b3c61d49de445
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/dVj5N2Pp/IMG-5427.jpg
 Name: Moonly
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Moonly.json
 
 Package: com.blatant.overcast
 Version: 1.0
@@ -1430,17 +1487,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overcast_1.0_iphoneos-arm64.deb
-Size: 15678
-MD5sum: 14a1252558ab7c69b1f0e61785830bd0
-SHA1: 629ac33718535cd1693c96f0b945fb2b443a7d9d
-SHA256: 456c615383714a4fac6af06af4b7e17da05bb04a240d66f42c33ec493ab9becf
+Size: 15764
+MD5sum: c34b2f4cdf20e975fbd9a22f0627f793
+SHA1: 51ebb04e6eb9b3b2b51dbc23acd9f796c12c665a
+SHA256: 6aa6a2f0afcba3984828600dde765073ed7a7d91ff2f60ae241d79552006b78f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MTN5ftVM/IMG-5430.jpg
 Name: Overcast
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.json
 
 Package: com.blatant.overcast
 Version: 1.0
@@ -1449,17 +1506,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overcast_1.0_iphoneos-arm.deb
-Size: 15646
-MD5sum: 45879b5a0ebf9e32401edb3c9ac44e5c
-SHA1: a7d4d27792e31e891a8f9893fb09bc9eeb6b580f
-SHA256: 14eaba60fa643ab735814d9a6cc8987905133e13535097933068833a8f221299
+Size: 15634
+MD5sum: bbc945c6574330a10529adbf5ff46849
+SHA1: d116284494979d561dd7ccc1ca4fb4b6422ccdfe
+SHA256: 46b9f0ff67ed8ffae41a2de7d8d0ed35104d29207d09ca7eba457cb646dbf467
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MTN5ftVM/IMG-5430.jpg
 Name: Overcast
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.json
 
 Package: com.blatant.overcast
 Version: 1.0
@@ -1468,17 +1525,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overcast_1.0_iphoneos-arm64e.deb
-Size: 15640
-MD5sum: e66b258522e002914424de98bc1a56ec
-SHA1: 1b62507fbafe6806f40400956676e50f4e2f00d8
-SHA256: ed6617467d3a67d1fe2ebb594b20501805ecf3b55e682c8a7cbf908e222a3f40
+Size: 15636
+MD5sum: fb8e6921b50fed2035971e22e0b353e1
+SHA1: afd6b10132b6752c3513983c9072f72497ade821
+SHA256: 0222dad170afc6585a82314ba00db1b333ab25e12a78ea8d0ad2987e571d4c64
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/MTN5ftVM/IMG-5430.jpg
 Name: Overcast
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OverCast.json
 
 Package: com.blatant.overdrop
 Version: 1.0
@@ -1487,17 +1544,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overdrop_1.0_iphoneos-arm64.deb
-Size: 18474
-MD5sum: 2c648934d3d5af741d47295d4151e7de
-SHA1: d5ab3e3d11368929fe1bc3e7c65204798cbef711
-SHA256: a39ed26e49e8b69c22c847982abf64f0a3e3f6df340eb8079ce826e6ddaa83a0
+Size: 18494
+MD5sum: b2a0f93348af918a34cfa9c173258ec9
+SHA1: 31e63f6690e51c6de242362f29d45eaa6a0285b5
+SHA256: b8891b91514692b739694848ca4dc023925cbe9269854a98028fac8d5b9e07c0
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/NG2pvqv1/IMG-5428.jpg
 Name: overdrop
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.json
 
 Package: com.blatant.overdrop
 Version: 1.0
@@ -1506,17 +1563,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overdrop_1.0_iphoneos-arm64e.deb
-Size: 18416
-MD5sum: c883d6201b4b3cb6e0323af6b02f77d1
-SHA1: b079013c454943537d69fb748954d504257cc242
-SHA256: c6e9f673d17865ff629747396be010334caf1d1de72bb50630936f09dde6141a
+Size: 18394
+MD5sum: 9ef10d3f34f8d3392c1ba4b2b87f81e6
+SHA1: b53fcf5dcb88724fe77c107ae9052d0347e8f67c
+SHA256: 7042e3228775ce62996c31aab9005e065b6c1f6ce2d406fe7fd4ae8263bc4f53
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/NG2pvqv1/IMG-5428.jpg
 Name: overdrop
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.json
 
 Package: com.blatant.overdrop
 Version: 1.0
@@ -1525,17 +1582,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.overdrop_1.0_iphoneos-arm.deb
-Size: 18306
-MD5sum: 85501983b6c2bdc61337b9f4246f39a4
-SHA1: eeb81cc9cff8da8428ca457947b1fe48222976b2
-SHA256: 9260878761f17322f43d88b53bdca91c7dc6c7bf629bedba3836b384de23a2fe
+Size: 18338
+MD5sum: c2ebcea67558ab7d48ea2c47f685a72c
+SHA1: a17c153afee7dd38c5af189df01a86ddc4faa83b
+SHA256: 81f58eb9c6b31f640c22f398ab1b9e78a05aec94112144ecb1c3556b2950bdf7
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/NG2pvqv1/IMG-5428.jpg
 Name: overdrop
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Overdrop.json
 
 Package: com.blatant.peakvisor
 Version: 1.0
@@ -1544,17 +1601,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm64.deb
-Size: 28340
-MD5sum: 95a97fde2363e3f834b824f34564b1ca
-SHA1: f30af0faeaf35ca15ddbd1407c39b4bfe90ddd0c
-SHA256: 6dbbb0101cba2f5618895e0b5484a5fedd4d99cfd68e5d491f711b89c48f5fda
+Size: 28380
+MD5sum: 9b3b9fb859061a760e7c5145e2b20834
+SHA1: 40f089ad373daf453e3a0c0e37d1800c5311cc08
+SHA256: af4d5cb69b59dc825c6440f21d7a2cce9528f3b8d2ae01a8631cf0750d1ec8de
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/1zzrWbKV/IMG-5431.jpg
 Name: PeakVisor
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.json
 
 Package: com.blatant.peakvisor
 Version: 1.0
@@ -1563,17 +1620,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm.deb
-Size: 28334
-MD5sum: 5173fc963d408238567eaa318c7954fe
-SHA1: 72ee4f9746a06159cfc3bc97b82bc342e188ba36
-SHA256: 225438464796dd8ce5f5fd1b2293953c65947057495576adc455e4d574ae1bb2
+Size: 28298
+MD5sum: 493eab9511beca4914ded9f4c8ee1494
+SHA1: bffc242192f30cd90048499c8809f0fedfd3aa51
+SHA256: 489e16048b1ab6fe4869bcb3b85eefee9e649f4ae4ceae465f07b59eec159e6e
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/1zzrWbKV/IMG-5431.jpg
 Name: PeakVisor
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.json
 
 Package: com.blatant.peakvisor
 Version: 1.0
@@ -1582,17 +1639,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm64e.deb
-Size: 28320
-MD5sum: 68a3f6f9b6cff8d101e69b550a2e1cc0
-SHA1: 16aad8fa2946c4fc6291334a0d729c938c8d549a
-SHA256: 062848ea5c6ba2d9ed09d08c073511cbc78195d0aa77400cab82d2b24aebf9df
+Size: 28292
+MD5sum: 4c523bd4d94a5318c0e817ca6f352435
+SHA1: 1d14fef24b422987ed56fee5ad85fe36505e6676
+SHA256: 5c7767123ffd35214e814010bcfff5d784d674a224ef6738609166755693d0c7
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/1zzrWbKV/IMG-5431.jpg
 Name: PeakVisor
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.json
 
 Package: com.blatant.photoeraser
 Version: 1.0
@@ -1601,17 +1658,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photoeraser_1.0_iphoneos-arm64.deb
-Size: 18892
-MD5sum: 37831c0ebb36c4bd25abe8a002d89029
-SHA1: 224aef0710582df9f88bae673f27b5ba8fe1298b
-SHA256: e868b7322d766179bc9aaa41de0855f4fd85cf6df8d75a1d335cada1d6690c73
+Size: 18810
+MD5sum: 453b35da754940e65ecb60edbdc904a6
+SHA1: 74eb0c26a6ad22d1eae6a74b08ac2d4994d41aeb
+SHA256: d412ff72d30935989eaf262221dd6c7906c9692506180ed3c0eec17a4204070c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYFjWmdx/IMG-5432.jpg
 Name: photoeraser
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.json
 
 Package: com.blatant.photoeraser
 Version: 1.0
@@ -1620,17 +1677,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photoeraser_1.0_iphoneos-arm64e.deb
-Size: 18838
-MD5sum: 5cdbe3b5e21ea958631e88908cbec45a
-SHA1: c9065f340b038b6beb47224ce25ccc9d750fecd9
-SHA256: aba37caa901abda735b527a66cb2a0c4405b584269aa3248dcbda880e0ab114d
+Size: 18808
+MD5sum: c4bff3f75092422ac5b0329f7545ccaf
+SHA1: 42d6b96cb300a44be127d791a50d33ec9cc5ebf4
+SHA256: 91e457c86ca20535947b02cc11dccb41abb5ebea385ce1908a3c59ad8fe9d907
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYFjWmdx/IMG-5432.jpg
 Name: photoeraser
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.json
 
 Package: com.blatant.photoeraser
 Version: 1.0
@@ -1639,17 +1696,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photoeraser_1.0_iphoneos-arm.deb
-Size: 18822
-MD5sum: e1a75d0c3e1b7193a6f07998161dcaee
-SHA1: a6b39762a8b284b0df2e020afd0e27aa9068f66e
-SHA256: 03b225a398dd503fab0633649a8c966596b3bd521d0355aabda518546ad6d75e
+Size: 18840
+MD5sum: cc73db55d667c539df38499c884f3ce8
+SHA1: 785dc81c68d4c97b841be0bd13cf00025f3a11ac
+SHA256: e54a9a93032ef8409850d02caab3d3fddb62a0f23b578333304fdc578b367795
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYFjWmdx/IMG-5432.jpg
 Name: photoeraser
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotoEraser.json
 
 Package: com.blatant.plantapp
 Version: 1.0
@@ -1658,17 +1715,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.plantapp_1.0_iphoneos-arm64.deb
-Size: 17664
-MD5sum: 6b8cdaf85b585870b5a4d0632656e4b2
-SHA1: 587d981b142302690c100377882b8e7f01c632a6
-SHA256: 4b5150feeaeb63ec55f2d50dd1b4b94f26e1d6972e003d8d25513ca6d1dbaccd
+Size: 17758
+MD5sum: 9065e52bb199e4ffba219979007b30c9
+SHA1: 9706e213a0f901cd8146a787024fc11488f8d206
+SHA256: f16d3e778ffdfd337a222252923270a4f041cc44fa919e02b2a442c229c86190
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYqnVQ72/IMG-5433.jpg
 Name: PlantApp
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.json
 
 Package: com.blatant.plantapp
 Version: 1.0
@@ -1677,17 +1734,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.plantapp_1.0_iphoneos-arm64e.deb
-Size: 17650
-MD5sum: 3feff7830918d62374660a09331eb445
-SHA1: 16db2b2541dfa3db9685e586f6e566498772801e
-SHA256: 4044b16dc098ffea077ded3af9c2f677235eba0585b08ef8d1370a689763a2ef
+Size: 17648
+MD5sum: 44155690c8daa58753c0666bfc47c27d
+SHA1: d5823fe96927ab0dacb61dbd14088b012df3e3d8
+SHA256: 456fb49d4be12c024f70e442554f03117b6d1582ed354e22ffe5b29f43e11881
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYqnVQ72/IMG-5433.jpg
 Name: PlantApp
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.json
 
 Package: com.blatant.plantapp
 Version: 1.0
@@ -1696,17 +1753,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.plantapp_1.0_iphoneos-arm.deb
-Size: 17654
-MD5sum: 4143836ec0f5c41ec24abf0b14d15ba9
-SHA1: 065662f549f10c49b1dcde1fa9c3fe595b2f0b51
-SHA256: 991807adfb06a010015b76291fce787612432a5896e9e0bae2e83003ad1c8985
+Size: 17576
+MD5sum: 8038807710507a7cd31b4b9828130db5
+SHA1: 6e28b2ab725fd94becc3d70cbe4508ee5eaed86b
+SHA256: e503c2c8c6fd00c974d964f735a0baa9c842217983675ad7e722961e3daf2142
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/yYqnVQ72/IMG-5433.jpg
 Name: PlantApp
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PlantApp.json
 
 Package: com.blatant.rashaqa
 Version: 1.0
@@ -1715,17 +1772,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.rashaqa_1.0_iphoneos-arm.deb
-Size: 18794
-MD5sum: d06e51f83cfeb198415ac8982c4e4312
-SHA1: 6d6ee76a5c781044e95b12d033a111186465e0a7
-SHA256: 10d2668a62a7a71b6020e48f680409e43d66cd0bc207c61b4bd1651c112f3597
+Size: 18804
+MD5sum: 49554d4440807c165196b66025080d54
+SHA1: 22e9a8dd78035e9185e62a514ffe4f9f55447add
+SHA256: 1d53c1e94528f55043f7bc5164508f4f2e40e24fe3eebc1f026754d0488a2760
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Ls0BGvyC/IMG-5435.jpg
 Name: Rashaqa
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.json
 
 Package: com.blatant.rashaqa
 Version: 1.0
@@ -1734,17 +1791,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.rashaqa_1.0_iphoneos-arm64e.deb
-Size: 18834
-MD5sum: 0fc256c3a4b31f810cf084fc855cd1d4
-SHA1: f5188e38fd0e80d1ec72a4ceb3976bf02b044523
-SHA256: 19360b9444e6c07f7ab7805c8483423bfc78e3cce02b29e7a604801f482e782a
+Size: 18824
+MD5sum: c3cbb80bca4f043e3ab84b5b178ad24b
+SHA1: f706fad27fa444cf326699c0242196cbb568d9f9
+SHA256: ef3569c6ba04dc322156cd4552b394f5182907a76a540f53515fa9c90d3bc7dd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Ls0BGvyC/IMG-5435.jpg
 Name: Rashaqa
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.json
 
 Package: com.blatant.rashaqa
 Version: 1.0
@@ -1753,17 +1810,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.rashaqa_1.0_iphoneos-arm64.deb
-Size: 18964
-MD5sum: 51890c934da2b4bcc64656dac1061f77
-SHA1: e531c81782ee94742fc494c67691a123b6662210
-SHA256: 4ef61b8661d9bc5d2d21fa019b6478046297304b00be9ea675f8197350d26669
+Size: 18882
+MD5sum: 240d20cbaf28632cab4c7af400d0ca4a
+SHA1: 5dc2ede227dffae69973ecca6846035c70b77512
+SHA256: e1a37e98105d4a0af5b813b1f0ae9e869bdfd781c320df2a58ef9298a201d73c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Ls0BGvyC/IMG-5435.jpg
 Name: Rashaqa
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Rashaqa.json
 
 Package: com.blatant.shred
 Version: 1.0
@@ -1772,17 +1829,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm64.deb
-Size: 16564
-MD5sum: 1b2086b486a6e18f27fc53f0b6bcd00a
-SHA1: a932b5a0e5d5e65cf0fa0db334538d08bb662a03
-SHA256: 1df0ea1514f11a6a09efc25e86650204a0f0fcc70335a0e8cf66e8bbeb7dd411
+Size: 16638
+MD5sum: 8b70f5ec78b6969fa83ab8c9125a3160
+SHA1: 029daba8d6947b2d5809c0fdc17e0601e848ea59
+SHA256: ad1a83b9c032f9f3580c9d3e9057c1b57200231984535c300d8fce23bf7ccc60
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
 
 Package: com.blatant.shred
 Version: 1.0
@@ -1791,17 +1848,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm64e.deb
-Size: 16538
-MD5sum: 428bed70b9e4f5438f394bd68e72bbea
-SHA1: 1922598ac100898021ea3fd2cb92abdf695189d9
-SHA256: c76abba12279b72813ea9f571b8429f883464ce5b89cd773ba91476d67ce6c9e
+Size: 16500
+MD5sum: 1f64ffef333f4df1f43599c80cb8ef4f
+SHA1: 67d4a9693f712848aa92afbd597d5d3a3ed37b89
+SHA256: 71418924193bb93429e2149a790e1906d8f460bcc7f11604b286c0b243069ec6
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
 
 Package: com.blatant.shred
 Version: 1.0
@@ -1810,17 +1867,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm.deb
-Size: 16530
-MD5sum: 6fde3c37497a5900770b25dbd08c80ce
-SHA1: 2db27517a3becab70b9cafc3614c2b1f286fa28d
-SHA256: 21a6e1ea0ff19b9cc6b26aa89d5b6be2c1bb6e902530d5619ee8d75d98e21d02
+Size: 16540
+MD5sum: 88c83150f7e1ffbbbb4a13412ec1f68b
+SHA1: e21eb79d84a8d2f09ace1c65049a0c1ee119c695
+SHA256: 4cd8079a27a83837a1499e6818922026006b709342929cee2f65862b55b6bd8a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
 
 Package: com.blatant.stemz
 Version: 1.0
@@ -1829,17 +1886,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stemz_1.0_iphoneos-arm64.deb
-Size: 24490
-MD5sum: a5e8dd568aab10a3cf3d18e7674b0cb4
-SHA1: a8388ed1e4c01051f4bc9969ffaa45c670d5d294
-SHA256: 102ba225193bc4127dee51abe7588cc83e92f38047f2e1b361e13bd3e123b72d
+Size: 24518
+MD5sum: 7e7461252c6ed0042756580e84724d0d
+SHA1: f4a4fe0ff301818f6a215e875e305cdf07e56ec5
+SHA256: 3230954910895167bfea99a74b782e1a25a92c2ab055f889ee732eb58aa46ca8
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/x15P39LS/IMG-5437.jpg
 Name: Stemz
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.json
 
 Package: com.blatant.stemz
 Version: 1.0
@@ -1848,17 +1905,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stemz_1.0_iphoneos-arm.deb
-Size: 24412
-MD5sum: f739e863952f302a7bdb72dfeeb4bbfe
-SHA1: f7662109863bc19e40544fda38297ee2ddbdf2f1
-SHA256: fcd0b845362959e6ae06b0ef472c5dc60b201ec5d675c305d17eafa8511dbb3b
+Size: 24422
+MD5sum: e6c9858bf3ebeb97e6183c82e192d790
+SHA1: bb86886187b9c024d18d41975410617aa92406f4
+SHA256: ad617500479b948ca7d611fe0b31f5e05d718620ddf5fb2d4dc0ebc8a79a51e2
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/x15P39LS/IMG-5437.jpg
 Name: Stemz
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.json
 
 Package: com.blatant.stemz
 Version: 1.0
@@ -1867,17 +1924,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stemz_1.0_iphoneos-arm64e.deb
-Size: 24458
-MD5sum: eec6f0fad968b96799c2071bc9857e71
-SHA1: db62cb9a007e673d9a287513b646b3f024a58160
-SHA256: 322fd334dfe82a6918432f2893e18fd191a7e6cafb7df816952da6af6fd71f24
+Size: 24478
+MD5sum: da037680ef18b502b318c3d6eb8be846
+SHA1: 672840bff7599a2b430f908805c93ef69f624c30
+SHA256: b4e29f44ddb1f130dc8215e8a58646f20da7c61dd658d1baf3885fc0d99fa0aa
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/x15P39LS/IMG-5437.jpg
 Name: Stemz
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.json
 
 Package: com.blatant.stresswatch
 Version: 1.0
@@ -1886,17 +1943,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stresswatch_1.0_iphoneos-arm.deb
-Size: 20798
-MD5sum: cd5987725ce81926d5d56ab099abd3c4
-SHA1: 9e699f509fee42273fd03691542a1771b4cfd22b
-SHA256: 8f52b247498e4c5ad9a6d0680d807060e9d20d8a170458cbea2f5455d65db132
+Size: 20782
+MD5sum: aa305b2e07df9c09727d701d658ad220
+SHA1: 46aaa7bdfb3bcaccfaafd308c9fda64f2ebb976c
+SHA256: 3b99c386c8f8a8503a167cfa2a876cfc5bb6f93f70770dacd214fa96e37b8115
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/50YqJvTx/IMG-5438.jpg
 Name: StressWatch
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.json
 
 Package: com.blatant.stresswatch
 Version: 1.0
@@ -1905,17 +1962,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stresswatch_1.0_iphoneos-arm64.deb
-Size: 20924
-MD5sum: f10b855ab2fc02e19a9a4c342f95c0b3
-SHA1: 3bb83fb7f57fe52032409b791208d43928072b7f
-SHA256: e9d5c1e7ff5a67f4743400debb357c771d29a67fe7117534c78c5e81c4ecdf28
+Size: 20902
+MD5sum: ad5df54b164d60f0ba3f10f6e2765a1a
+SHA1: f3228150174cc005f34b10fb86e94c487f4368b9
+SHA256: f4fb98dfe68440aed7c05357d3ea477af3dc3af891f2f82576e1058017889871
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/50YqJvTx/IMG-5438.jpg
 Name: StressWatch
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.json
 
 Package: com.blatant.stresswatch
 Version: 1.0
@@ -1924,17 +1981,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.stresswatch_1.0_iphoneos-arm64e.deb
-Size: 20810
-MD5sum: 3503666370c192d98bc483b266edac60
-SHA1: 39b7b662c30f809ea8767236dcb600a9d5f4cfd2
-SHA256: caaccb6a2bf0015f589226cbb45cbc3f7718f8e6f20c7ba17a273b69c36f2ff3
+Size: 20860
+MD5sum: f3630bc92746fa7d28919ab2272140be
+SHA1: f0a4b1fcf68c14a3e7177dc1433f8699ae090b99
+SHA256: d87a9f4fde3513e840c5e763a26ccb2d6cdd36d19df5fd74aa85bf245840e324
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/50YqJvTx/IMG-5438.jpg
 Name: StressWatch
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StressWatch.json
 
 Package: com.blatant.swipewipe
 Version: 1.0
@@ -1943,17 +2000,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64.deb
-Size: 22522
-MD5sum: 21485565565f614431d545e06143bd5d
-SHA1: 446b1620636d72f5ad994d2f6b8a9498071f5451
-SHA256: b6bcf2577b300aaf8f37485e224e9a8512b8a36bbb543b7094f29f3eadefedaf
+Size: 23622
+MD5sum: d2868ca21ee0180bb859f03e70515a73
+SHA1: ddae392d37dde3a47b1e1b6713b8eb0c2a506ed7
+SHA256: 918bd08a25a581c21ce5c37eee10cdafcf0bc62dc65b1d1fa2f1c11c7ee913f6
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
 Name: SwipeWipe
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.json
 
 Package: com.blatant.swipewipe
 Version: 1.0
@@ -1962,17 +2019,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm.deb
-Size: 22614
-MD5sum: a4864f6a0b53c36ca14e00187e2bcedb
-SHA1: 2381345c154b65303c7f32b9e6ca9f65f2de2413
-SHA256: fab3c02a5537dd3cd53ff7538a64a0c771ce87f72b4cac82746575ed29650047
+Size: 23612
+MD5sum: ee05437fd7b2e570b7195e2d23584507
+SHA1: 8aa7b0ddcb158d0793c52ee55698fd97ef188c01
+SHA256: 11e7e5e70d7b9d3a5e8cfd6a825640c805153f06603bfba6d04bbe5e0ff64c64
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
 Name: SwipeWipe
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.json
 
 Package: com.blatant.swipewipe
 Version: 1.0
@@ -1981,17 +2038,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64e.deb
-Size: 22634
-MD5sum: 896d8978f56b987fdaf9f9420333362e
-SHA1: 430c228d9171840b2179ec3f0754d85182620a9c
-SHA256: 100b4735c346a0e0cabe1992e76ee7fbfb21cda10e4232f48e10608ea10ec206
+Size: 23552
+MD5sum: 1c8ac8d3f21e335389dcfc3bace60826
+SHA1: f26bf0ccfb9bc2d326aa657e6fbccb0f22d1a9c4
+SHA256: b8605ca703a83749e41fb7306df94c5ba911381b5f5b9d83c547f0103ce9a15a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/qBh5v8DF/512x512bb.jpg
 Name: SwipeWipe
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SwipeWipe.json
 
 Package: com.blatant.thenx
 Version: 1.0
@@ -2000,17 +2057,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.thenx_1.0_iphoneos-arm64e.deb
-Size: 25374
-MD5sum: c79a5e006316c18e6918dfa90633c8ea
-SHA1: 405191cde1946237fc8ed5f140c97cc202db1e47
-SHA256: d45fe4697eb82f2b1cc9b91fd8e2a94cb790250c5d616fdedf52940fd1cc977d
+Size: 25442
+MD5sum: ff1c0d15ec3c90e2578cc8670bb87424
+SHA1: ee01a56574a36a3334d5e18225ce98c298d81f68
+SHA256: 97b860341cff0f919248875dbbf832de8c8970c7cb4292ae94d87610c93da12d
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
 Name: Thenx
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.json
 
 Package: com.blatant.thenx
 Version: 1.0
@@ -2019,17 +2076,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.thenx_1.0_iphoneos-arm64.deb
-Size: 25488
-MD5sum: 6caddafa1450d4aee0fbd187570dd2e0
-SHA1: bcf7dfbf2e0daeb9469951724b7f9d69fbe8a9ca
-SHA256: ba327b5bf9d2c38b41aee745588fe6e46f2e8dac1c1a70627cd6ee9e4dbe696f
+Size: 25480
+MD5sum: d4b4f2dc2d01c489aeabde8f76a2a73a
+SHA1: 4752784217b044b77be38547476e33e01141f743
+SHA256: 4fe3f8e123b55e61ca2dfe80d5b20db89cf567b74f080bc8b178a2130f0eaa20
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
 Name: Thenx
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.json
 
 Package: com.blatant.thenx
 Version: 1.0
@@ -2038,17 +2095,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.thenx_1.0_iphoneos-arm.deb
-Size: 25398
-MD5sum: 898ec3908821fd563499570ad85a029e
-SHA1: ae8273eb347ad4a600ce36146553383f7a56b35f
-SHA256: 0d4853efd06a68eb0d6d6a87e0340e2e20db22a3ae8e7ea9870fb1e6cc6bffb9
+Size: 25420
+MD5sum: 60889f719a02f310ebe8855f7141b2f8
+SHA1: 5bd2ced14eeec7faa109ed97b03e129953acb99a
+SHA256: a4246279511b8d62c1da88d9284e5acf5bb9f57f4db2975ca48e8d7b40bd508a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
 Name: Thenx
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.json
 
 Package: com.blatant.ticktick
 Version: 1.0
@@ -2057,17 +2114,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.ticktick_1.0_iphoneos-arm.deb
-Size: 16410
-MD5sum: 18d523fa04d9f009f2771d7db006c957
-SHA1: a8f3d21b9323210f713e216773b28f477556b20e
-SHA256: 13e61f810fefaeb55b70b637bb3bf26e4d4f704eb4e22cb4696518ceea0e6383
+Size: 16372
+MD5sum: b88c6d8d3d7cc80c7107891013e391d4
+SHA1: 924d7d4d4acc407b2a268b3c7d274c48dd5cf7b9
+SHA256: f7da07f5948357d71bdd1d589583e0006b1183d729d71febf8824cc1eb38151e
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/GtvF8RbV/IMG-5440.jpg
 Name: Ticktick
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.json
 
 Package: com.blatant.ticktick
 Version: 1.0
@@ -2076,17 +2133,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.ticktick_1.0_iphoneos-arm64.deb
-Size: 16510
-MD5sum: ad3c9951eff5afe30c777be6d0611178
-SHA1: f447afccca105d61afbdce854a87d1620c80a1b3
-SHA256: f222b8b61f4f5e29cecd6afcf40a9323e6478109a6a77b51e886f407fc77bad9
+Size: 16488
+MD5sum: 0ef75e0de9aa1f2774c7e5667cf2f5aa
+SHA1: 5c08d9fba94988a9db4956966fc341faeb2af38a
+SHA256: ac4566fde93e3c09c590eb40ae27420eeb68128dfdb9bda599e082f3005cb014
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/GtvF8RbV/IMG-5440.jpg
 Name: Ticktick
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.json
 
 Package: com.blatant.ticktick
 Version: 1.0
@@ -2095,17 +2152,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.ticktick_1.0_iphoneos-arm64e.deb
-Size: 16412
-MD5sum: 397ecb3d82f1845e28cc76de9082cc7b
-SHA1: 81ffb615ed23c408e868636cfb2078660cc8d85c
-SHA256: 641c25019b89732d21d7468ccdd915da0a8dc3b1e3d9fef522b2575894a4cd45
+Size: 16418
+MD5sum: e071af959d65c3f7cecbd6e4208034f5
+SHA1: f242bdd7b416d96198837ea422a08b3bffd9d111
+SHA256: bcd404b1ce17db4cea212ed70be59708a7ab65744af4a22a30ef034914d6e989
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/GtvF8RbV/IMG-5440.jpg
 Name: Ticktick
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TickTick.json
 
 Package: com.blatant.toolbox
 Version: 1.0
@@ -2114,17 +2171,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.toolbox_1.0_iphoneos-arm64e.deb
-Size: 16244
-MD5sum: bd041dbd0937d8b30c082f681486a41c
-SHA1: d330a57b902300a467db55c9f1d6cfbde14395d2
-SHA256: 5eb1914da5da125ac713efd4e6c8745b1f979722feee2b774a634d7e8c5c62a4
+Size: 16368
+MD5sum: b5f50bb0ff7329699aed040a26fb7e5a
+SHA1: 18199cc520f055a0e9ab1a27ab9af1d9134f66a4
+SHA256: 28ada135c55f96cc249b0d35e8d10b835b3c4907ffb0dd3dfccf8c1bab344ba9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqfNttnm/IMG-5441.jpg
 Name: toolbox
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.json
 
 Package: com.blatant.toolbox
 Version: 1.0
@@ -2133,17 +2190,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.toolbox_1.0_iphoneos-arm64.deb
-Size: 16282
-MD5sum: 028cf558bc39b59562a7d4298705c61b
-SHA1: c38a98c26c892a25137b38254a4d48915b6c825d
-SHA256: 6acc7139219dcf0c673c66fc153fd2a6c587b58fb6ce1dd05b40b1c9d587c495
+Size: 16258
+MD5sum: 4c4e0002336d9d165a039c499bf15fb1
+SHA1: a3aca53e5a8db1f35b3bb721cc6fbbf0045c7c89
+SHA256: 0043ee8339215ace1c115ddaa34cd069eeecfb54c013bf4ad8073b6cdb6d42da
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqfNttnm/IMG-5441.jpg
 Name: toolbox
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.json
 
 Package: com.blatant.toolbox
 Version: 1.0
@@ -2152,17 +2209,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.toolbox_1.0_iphoneos-arm.deb
-Size: 16296
-MD5sum: c2683f313cde8fb58ba71b0a915b33a2
-SHA1: 8507d3c611f321475afc4ccd5c908a21dcf06591
-SHA256: 0dd3332095c76efd3f7c6fed967bb24e7818b67dbf504366ff0e126f5cf9471c
+Size: 16254
+MD5sum: dcca755de59ceb5f458811850b452370
+SHA1: 85eef7041b00d0f59fd9a92eae82b348dfeb1fee
+SHA256: 856e9b3a910186288edcf54ea30aae3e68bbde1340cbca163e53bce703051235
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/YqfNttnm/IMG-5441.jpg
 Name: toolbox
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/ToolBoxByPaperclip.json
 
 Package: com.blatant.umbravpn
 Version: 1.0
@@ -2171,17 +2228,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.umbravpn_1.0_iphoneos-arm64.deb
-Size: 17910
-MD5sum: bed720817750ff52d896d49a0b6e04bf
-SHA1: d175fc88b8cb3752e67abc94bbd12dc02fc6a032
-SHA256: fc766577f72582b0e33149f1472b3d8ca46b3ec1c637f31b2b82c5352c16cff6
+Size: 17906
+MD5sum: 628b9cb9bb68c36ece2112bb88b54431
+SHA1: fd7d598fc3775c75eb24f5a0f772de66a3dc9864
+SHA256: ce80a900dfc5a4899d0f6d5cc18060b3eaf74a9e0cd7aeb97b3560d4c7c57ded
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/02qdgzfs/IMG-5442.jpg
 Name: UmbraVpn
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.json
 
 Package: com.blatant.umbravpn
 Version: 1.0
@@ -2190,17 +2247,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.umbravpn_1.0_iphoneos-arm64e.deb
-Size: 17852
-MD5sum: 8c554055d5dcccc8790549f23b657bd7
-SHA1: 680ac4ece686e997f7e7429cf9331210d6d4b478
-SHA256: d93fa78d558be5fdd8c3dbbb226ff493a3b6b22c5d0f6eb27d72aaa003a57aa3
+Size: 17850
+MD5sum: 0be24f32669dd33648c3cbefb5654409
+SHA1: 97604add320903be2fbb5c143196ddd029276968
+SHA256: a31dca227caee79a424faf56e846de8773f18a8971a4625d42e4db5e0604b6a4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/02qdgzfs/IMG-5442.jpg
 Name: UmbraVpn
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.json
 
 Package: com.blatant.umbravpn
 Version: 1.0
@@ -2209,17 +2266,17 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.umbravpn_1.0_iphoneos-arm.deb
-Size: 17860
-MD5sum: c7e64507534842930a8aebeddadadd5f
-SHA1: f415cca043c41d23f5aee96c5a73411dd38262e2
-SHA256: c3f7128e2b01f5f1fa2cf670075fc1af56a0c738caad54a78b9c905a1c9b3f0c
+Size: 17834
+MD5sum: b8d4d539cfaf1eaf158e126de798074e
+SHA1: 60f26bcddbc38b2579c3d63b971831c8f1a6884f
+SHA256: 375f69c10c14daa75ac8ce8a0e955193740210f490044f7db4866d069c68ccf9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/02qdgzfs/IMG-5442.jpg
 Name: UmbraVpn
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.json
 
 Package: com.blatant.waterminder
 Version: 1.0
@@ -2228,17 +2285,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm64e.deb
-Size: 28426
-MD5sum: 5bf07f1bb46e78b64cf9dead9cd9129e
-SHA1: 8ddce4a2163176e65d78baf077ca90916f818aa3
-SHA256: de7769b158b4150ad1e28f3d6536f780dfac71c131a250ac09605d71bedf9f92
+Size: 28404
+MD5sum: 4cdfff5051c09461db7218114cb329f5
+SHA1: 5027ce9b02aff47b237f3969a9a7ad9b679c2415
+SHA256: c9fc2f33ce19c1a36a1c0cd442fe0bb81f8db88b0ab090baf99ab680955e3d6c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/xdTQgr1z/512x512bb.jpg
 Name: waterminder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.json
 
 Package: com.blatant.waterminder
 Version: 1.0
@@ -2247,17 +2304,17 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm64.deb
-Size: 28490
-MD5sum: 96e2605a09a23b8e86aada5e05de67c9
-SHA1: c02cbd80c83eebcb210f2050ad4459e862bda67b
-SHA256: 873659ddcc45e887d0364d16b015b9a72dd5e6738dcdd4f15ce554c7ccb1a9a4
+Size: 28526
+MD5sum: 5e8ca507ab2fede9d712e75a079108a2
+SHA1: 4b39e0fdd7dbe5badf1a6df167755e9774e396e4
+SHA256: 99e5d4678fed5393bc5f9e035b921a463241e978f79bfa428515f0c5f6fb1cf7
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/xdTQgr1z/512x512bb.jpg
 Name: waterminder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.json
 
 Package: com.blatant.waterminder
 Version: 1.0
@@ -2266,72 +2323,72 @@ Maintainer: blatant
 Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm.deb
-Size: 28370
-MD5sum: 51cfc1dd3856b8fb264011ea97adb8a0
-SHA1: f1f1e9606e0349e2bd394faec157de41153aa51c
-SHA256: 6a7f74489ff88a8b11d705f1b134c890f2e9fe77b23c0ad5353b9dc97fdaa966
+Size: 28396
+MD5sum: 8ae9e618761928906c7bdfaa4ccb5b4d
+SHA1: 0a62897e96072bcb99baaa7d37a33e9efcfefafb
+SHA256: 9c3695803398bb05127c94266310519081dea717d901b9b9b539b29d72005f01
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/xdTQgr1z/512x512bb.jpg
 Name: waterminder
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WaterMinder.json
 
 Package: com.blatant.wordotd
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.wordotd_1.0_iphoneos-arm64.deb
-Size: 18586
-MD5sum: ad8d14eb8e4b088264f2e3e2d3def9ec
-SHA1: a304c34a2359bd5aa2d22e80b2f4f40f208e28ae
-SHA256: 11b1d5f99383211c77ce7c14f105f21b60d12b0567810aca35f9a0fa10bed412
+Size: 27640
+MD5sum: c8d908ce2ffd6df742f0429cb30fdcdf
+SHA1: 016d66a19cab7d48479e723d6ed36897af30990a
+SHA256: d27c34587390c69c4e1939684df0c330026cf98eaf34c03f5c78c3e8da02afb9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Qt2gdCZc/IMG-5443.jpg
 Name: WordOTD
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.json
 
 Package: com.blatant.wordotd
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.wordotd_1.0_iphoneos-arm64e.deb
-Size: 18494
-MD5sum: 6f8370f4ce2df564e3160d48573a96e8
-SHA1: ca27ceed7667c071778cf3662bb9e9df0681a68c
-SHA256: 087f41195f5ec1bdc97bec0bfc094065a0b8f9faaa898e000ae595383f2078af
+Size: 27362
+MD5sum: f7c9e80e0a150eeb784e05bf45be7b4b
+SHA1: a81bf56a29f9cfb52089a75f29787307de019916
+SHA256: a4ebf0f7b2e1aca339fd1148f9dbd3d7cb2173f4e2272918ccda88cbf9b4b459
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Qt2gdCZc/IMG-5443.jpg
 Name: WordOTD
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.json
 
 Package: com.blatant.wordotd
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.wordotd_1.0_iphoneos-arm.deb
-Size: 18438
-MD5sum: c8bfbd25cd0bbf7881297a3d2351e699
-SHA1: 6fae247caaa2d46b46f87a757bea8f6d46ca4df9
-SHA256: e58c01c17edcc74af1898d79f7ded09083f3a027480d32e789234f7116093577
+Size: 27468
+MD5sum: 8f33a8017488bc4ce1305ab695bb6875
+SHA1: 04dc4c6be1025b5ae357cbc6b13c1f5b1e94f3c2
+SHA256: f301ad5b11e05d4fa22a1fde20535994b46ab72674cf4bf828a1917627560110
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Qt2gdCZc/IMG-5443.jpg
 Name: WordOTD
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.html
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/WordOfTheDay.json
 
