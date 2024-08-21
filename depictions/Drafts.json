@@ -24,15 +24,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/arrow.png"
+                            "url": "https://i.postimg.cc/9QpD35Cd/IMG-5637.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/arrow.png"
+                            "url": "https://i.postimg.cc/SKxJkTxw/IMG-5638.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/emoji.png"
+                            "url": "https://i.postimg.cc/d0ND127D/IMG-5639.png"
                         }
                     ]
                 },
@@ -45,7 +45,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription",
+                    "markdown": "Unlock's In-App Subscription  \nClick Restore Purchases and restart the app.",
                     "useSpacing": true
                 },
                 {
