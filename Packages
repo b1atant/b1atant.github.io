@@ -746,10 +746,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm64e.deb
-Size: 17824
-MD5sum: 58c39ab6da461fe329e504bd045b0e54
-SHA1: 334858249f21871ad7c5267e1cd31d479d43d494
-SHA256: 8871dc4dcd9acbe096034ccf2ebcca5f8ed4d4d6992ef60b003dd418062415ee
+Size: 17812
+MD5sum: 95f66dbeba035ec20dc2b8a132670e4e
+SHA1: aeffffcb627884e6da7e422ff5135727e8e0689b
+SHA256: 6cf5fd69186c2a409ceb0186b3b7a780d64eaa25af2ee26051fc4366ba0e1572
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -765,10 +765,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm.deb
-Size: 17798
-MD5sum: 8561798e12166623e90633e49119043b
-SHA1: 1e51148beff4de9b414e654355dacd993cded7c4
-SHA256: d861dafee03dd28eff6df677869c2e1e406fa66a2c980262a09581c54c4e741e
+Size: 17796
+MD5sum: b98a38224613f054117119264cfd9989
+SHA1: 0d2ee6597c28c3b3a9b887bab121c743efc0bf6a
+SHA256: 209a0c23e0c9660ecc3c33571ff1489c3ac46a6f304673ec1bb8ce005eac13e9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -784,10 +784,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_1.0_iphoneos-arm64.deb
-Size: 17872
-MD5sum: 68e5e96e306b1bfc9a22f71e790f339d
-SHA1: 1ec93ee92e71010a3c9669e66151f3de18ca400e
-SHA256: 41a556256767bf7bb4aff3bd8acf5959d36604ebdb5a8f219c94390865591833
+Size: 17914
+MD5sum: 564e4a74e975c0d86342bc31422dcc3d
+SHA1: 2310302758293b00de09a95471e59d3557343b8e
+SHA256: dcd465660e46040600270aab477dad7b24a53fff1ee168bb4dd479cb7e26b37b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -795,6 +795,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie.html
+
+Package: com.blatant.genie
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_1.1_iphoneos-arm64.deb
+Size: 27762
+MD5sum: e0c779f3a1b12f8a5f64093404ee9360
+SHA1: d6ea149d835965cc88ca0b9b311b207d0fcd75ef
+SHA256: 53983f0c53224115359cfa4abff8c3b711a366d2f50aa694c46d254fccec6c88
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
+
+Package: com.blatant.genie
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_1.1_iphoneos-arm64e.deb
+Size: 27534
+MD5sum: e3cfac8f6883652e7aeb4d82d16b577c
+SHA1: 656dc2747069d61c62b939caea4b1ee96db3ed5c
+SHA256: bc8e99f5eb8228f7d8a0c30fbe1aaa45f348c2aa8b8a1de8cbae93c852995c35
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
+
+Package: com.blatant.genie
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_1.1_iphoneos-arm.deb
+Size: 27692
+MD5sum: ada44090868bd09e25fb5dbe900961f5
+SHA1: 12800d402675f76a1d8feb1e0cd2982b98a73bac
+SHA256: 4c0c219105ca20634aa1f2bcad2cd93952cb883842c88527082c76502da2f5f7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.html
 
 Package: com.blatant.goodnotes6
 Version: 1.0
