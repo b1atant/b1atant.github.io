@@ -2,6 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#66E1F3",
     "tabs": [
         {
             "class": "DepictionStackView",

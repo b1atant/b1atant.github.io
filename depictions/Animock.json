@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#8A8A8A",
+    "tintColor":"#787878",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -81,7 +81,7 @@
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0",
                     "useBoldText": true,
-                    "useBottomMargin": true
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
