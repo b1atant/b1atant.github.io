@@ -80,7 +80,8 @@
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0",
-                    "useBoldText": true
+                    "useBoldText": true,
+                    "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
