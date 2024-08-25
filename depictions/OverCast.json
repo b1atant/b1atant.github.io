@@ -13,7 +13,7 @@
                     "text": "Support Me",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#77DD77"
+                    "tintColor": "#FF9533"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -80,8 +80,7 @@
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.0",
-                    "useBoldText": true,
-                    "useBottomMargin": true
+                    "useBoldText": true
                 },
                 {
                     "class": "DepictionMarkdownView",

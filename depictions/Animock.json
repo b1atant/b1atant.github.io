@@ -13,7 +13,7 @@
                     "text": "Support Me",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#77DD77"
+                    "tintColor": "#787878"
                 },
                 {
                     "class": "DepictionSeparatorView"
