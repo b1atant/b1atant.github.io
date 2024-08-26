@@ -2335,6 +2335,63 @@ Icon: https://i.postimg.cc/02qdgzfs/IMG-5442.jpg
 Name: UmbraVpn
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/UmbraVPN.json
 
+Package: com.blatant.unzip
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.unzip_1.0_iphoneos-arm64.deb
+Size: 15772
+MD5sum: 1bcabf10ae0116e63db512144c765927
+SHA1: 5bfc915acc18d5d1532c7cc3866679a912b509ea
+SHA256: 929e772bf83e31a92692a3cebf4660b24dc1bb4d67db8c871527148395616733
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/Pr8jcZRG/IMG-5794.jpg
+Name: Unzip
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Unzip.json
+
+Package: com.blatant.unzip
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.unzip_1.0_iphoneos-arm64e.deb
+Size: 15726
+MD5sum: 48880e694af822cfb8bde66b2ac9a4f6
+SHA1: 9d18176dc9ab1fb5a34c1481946f2e6036124e18
+SHA256: 116145f3535933af460f075a4b4644158cbd39a1f9cf85449f7f737e9a5de50f
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/Pr8jcZRG/IMG-5794.jpg
+Name: Unzip
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Unzip.json
+
+Package: com.blatant.unzip
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.unzip_1.0_iphoneos-arm.deb
+Size: 15558
+MD5sum: ec7748c49f15849a7d519aa29c535c13
+SHA1: 6ef30a488600af486e5539bf87e542b0b85ad44f
+SHA256: 10ce9f9317245e2b18c7e38d6cc127a58a7770256eeb8c7bdc1b2013c514163b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/Pr8jcZRG/IMG-5794.jpg
+Name: Unzip
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Unzip.json
+
 Package: com.blatant.waterminder
 Version: 1.0
 Architecture: iphoneos-arm64e
