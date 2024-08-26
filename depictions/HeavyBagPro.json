@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#57ACF1",
+    "tintColor":"#DC143C",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#57ACF1"
+                    "tintColor": "#DC143C"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/c4F78gcz/IMG-5800.png"
+                            "url": "https://i.postimg.cc/C1WCGgjX/IMG-5808.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/rFVCmC5W/IMG-5801.png"
+                            "url": "https://i.postimg.cc/85FBf5rL/IMG-5809.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/HW49dP8d/IMG-5802.png"
+                            "url": "https://i.postimg.cc/0NX0Nmr8/IMG-5810.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Purchase",
+                    "markdown": "Unlock's In-App Subscription",
                     "useSpacing": true
                 },
                 {
