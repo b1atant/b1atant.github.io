@@ -1,3 +1,60 @@
+Package: com.blatant.adguard
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_1.0_iphoneos-arm64.deb
+Size: 21720
+MD5sum: 4a3663517e3d48451e6e869a711634d5
+SHA1: 8cfa41d0f371aae456e79b8ac70cf273e950e20f
+SHA256: 9fa2629b696fb1ed0a1cea8797a73e829da854425c3f3770201306266bc0497f
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard.json
+
+Package: com.blatant.adguard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_1.0_iphoneos-arm.deb
+Size: 21668
+MD5sum: 171c97d2f2c6da3fd62c4b9ee5e6de35
+SHA1: 86898a0ebf4cbcdb75c3732b15fe1f60297d5ab4
+SHA256: 6692883d07d0f708619b5e408560afd86b36022e0ce982133d6b27315cf40081
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard.json
+
+Package: com.blatant.adguard
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_1.0_iphoneos-arm64e.deb
+Size: 21672
+MD5sum: 7f29b4ca31ba09aa9f6cd377dae17fea
+SHA1: 84d2d8ad09e766569f5b863fd0acb8b028d8952b
+SHA256: 68581f5028de47100b7f412dc86d7c21b15cff38ddcbe1bb9aa00d58245ec8f2
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard.json
+
 Package: com.blatant.animock
 Version: 1.0
 Architecture: iphoneos-arm
