@@ -283,63 +283,6 @@ Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
-Package: com.blatant.callrrcorder
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm64.deb
-Size: 25266
-MD5sum: c3d3b7d333d13b8db41f089a4915c658
-SHA1: 0bce2d20a6fb8a81cfae9b4803619090de358fc7
-SHA256: 8565da1094473b8cd54b3c728cfd045a40c19b4a9dc4b4714c2ff810a9142282
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
-Name: CallRecorder By AppStun
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
-
-Package: com.blatant.callrrcorder
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm64e.deb
-Size: 25100
-MD5sum: 1f0df581a3b40fa5e1a894acad27a7ed
-SHA1: 4cb521578068a0c4a8e88b2612db0becf94ef3d8
-SHA256: 9d39b98298bd42b434b61e3ad10bd9e00862d6dbc08cbab1b7f6fcf401fe844b
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
-Name: CallRecorder By AppStun
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
-
-Package: com.blatant.callrrcorder
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm.deb
-Size: 25156
-MD5sum: f5dacfa375e9a19b0ce419eaa9ba6ff1
-SHA1: 9ae80c06b4ccdac394512dd0c9cb36c29104f234
-SHA256: e92b80387a7d09af571489df739d1bd35812530c781629e75f0c5a8f730c86b7
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
-Name: CallRecorder By AppStun
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
-
 Package: com.blatant.cmprocalc
 Version: 1.0
 Architecture: iphoneos-arm64
