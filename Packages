@@ -283,6 +283,63 @@ Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
+Package: com.blatant.callrrcorder
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm64.deb
+Size: 25266
+MD5sum: c3d3b7d333d13b8db41f089a4915c658
+SHA1: 0bce2d20a6fb8a81cfae9b4803619090de358fc7
+SHA256: 8565da1094473b8cd54b3c728cfd045a40c19b4a9dc4b4714c2ff810a9142282
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
+Name: CallRecorder By AppStun
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
+
+Package: com.blatant.callrrcorder
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm64e.deb
+Size: 25100
+MD5sum: 1f0df581a3b40fa5e1a894acad27a7ed
+SHA1: 4cb521578068a0c4a8e88b2612db0becf94ef3d8
+SHA256: 9d39b98298bd42b434b61e3ad10bd9e00862d6dbc08cbab1b7f6fcf401fe844b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
+Name: CallRecorder By AppStun
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
+
+Package: com.blatant.callrrcorder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.callrrcorder_1.0_iphoneos-arm.deb
+Size: 25156
+MD5sum: f5dacfa375e9a19b0ce419eaa9ba6ff1
+SHA1: 9ae80c06b4ccdac394512dd0c9cb36c29104f234
+SHA256: e92b80387a7d09af571489df739d1bd35812530c781629e75f0c5a8f730c86b7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pVFX0MDk/IMG-5819.jpg
+Name: CallRecorder By AppStun
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CallRecorder.json
+
 Package: com.blatant.cmprocalc
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1366,6 +1423,22 @@ Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
 Name: Lifesum
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
 
+Package: com.blatant.lingq
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mobile User
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lingq_0.0.1_iphoneos-arm.deb
+Size: 3566
+MD5sum: 31d9f0036c3e0348b889542498a8baa4
+SHA1: c1631369f5fbd85d9855de747e7bbcbfa6d1586c
+SHA256: dc833c48e66b79e745e27105ed0ac88d1abeac37c4d47caa00c4cbba01c8f6de
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Mobile User
+Name: LingQ
+
 Package: com.blatant.m3u8
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1536,6 +1609,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/q7mj4p7G/IMG-5426.jpg
 Name: MediaConverter
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MediaConverter.json
+
+Package: com.blatant.mimo
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mimo_1.0_iphoneos-arm64e.deb
+Size: 23050
+MD5sum: 9da46d9321839b5acc4ec38e9c1f1216
+SHA1: ff4d838658d2abd2fa714caf0a55d9dcc67bdf3a
+SHA256: 260192dffe28d329192631cc69e84d6aa62e0cfa23c29584e6c7361bd2b50325
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/P53MkmsM/IMG-5909.jpg
+Name: Mimo
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Mimo.json
+
+Package: com.blatant.mimo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mimo_1.0_iphoneos-arm.deb
+Size: 23044
+MD5sum: 537462f27ee4b158c10beadecb555691
+SHA1: 1aeb1c02a0d621d0264a409e6e8dbb619677f4a8
+SHA256: 8bba75599312d1027719220f788db33b1c2c10e07acb127ad7811ef7366e509a
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/P53MkmsM/IMG-5909.jpg
+Name: Mimo
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Mimo.json
+
+Package: com.blatant.mimo
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mimo_1.0_iphoneos-arm64.deb
+Size: 23106
+MD5sum: 3cda6d9928bfe2d4889a4d047bc9d08d
+SHA1: aabadd1f1ae71e3110663164e60338f9672c409e
+SHA256: e113d4322bc37cac4d25a827d2b0c669eef8e08db0e99cc351621f8dd7171e74
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/P53MkmsM/IMG-5909.jpg
+Name: Mimo
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Mimo.json
 
 Package: com.blatant.moonly
 Version: 1.0
