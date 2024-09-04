@@ -1145,16 +1145,16 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.heavybagpro_1.0_iphoneos-arm64e.deb
-Size: 25196
-MD5sum: 3c24a102b44646053125fb1e22ce716d
-SHA1: 6457e4a21b8d4bae320c4a2a40bd374a272cb213
-SHA256: 1457849e80035240728ea8ae7d9c5d20833e8bb971b4925b665fcd4ebf3825a0
+Size: 25232
+MD5sum: 992d2b79e28ba2db41526b4c066bbe68
+SHA1: f0e877ac0b04cadeab233be4717422b283a9ee65
+SHA256: e0fe6c3e9668619d6eedfccf1c437d846399f027b0395ef336efcb6a0c7ec3a5
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/d13NW5Pc/IMG-5804.jpg
-Name: HeavyBagPro
+Name: Boxing Training
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HeavyBagPro.json
 
 Package: com.blatant.heavybagpro
@@ -1164,16 +1164,16 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.heavybagpro_1.0_iphoneos-arm.deb
-Size: 25162
-MD5sum: 76e6060eae217328edd9ad0de0dfdabc
-SHA1: 9945d5b4d35a19c79bbfa216e9859cd83c27831a
-SHA256: a5aa2419aeeebcc062db705b689174d55138f9ccd8ade980cfd031a5f2fde343
+Size: 25222
+MD5sum: 4ffcbb0655840830954fa52c2b7bd94a
+SHA1: 379efb08fd3a170c9236ccfb877f3d4b449168ff
+SHA256: ee3f93860a716eb945b9d520e7631f889f0b93569a5901f4c2a8b4cf8614c16b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/d13NW5Pc/IMG-5804.jpg
-Name: HeavyBagPro
+Name: Boxing Training
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HeavyBagPro.json
 
 Package: com.blatant.heavybagpro
@@ -1183,16 +1183,16 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.heavybagpro_1.0_iphoneos-arm64.deb
-Size: 25300
-MD5sum: d2d0d8a6a940f6722ec1a230005008bb
-SHA1: 6b5a55d34dbfcd9118b7737fbcc7634276d70607
-SHA256: fc3872f73dd249166460dcd67238b1c43f264118b6e2ba0e4a501382a14cebd5
+Size: 25264
+MD5sum: a1ebfbca95d2ad73b12134690b32aa96
+SHA1: 79f71d4e4c5c0817a42e0cdf01abea084d421799
+SHA256: a23af7ae899253f57d2c80ccf0c4f1d193d9dc82340286e3202ef2b00750fadf
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/d13NW5Pc/IMG-5804.jpg
-Name: HeavyBagPro
+Name: Boxing Training
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HeavyBagPro.json
 
 Package: com.blatant.homeworkouts
