@@ -2050,6 +2050,63 @@ Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
 
+Package: com.blatant.soundlab
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm64e.deb
+Size: 32662
+MD5sum: 7aae7e1b3aa84018ca8f9e91739c3840
+SHA1: 5a1e6fda246d643f1cb5029648753d72672247e5
+SHA256: cf82fe83894fe1af6159fcb6fb7745329812ac83b0c1bf20ded396462d22fbe1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wjtqJrCf/IMG-5962.jpg
+Name: SoundLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SoundLab.json
+
+Package: com.blatant.soundlab
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm64.deb
+Size: 32884
+MD5sum: e800c4b59c007850b4437d41fc7a79dd
+SHA1: 6ebdba717041f2da171ccfcde069aefc03dec93c
+SHA256: dc8974407fb1fde7866da07a47b74de82277fa7d6b27c4cfce43610c5028ccfe
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wjtqJrCf/IMG-5962.jpg
+Name: SoundLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SoundLab.json
+
+Package: com.blatant.soundlab
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm.deb
+Size: 32634
+MD5sum: b30166fd689a421bd327df34b76f7c49
+SHA1: 538a1440bbdc8e3d8c739bf469ed83791ea648ce
+SHA256: 6ac0d71b5a4136f093e3517781fbc7e15af88de6bcce5cc15622ea7be490dffa
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wjtqJrCf/IMG-5962.jpg
+Name: SoundLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SoundLab.json
+
 Package: com.blatant.stemz
 Version: 1.0
 Architecture: iphoneos-arm64
