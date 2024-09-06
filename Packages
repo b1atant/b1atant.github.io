@@ -1309,6 +1309,63 @@ Icon: https://i.postimg.cc/bwh6R6M1/IMG-5423.jpg
 Name: iOS-Programming
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iOS-Programming.json
 
+Package: com.blatant.kegel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.kegel_1.0_iphoneos-arm.deb
+Size: 28208
+MD5sum: f7473f6b9c9d3716723d65fedf68134b
+SHA1: f232b83ca0385949aefa6270ff7693e293b3b017
+SHA256: 3bd81b1169e5525e7bd5f139ae71f44cc51e348d0b0fdff9d01d6a7cd8f06224
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XY1hN69Y/512x512bb.jpg
+Name: DrKegel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DrKegel.json
+
+Package: com.blatant.kegel
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.kegel_1.0_iphoneos-arm64e.deb
+Size: 28020
+MD5sum: ec91862988b6a1bd0a39aab62edda3cd
+SHA1: e3d6a0bc2285a286583c016677926f7ab28920ac
+SHA256: 010419739533c98209952ea188ea3c7138fdd860d2a8defb9d41206d7e73124f
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XY1hN69Y/512x512bb.jpg
+Name: DrKegel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DrKegel.json
+
+Package: com.blatant.kegel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.kegel_1.0_iphoneos-arm64.deb
+Size: 28038
+MD5sum: 9736f934ffe5fbb311b458ba5ee82f5a
+SHA1: 33107590c6b7deab9003fe9dfb7028fd240c857e
+SHA256: 49053c812bc134e733c09c7b4bac087f00ded439663c32492f7a70541700320e
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XY1hN69Y/512x512bb.jpg
+Name: DrKegel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DrKegel.json
+
 Package: com.blatant.lifesum
 Version: 1.0
 Architecture: iphoneos-arm64e
