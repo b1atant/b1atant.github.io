@@ -1715,13 +1715,13 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm.deb
-Size: 85436
-MD5sum: 2a78e1432aedfff0e1f53cf3027792af
-SHA1: 240cf85c636d9e29508bc2fb6e5aa35959231d6e
-SHA256: 20bb8bdeeeb1c71cbf239e071e1f1777a92396809295b7f6364099bba2d2ebdc
+Size: 85438
+MD5sum: 48905357867e6e0306f31f349da72e6f
+SHA1: 29cf0edfce8ffd2f96424ad4f42fb9875f41b555
+SHA256: 7b28c645fc7a6929d81518fb640d3b0c7a5e714f818cbc674e4b2a6b2ddc2f95
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
-Author: halo_michael
+Author: dylanaraps
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Wbgcjccv/Untitled-design.png
 Name: Neofetch
@@ -1734,13 +1734,13 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm64e.deb
-Size: 85434
-MD5sum: bef834047988fcd2e7623b5a80f413db
-SHA1: d90d79bcbf1f1f1fc2728c1d76d60e63832381b8
-SHA256: 879ed46dd064414b4e6e9942075d49e9742a0a7d58fae58fc91ecbdec5073632
+Size: 85462
+MD5sum: b209a453200a3fa6a7603670bc6ffe36
+SHA1: 97fc0a29a074441a8b90c4b6fd0ba103dd1617ac
+SHA256: 2614261376a95de3dbca38672f3b3e72bf7815ffff48540a5cef1a6fdcb4ab6f
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
-Author: halo_michael
+Author: dylanaraps
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Wbgcjccv/Untitled-design.png
 Name: Neofetch
@@ -1753,13 +1753,13 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm64.deb
-Size: 85510
-MD5sum: 1f5a535589bf6cc0d26a24528c1cb462
-SHA1: d387b39de947c49ce4485836225cd8a34076d681
-SHA256: 094752a1f7560c5fe1f5c38a231c3c7b56ce68c151f37c3e9affa4bf7c02845a
+Size: 85508
+MD5sum: 25dc98e2e9a2f77e70c680ff76459161
+SHA1: 8b82ac05fc542c3976dc1f97a9c1acc68755dbec
+SHA256: e32166c4486bb3344bbd5f4b5b06cb9d3204f95202c7e08183933a7bcd18e9df
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
-Author: halo_michael
+Author: dylanaraps
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Wbgcjccv/Untitled-design.png
 Name: Neofetch
