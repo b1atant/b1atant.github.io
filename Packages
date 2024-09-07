@@ -2449,6 +2449,63 @@ Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
 Name: Thenx
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.json
 
+Package: com.blatant.theweather
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.theweather_1.0_iphoneos-arm.deb
+Size: 27454
+MD5sum: d78123c573a397fef3c210a26265bc68
+SHA1: bd5f301280cda89516e2bb8ada1100082f792dcf
+SHA256: 26c87380ece02a4bb5b485fbc342fec609f2e3315084c21ca7062e502d24ef83
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/J0Kj70bG/IMG-6006.jpg
+Name: The Weather
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TheWeather.json
+
+Package: com.blatant.theweather
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.theweather_1.0_iphoneos-arm64e.deb
+Size: 27528
+MD5sum: 2a625fcc8b52ec7e5b4b2e53b5861738
+SHA1: e1506d632e6a13704786dbbc6610fcee388162cc
+SHA256: 1ea1f1ec8efaac431372c7bb8c51565802b6178f9fe46b99c37c49127fb06a82
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/J0Kj70bG/IMG-6006.jpg
+Name: The Weather
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TheWeather.json
+
+Package: com.blatant.theweather
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.theweather_1.0_iphoneos-arm64.deb
+Size: 27560
+MD5sum: c7aa6379d5a12a691f6f3f7c444475c4
+SHA1: 94fc9036f5c63ea7f415989a649704cec114c167
+SHA256: 0489cb733728697a810decad5f9efb8c4e6287b670a499fedb62ab69d992edee
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/J0Kj70bG/IMG-6006.jpg
+Name: The Weather
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TheWeather.json
+
 Package: com.blatant.ticktick
 Version: 1.0
 Architecture: iphoneos-arm
