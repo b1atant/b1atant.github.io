@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#2E6AF5",
+    "tintColor":"#5465DE",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#2E6AF5"
+                    "tintColor": "#5465DE"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/vHZ29XWj/IMG-6014.png"
+                            "url": "https://i.postimg.cc/yNXmMdp3/IMG-6027.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/m2pXSMjr/IMG-6015.png"
+                            "url": "https://i.postimg.cc/sXjYsrb6/IMG-6028.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/P5L6VxVQ/IMG-6016.png"
+                            "url": "https://i.postimg.cc/hGq8Zxsq/IMG-6029.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription  \nIgnore purchase page and click restore in settings.",
+                    "markdown": "Unlimited Solves  \nWipe Appdata or Reinstall the app if tweak isn't working",
                     "useSpacing": true
                 },
                 {

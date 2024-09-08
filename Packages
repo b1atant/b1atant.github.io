@@ -1537,6 +1537,63 @@ Icon: https://i.postimg.cc/WzZnGrw9/IMG-5429.jpg
 Name: MapleReadCX
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MapleReadCX.json
 
+Package: com.blatant.mathnotes
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mathnotes_1.0_iphoneos-arm64e.deb
+Size: 27792
+MD5sum: cbc8604240a2f72169ce14d867f492e9
+SHA1: afb0bdd75f2abb8aa364e09121f18e8449939b27
+SHA256: 90add7ae3ffecd75b6e1254694d20880b9e41dd386e7db1414357bc950a72abb
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/ryhTNNJ7/IMG-6022.jpg
+Name: Math Notes
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MathNotes.json
+
+Package: com.blatant.mathnotes
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mathnotes_1.0_iphoneos-arm64.deb
+Size: 27884
+MD5sum: ff731d0934dedf325c2dee4e56ed9460
+SHA1: b23814d69c580caabf66ad9061e5687b5e75fa19
+SHA256: 56a42a1ff0f6ac3cb43da860c0acd90b6b2fe575282cca7a8cb3b65b35cdc98b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/ryhTNNJ7/IMG-6022.jpg
+Name: Math Notes
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MathNotes.json
+
+Package: com.blatant.mathnotes
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mathnotes_1.0_iphoneos-arm.deb
+Size: 27882
+MD5sum: d0b14e8d7e521963c5c2ac3c93d2f4df
+SHA1: a6beff4900b873f70ca7c8f852cfbced0a932af7
+SHA256: 032e4be93d4dfaced1d7f62dfdc6c7dd8721a333ced48856c35e65b999fbec7f
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/ryhTNNJ7/IMG-6022.jpg
+Name: Math Notes
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/MathNotes.json
+
 Package: com.blatant.mediaconverter
 Version: 1.0
 Architecture: iphoneos-arm
