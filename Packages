@@ -55,6 +55,63 @@ Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
 Name: AdGuard
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard.json
 
+Package: com.blatant.alohabrowser
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm.deb
+Size: 21910
+MD5sum: e4fef4c1519973a6d99253a647999113
+SHA1: 9495a0ba648996f477c54744454af3df6a14da6e
+SHA256: 435867e4551e5651b78d10898937c02df55b1b6ee3bd82a3ead0054b4a2a153a
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7YyjrhGy/512x512bb.jpg
+Name: Aloha Browser
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Aloha.json
+
+Package: com.blatant.alohabrowser
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm64e.deb
+Size: 21902
+MD5sum: 649fc0028c290a8869851518f28ff7be
+SHA1: 7c98878d0d5b2ab21dd076d2c0d3da8cd5f88ad2
+SHA256: b4d5c0e3273e257b25d4cac3cc2ab1abc778dba37e1d8521dfd97c5b561a0a54
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7YyjrhGy/512x512bb.jpg
+Name: Aloha Browser
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Aloha.json
+
+Package: com.blatant.alohabrowser
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm64.deb
+Size: 21986
+MD5sum: 9e499a233246996c7a670e3fb087f97c
+SHA1: 8e9ebde22444cee84b9007ba629298068e592464
+SHA256: 8cfdb23d3df321310599ef2fdd02afbf300ac65a4aae03667f0fa92c175bfed6
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7YyjrhGy/512x512bb.jpg
+Name: Aloha Browser
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Aloha.json
+
 Package: com.blatant.animock
 Version: 1.0
 Architecture: iphoneos-arm
