@@ -1309,6 +1309,63 @@ Icon: https://i.postimg.cc/d13NW5Pc/IMG-5804.jpg
 Name: Boxing Training
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/HeavyBagPro.json
 
+Package: com.blatant.hevy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.hevy_1.0_iphoneos-arm.deb
+Size: 21242
+MD5sum: 58dad3c24a9f2d40010c5847b983fbb2
+SHA1: c73d8bd226e436bd11cd275db9b62751f1535bf1
+SHA256: 5b1eec8d96cfd3948204ec143954615fb80a890f1e1ece3bb5bbc9d6214328ab
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/HkbpyVMB/IMG-6171.jpg
+Name: Hevy
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Hevy.json
+
+Package: com.blatant.hevy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.hevy_1.0_iphoneos-arm64.deb
+Size: 21310
+MD5sum: 4f17fc6b657697de751e5aeac610c123
+SHA1: d3e46f6b1e68b0d46934351ddf9f5f8201834f51
+SHA256: 80b72181d68ce3261e7bd1353003b97d53934a939133e52d8d048ea652e125c0
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/HkbpyVMB/IMG-6171.jpg
+Name: Hevy
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Hevy.json
+
+Package: com.blatant.hevy
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.hevy_1.0_iphoneos-arm64e.deb
+Size: 21272
+MD5sum: 95d0ee2a92a5a561cbfeb596db014788
+SHA1: c10ea19a3b2951c309ba9c87d8f9f74e6fe28522
+SHA256: d4113582079f919345d33b23dfb667d68802df4d61071df9db1bd97b2a6f7978
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/HkbpyVMB/IMG-6171.jpg
+Name: Hevy
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Hevy.json
+
 Package: com.blatant.homeworkouts
 Version: 1.0
 Architecture: iphoneos-arm
