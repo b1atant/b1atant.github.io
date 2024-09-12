@@ -2335,6 +2335,63 @@ Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
 
+Package: com.blatant.snapedit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snapedit_1.0_iphoneos-arm.deb
+Size: 21676
+MD5sum: bbfb531926d9e665ffee68f61c9db5c7
+SHA1: bd54c5af3401360827dddd4961c43321cdf25b99
+SHA256: 8f928258d04e54cfbbbc8f0983baf58581742586a76b831d63a4f749ed5fe933
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XJ8kJmRj/IMG-6142.jpg
+Name: SnapEdit
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnapEdit.json
+
+Package: com.blatant.snapedit
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snapedit_1.0_iphoneos-arm64.deb
+Size: 21750
+MD5sum: acbf5a582d312407cd1f9d9437f58e00
+SHA1: 5af2bbc19cde0ef3c4aaf84dc4f6addedd46f895
+SHA256: 29931cbe7addbe3b0b2c5f63718d8d30eb0a6a9c2812843f7edb987783e365fe
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XJ8kJmRj/IMG-6142.jpg
+Name: SnapEdit
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnapEdit.json
+
+Package: com.blatant.snapedit
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snapedit_1.0_iphoneos-arm64e.deb
+Size: 21756
+MD5sum: 854d37f8dfee9b73608b0e4e3316ebb2
+SHA1: ff629bb22bfa284a3a6fe0e39ea3399dc7672069
+SHA256: 8bfda15f34f146819f554405d8a75cdbaec8c007f2fccd3ee65657bae79a52ab
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/XJ8kJmRj/IMG-6142.jpg
+Name: SnapEdit
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnapEdit.json
+
 Package: com.blatant.soundlab
 Version: 1.0
 Architecture: iphoneos-arm64e
