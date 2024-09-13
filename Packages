@@ -3076,6 +3076,63 @@ Icon: https://i.postimg.cc/Pr8jcZRG/IMG-5794.jpg
 Name: Unzip
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Unzip.json
 
+Package: com.blatant.videolite
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.videolite_1.0_iphoneos-arm64e.deb
+Size: 21006
+MD5sum: 248dc4e9a5c91a58a73ab82289cb4c45
+SHA1: a35c4a0d40ca39ce4d58ea70272d8662fff8a735
+SHA256: c53d18dd8206b15e60492f384a1cefcf766cbd40aa3fe23d2a186e43f9184f87
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pdDkJ658/IMG-6208.jpg
+Name: Video Lite
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/VideoLite.json
+
+Package: com.blatant.videolite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.videolite_1.0_iphoneos-arm.deb
+Size: 21036
+MD5sum: 1f7179ecc0d3d37a50edbc4576f9e12b
+SHA1: 17b5b193cd4a109caa4785248f2dc14f31b5e1de
+SHA256: 1764935d2e740bba39791133745329f17dbc2da849d4581450512a1e91cb14ab
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pdDkJ658/IMG-6208.jpg
+Name: Video Lite
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/VideoLite.json
+
+Package: com.blatant.videolite
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.videolite_1.0_iphoneos-arm64.deb
+Size: 21084
+MD5sum: ebb47054809eb07055968aaaefaa7f5f
+SHA1: b28b20162386d8bd96d2f288c7cb949112aaa607
+SHA256: ee337c955979a4106c4c46226e3d0f0e7e942a332a37bef0ba007a5487d0b721
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/pdDkJ658/IMG-6208.jpg
+Name: Video Lite
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/VideoLite.json
+
 Package: com.blatant.waterminder
 Version: 1.0
 Architecture: iphoneos-arm64e
