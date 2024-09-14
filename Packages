@@ -2000,10 +2000,10 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm.deb
-Size: 85438
-MD5sum: 48905357867e6e0306f31f349da72e6f
-SHA1: 29cf0edfce8ffd2f96424ad4f42fb9875f41b555
-SHA256: 7b28c645fc7a6929d81518fb640d3b0c7a5e714f818cbc674e4b2a6b2ddc2f95
+Size: 85396
+MD5sum: a158b21329b80c28a80ed34b1e23b048
+SHA1: 5fb5618cd241631a7f1b3e89541225116ff99a5c
+SHA256: 657047368383cd730859995b30308a6b4be02253549e19adb656f4d0a9f75f80
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 Author: dylanaraps
@@ -2019,10 +2019,10 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm64e.deb
-Size: 85462
-MD5sum: b209a453200a3fa6a7603670bc6ffe36
-SHA1: 97fc0a29a074441a8b90c4b6fd0ba103dd1617ac
-SHA256: 2614261376a95de3dbca38672f3b3e72bf7815ffff48540a5cef1a6fdcb4ab6f
+Size: 85396
+MD5sum: 4306f84197a83f80972e60195c8b2301
+SHA1: fe8a568b2342752caa2495e2b6df6f0d8f6f86b3
+SHA256: 3170e37ed118bf5b5466842946e950cc7bffb0aaf7faea653f27e5fef65a48d7
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 Author: dylanaraps
@@ -2038,10 +2038,10 @@ Maintainer: blatant
 Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000), bash, coreutils, coreutils-bin, darwintools, git, make, system-cmds, gawk, grep
 Filename: debs/com.blatant.neofetch_7.1.0-1_iphoneos-arm64.deb
-Size: 85508
-MD5sum: 25dc98e2e9a2f77e70c680ff76459161
-SHA1: 8b82ac05fc542c3976dc1f97a9c1acc68755dbec
-SHA256: e32166c4486bb3344bbd5f4b5b06cb9d3204f95202c7e08183933a7bcd18e9df
+Size: 85458
+MD5sum: 91254938bd5c89829698680532904924
+SHA1: 3586773554901aa33891aefc468ffe3eb4bbc8b6
+SHA256: 1f7a1b0ec5a9c495161c2b91c8862de21122ab89532939fb0ab7b34032d34289
 Section: System
 Description: Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.
 Author: dylanaraps
