@@ -2221,6 +2221,63 @@ Icon: https://i.postimg.cc/1zzrWbKV/IMG-5431.jpg
 Name: PeakVisor
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PeakVisor.json
 
+Package: com.blatant.photify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.photify_1.0_iphoneos-arm.deb
+Size: 20910
+MD5sum: 420ffee1cf2144da60091720486bbf5c
+SHA1: c8993e05d6e7a83259bca839c442527c43a16da7
+SHA256: 0513718091afa3468798e590053e1b2a0cbc889f877f2fd6152fb6e36a2c84c5
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
+Name: Photify AI
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify.json
+
+Package: com.blatant.photify
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.photify_1.0_iphoneos-arm64e.deb
+Size: 20938
+MD5sum: d75146b51bf9e1c473c716b98abe8686
+SHA1: 05fdece615ad29e8394d45df1e97f342702345c2
+SHA256: d275360c669c6702b3e17d2a1af5c2932ac46d941399607800c29ce54be997f8
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
+Name: Photify AI
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify.json
+
+Package: com.blatant.photify
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.photify_1.0_iphoneos-arm64.deb
+Size: 20994
+MD5sum: e2712deadce75f2b60ecf90844f5eb4d
+SHA1: d28ef78ae4b36e2b23c73859b3021b10261e4132
+SHA256: 01a209ddb120c48ce37d70affc0046a89648a2820c74f82474d89ee6c18131cd
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
+Name: Photify AI
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify.json
+
 Package: com.blatant.photoeraser
 Version: 1.0
 Architecture: iphoneos-arm64
