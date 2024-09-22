@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#8BB2EA",
+    "tintColor":"#F2F0EF",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#8BB2EA"
+                    "tintColor": "#F2F0EF"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/BZCHvqBH/IMG-6089.png"
+                            "url": "https://i.postimg.cc/QxVhrNKJ/IMG-6355.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/1XMq7H3J/IMG-6090.png"
+                            "url": "https://i.postimg.cc/TwX3d8vY/IMG-6356.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/yYY9gwL5/IMG-6091.png"
+                            "url": "https://i.postimg.cc/15Mnvzh0/IMG-6357.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's 'Duet Pro' ",
+                    "markdown": "Unlock's In-App  \nSubscription⚠️Disable tweak injection into this app with choicy and only allow ColoringBook Tweak or else app will crash  /nRestart app if subscription isn't unlocked.",
                     "useSpacing": true
                 },
                 {

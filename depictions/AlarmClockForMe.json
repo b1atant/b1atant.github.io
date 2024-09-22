@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#8BB2EA",
+    "tintColor":"#283A5D",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#8BB2EA"
+                    "tintColor": "#283A5D"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/BZCHvqBH/IMG-6089.png"
+                            "url": "https://i.postimg.cc/wM6QVvh7/IMG-6445.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/1XMq7H3J/IMG-6090.png"
+                            "url": "https://i.postimg.cc/c4nVjkYZ/IMG-6446.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/yYY9gwL5/IMG-6091.png"
+                            "url": "https://i.postimg.cc/Qd5hQxSQ/IMG-6447.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's 'Duet Pro' ",
+                    "markdown": "Unlock's In-App Subscription ⚠️\n\nDisable tweak injection into this app with Choicy and only allow the AlarmClockForMe Tweak, or the app may crash.\n\n- Open the app and go to **App Settings**\n- Click **'Get Full Version'** and then **'Already Purchased'** and restart app.",
                     "useSpacing": true
                 },
                 {
