@@ -1,0 +1,94 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#5DCBCD",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Buy Me A ☕️",
+                    "action": "https://ko-fi.com/blatant",
+                    "openExternal": true,
+                    "tintColor": "#5DCBCD"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/L5zDr2tC/IMG-6587.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/VNGVRfgX/IMG-6588.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/g24Szzf1/IMG-6589.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Unlock's In-App  \nSubscription⚠️Disable tweak injection into this app with choicy and only allow SnapCalc Tweak or else app will crash  /nRestart app if subscription isn't unlocked.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "blatant"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cracks"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}

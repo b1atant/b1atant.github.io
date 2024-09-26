@@ -1,0 +1,94 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#9C9DF4",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Buy Me A ☕️",
+                    "action": "https://ko-fi.com/blatant",
+                    "openExternal": true,
+                    "tintColor": "#9C9DF4"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/1RWHFL2h/IMG-6541.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/Gh2XScGm/IMG-6542.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/prVsvvSk/IMG-6543.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Unlock's In-App Subscription  \nClick Restore if subscription isn't active.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "blatant"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cracks"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}
