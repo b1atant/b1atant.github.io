@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Fixed an issue where tweak was not working on rootless/rootful jailbreaks.",
+                    "markdown": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
                     "useSpacing": true
                 },
                 {
@@ -82,6 +82,14 @@
                     "title": "Version 7.1.0-2",
                     "useBoldText": true,
                     "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Fixed Tweak not working on rootless/rootful jailbreaks",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSubheaderView",
