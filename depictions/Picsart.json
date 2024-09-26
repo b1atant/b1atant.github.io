@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#000000",
+    "tintColor":"#626FCE",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#000000"
+                    "tintColor": "#626FCE"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/bYkGHCsz/IMG-6611.png"
+                            "url": "https://i.postimg.cc/JzDh1C1w/IMG-6667.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/50FXrpgS/IMG-6612.png"
+                            "url": "https://i.postimg.cc/MTxZbc1x/IMG-6668.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/Rh5Wxfb5/IMG-6613.png"
+                            "url": "https://i.postimg.cc/YSQqWNGb/IMG-6669.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's "Max Performance"⚠️Disable tweak injection into this app with choicy and only allow VideoGPT Tweak or else app will crash  /nIgnore Purchase Page.",
+                    "markdown": "Unlock's "Picsart Gold"⚠️Disable tweak injection into this app with choicy and only allow Picsart Tweak or else app will crash  /nIgnore Purchase Page.",
                     "useSpacing": true
                 },
                 {
