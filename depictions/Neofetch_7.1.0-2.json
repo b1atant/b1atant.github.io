@@ -79,6 +79,12 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "Version 7.1.0-2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "Version 7.1.0-1",
                     "useBoldText": true,
                     "useBottomMargin": false
