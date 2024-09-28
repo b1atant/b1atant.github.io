@@ -173,13 +173,13 @@ Package: com.blatant.alohabrowser
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm.deb
-Size: 21910
-MD5sum: e4fef4c1519973a6d99253a647999113
-SHA1: 9495a0ba648996f477c54744454af3df6a14da6e
-SHA256: 435867e4551e5651b78d10898937c02df55b1b6ee3bd82a3ead0054b4a2a153a
+Size: 463118
+MD5sum: 0878ef55de1f051ae6f7a4be73e4ade4
+SHA1: 683702d98a92cc56e144ab53c90cece06b2a88ca
+SHA256: 5eb49dff2137f9d307efc2279bfb1bc34c0c95f83ff34fa3ce29c156bbdae5f9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -192,13 +192,13 @@ Package: com.blatant.alohabrowser
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2864
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm64e.deb
-Size: 21902
-MD5sum: 649fc0028c290a8869851518f28ff7be
-SHA1: 7c98878d0d5b2ab21dd076d2c0d3da8cd5f88ad2
-SHA256: b4d5c0e3273e257b25d4cac3cc2ab1abc778dba37e1d8521dfd97c5b561a0a54
+Size: 449270
+MD5sum: e6dfaa8a3355e9c7dac59f634959ffa0
+SHA1: 409ca762cf05031074fbcd1c5cbe4e5fa909f99b
+SHA256: c116c2d49480d609dddb7e23408584f776af2f52c24152f00e3f09ff70776d9d
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -211,13 +211,13 @@ Package: com.blatant.alohabrowser
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2796
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.alohabrowser_1.0_iphoneos-arm64.deb
-Size: 21986
-MD5sum: 9e499a233246996c7a670e3fb087f97c
-SHA1: 8e9ebde22444cee84b9007ba629298068e592464
-SHA256: 8cfdb23d3df321310599ef2fdd02afbf300ac65a4aae03667f0fa92c175bfed6
+Size: 421380
+MD5sum: 29e49be406795f0a299315c71e2dabcb
+SHA1: f2d276ddcf1e40ba7057d51b096c65521130d072
+SHA256: ba871677b4de975c35ac11906e71a5885d130f0104bf1c545f6d5cb57f625cbd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1826,13 +1826,13 @@ Package: com.blatant.headway
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3008
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm64.deb
-Size: 28554
-MD5sum: bd86c610be588c4f30e4c40edefa94a7
-SHA1: b2cb6cd91102e64c786bebccba032256bf56f37c
-SHA256: e1f317453738b3140b65d8d5fecf9cff2ce9373505fb19459facafb68b9147ac
+Size: 470214
+MD5sum: ac376e37e3a7cbca88986b62e915c6c9
+SHA1: 186bf542e5f183f6954222a4c98982cfedc81ac9
+SHA256: 806f150a8843fb7c0f92600bf5fe142bdd8bed446573eba6cbab19cd1aea7c17
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1845,13 +1845,13 @@ Package: com.blatant.headway
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 2912
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm.deb
-Size: 28452
-MD5sum: c9afb38ad02e9923e43510d8a28e41b3
-SHA1: df004a1263cd47394488c56081fa66c37d02b82a
-SHA256: 9e5222537af61915b9ee74438fe1a0ab56f71b21562e9f797d01cbe195ee7cb0
+Size: 452790
+MD5sum: fc524486d27678d7718c854c8e4840fd
+SHA1: 9bb850b5360bd3db2474dafc5013bbb0266f96c2
+SHA256: 0fddfe0d5348b03fc2b4534282472e2e1cefc4d691ab338cac3e1aa88f760d65
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1864,13 +1864,13 @@ Package: com.blatant.headway
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 2816
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.headway_1.0_iphoneos-arm64e.deb
-Size: 28458
-MD5sum: 725c5840a98c7a1b9cc0d223927c99b5
-SHA1: bf51514fdd1668660f7c81fcc34978b922494cb8
-SHA256: 16032cf9083c2a8f109392c955c796815806d9688005746f7f6431b5123f1ddd
+Size: 438210
+MD5sum: c80a6556a025e7f634bdd1c577f6a2e4
+SHA1: 13b912463a24c5a5d16e58651e1c8ae9275ae7bc
+SHA256: fefbac1b6fc7c35114f55ef3a8cfaea14813bbdc17d6dc80b23c7bb992f1da4c
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
