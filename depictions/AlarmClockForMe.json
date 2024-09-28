@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription ⚠️\n\nDisable tweak injection into this app with Choicy and only allow the AlarmClockForMe Tweak, or the app may crash.\n\n- Open the app and go to **App Settings**\n- Click **'Get Full Version'** and then **'Already Purchased'** and restart app.",
+                    "markdown": "Unlock's In-App Subscription \n\n⚠️Disable tweak injection into this app with Choicy and only allow the AlarmClockForMe Tweak, or the app may crash.\n\n- Open the app and go to **App Settings**\n- Click **'Get Full Version'** and then **'Already Purchased'** and restart app.",
                     "useSpacing": true
                 },
                 {

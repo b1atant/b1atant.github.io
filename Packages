@@ -1423,6 +1423,63 @@ Icon: https://i.postimg.cc/7Lqg5dRQ/IMG-5414.jpg
 Name: falou
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Falou.json
 
+Package: com.blatant.fget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.fget_1.0_iphoneos-arm.deb
+Size: 508602
+MD5sum: 5322a46d45486858d829b1b3de9ab6d7
+SHA1: 76e5b8d7be44b301f53353e0c56ea86ef8120416
+SHA256: 5051399e7aa7335a353fb0fdba443c1dd2265299d45aadae1f83421cff164dc3
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nhKx6PNz/IMG-6747.jpg
+Name: fGet
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/fGet.json
+
+Package: com.blatant.fget
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.fget_1.0_iphoneos-arm64.deb
+Size: 471050
+MD5sum: cf01c7b9f75475c60663056ca471ac74
+SHA1: bfddc1b342c623ab803681799c8b070f1e8fb8e5
+SHA256: c1e3c6d84a9b27bf1027e86aef5dc79ae126fea8e5fbbed66e54d6b58d9b62f0
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nhKx6PNz/IMG-6747.jpg
+Name: fGet
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/fGet.json
+
+Package: com.blatant.fget
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2796
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.fget_1.0_iphoneos-arm64e.deb
+Size: 438704
+MD5sum: dcd7ca58e961860b2704b61b6bca00e4
+SHA1: 8dad8441dbc05d039b61d9c42af897ba72db0d96
+SHA256: 3de9761a5f8b42a0e2ef4b093d1fe19fbd4421e1028976e8c9ff64510912b73d
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nhKx6PNz/IMG-6747.jpg
+Name: fGet
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/fGet.json
+
 Package: com.blatant.filmicpro
 Version: 1.0
 Architecture: iphoneos-arm64e

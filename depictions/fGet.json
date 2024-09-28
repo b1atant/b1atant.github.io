@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#6AD4B2",
+    "tintColor":"#AFF489",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#6AD4B2"
+                    "tintColor": "#AFF489"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/3JJSvZLq/IMG-6569.png"
+                            "url": "https://i.postimg.cc/nzrt9crj/IMG-6751.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/c1ckCzcY/IMG-6570.png"
+                            "url": "https://i.postimg.cc/bvzP8RjR/IMG-6752.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/BvDM076j/IMG-6571.png"
+                            "url": "https://i.postimg.cc/43Bg3hfR/IMG-6753.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow Window Tweak or else app will crash  /nRestart app if subscription isn't unlocked.",
+                    "markdown": "Unlock's In-App Subscription  \n⚠️Disable tweak injection into this app with choicy and only allow fGet Tweak or else app will crash.",
                     "useSpacing": true
                 },
                 {
