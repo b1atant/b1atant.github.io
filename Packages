@@ -3137,13 +3137,13 @@ Package: com.blatant.peakvisor
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm64.deb
-Size: 28980
-MD5sum: df7aea892ff0f3d0202cb958163dd2f7
-SHA1: de42e065c8c3c319b0bc87dfe687b8915a5bf902
-SHA256: 4b5138ae3bf644834e8bb864fed16ff4fe4641eccee86685ea40e9a99588b568
+Size: 484472
+MD5sum: 0b6dc333a384d4c2e88ae13989324ea8
+SHA1: 39387650a9cebe19e74931b3b4ad0f26c9ca2acd
+SHA256: 7195000ecd0dc4cda50e1b963ca47769d1e1867fc056a7f98484edc3374cf67d
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -3156,13 +3156,13 @@ Package: com.blatant.peakvisor
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 2684
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm.deb
-Size: 28820
-MD5sum: 3ccf0227e232eec2f622ef5126a552ef
-SHA1: 393460c49031b7bf96de6036e9b21667748301f3
-SHA256: 62bbc5fa5dfed068a284a0447d512da8806dfd5cdc1954aeb2816268dd2cf7bd
+Size: 421326
+MD5sum: c70c696038f11b7a4ec9a39012404c1e
+SHA1: fccf9b982e985e2f19241fa68abe446553655610
+SHA256: 4c784b6a1a790d1ef05e0d329bfe123f0d6814897671d52049774409f2307a29
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -3175,13 +3175,13 @@ Package: com.blatant.peakvisor
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.peakvisor_1.0_iphoneos-arm64e.deb
-Size: 28728
-MD5sum: 8eea41fbc774ff80ecb873f4bdc9321c
-SHA1: c1a18a779576d0f8f55ad090e32082da6f4108d0
-SHA256: de7bfda2e3af3c2c8e1ecf1ffae42092a796536e199b77ccc2f09f3af90f3c5e
+Size: 505682
+MD5sum: f514b35daa71ea1b291647b1a0b92061
+SHA1: a213b2684082814a6380cd6debcecb2415fae748
+SHA256: bf221f562ebc03753fbc0400e8ef9f643954f970834287c8613cba4f29053099
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
