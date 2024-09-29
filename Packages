@@ -4216,6 +4216,63 @@ Icon: https://i.postimg.cc/XJ8kJmRj/IMG-6142.jpg
 Name: SnapEdit
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnapEdit.json
 
+Package: com.blatant.snorelab
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snorelab_1.0_iphoneos-arm64e.deb
+Size: 509928
+MD5sum: acf580f50e60fe3cf14a1f5bf1a8e5e1
+SHA1: 303e808ed16e076f1aa10947030d88635a34d653
+SHA256: 85ad609e5f94d4e8e2420f137ab39c28d7b6b251bb4972d1b62bf2cd08b6d146
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/mDX8ZQKF/IMG-6768.jpg
+Name: SnoreLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnoreLab.json
+
+Package: com.blatant.snorelab
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snorelab_1.0_iphoneos-arm64.deb
+Size: 548890
+MD5sum: 52a26dae1f51292d047dc38849a3992b
+SHA1: cdfde8c73255148f561364b0d2fdb30bbee1281b
+SHA256: 87aec3428a35d6ec0c9e647e92dd3ee7f1c6b887a2e14db037074ca99fd0a763
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/mDX8ZQKF/IMG-6768.jpg
+Name: SnoreLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnoreLab.json
+
+Package: com.blatant.snorelab
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3040
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.snorelab_1.0_iphoneos-arm.deb
+Size: 489698
+MD5sum: 87262e4045a7d73f8be31a825d9c1fae
+SHA1: da8985bfcf490ffffcad747fb9b6060832f52ded
+SHA256: 1a6448f597d86d8c03f7e6a385175f21fb6c7cb945c934a897f9e0f1c6c340c1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/mDX8ZQKF/IMG-6768.jpg
+Name: SnoreLab
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnoreLab.json
+
 Package: com.blatant.soundlab
 Version: 1.0
 Architecture: iphoneos-arm64e
