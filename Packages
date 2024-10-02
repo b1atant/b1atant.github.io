@@ -3190,6 +3190,63 @@ Icon: https://i.postimg.cc/Wbgcjccv/Untitled-design.png
 Name: Neofetch
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Neofetch_7.1.0-2.json
 
+Package: com.blatant.offlinemusicplayer
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.offlinemusicplayer_1.0_iphoneos-arm64.deb
+Size: 469204
+MD5sum: 2b9f5e55c8fad0be96e5e135080d6e1f
+SHA1: 3c831dfe0cd1b10270052941b91ff60290865841
+SHA256: 62b098b33f4eea76888bba6e0b1acb4f77b4f6875b5719d5f129f30dd4e5fea3
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/hvBGPmLB/IMG-6796.jpg
+Name: Offline Music Player
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OfflineMusicPlayer.json
+
+Package: com.blatant.offlinemusicplayer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3296
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.offlinemusicplayer_1.0_iphoneos-arm.deb
+Size: 519382
+MD5sum: c89a04c78df03c334d12cba3a7f378e6
+SHA1: 16162c7f7228c6a9a1ee50426942e0604916ea41
+SHA256: 5cfaf50bdf379c86f2fcf251b820aed93bc61ce78173d3f505515290c2387d6d
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/hvBGPmLB/IMG-6796.jpg
+Name: Offline Music Player
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OfflineMusicPlayer.json
+
+Package: com.blatant.offlinemusicplayer
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2860
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.offlinemusicplayer_1.0_iphoneos-arm64e.deb
+Size: 430608
+MD5sum: 060b45fcb0b44c776ddc4cf5edf5d5e4
+SHA1: fae9b88ae95262793cfe4a9128fb992ce05ba8a0
+SHA256: 1d4858cb60e642e16cfb979fc8c633d0b988dc08dcb4ab8890388d68c41a90fd
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/hvBGPmLB/IMG-6796.jpg
+Name: Offline Music Player
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OfflineMusicPlayer.json
+
 Package: com.blatant.overcast
 Version: 1.0
 Architecture: iphoneos-arm64
