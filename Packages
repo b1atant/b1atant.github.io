@@ -682,6 +682,63 @@ Icon: https://i.postimg.cc/8z7kwNYr/IMG-6180.jpg
 Name: BXNG
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BXNG.json
 
+Package: com.blatant.calculatorair
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.calculatorair_1.0_iphoneos-arm.deb
+Size: 468708
+MD5sum: 408286b38b56cb76949e60777f3bb9c2
+SHA1: 729546d45a1662887c3ea44469f5ae768f036964
+SHA256: 5df135d47f9264139e09a04ae60ec0380bf5756083d0b57f76d2466b9d8c56ba
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rsjK0Xrf/IMG-6783.jpg
+Name: Calculator Air
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CalculatorAir.json
+
+Package: com.blatant.calculatorair
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.calculatorair_1.0_iphoneos-arm64e.deb
+Size: 447358
+MD5sum: 72812184cee9b9baa33779035787892c
+SHA1: cb55e9885bdfdb1b29f7708fd0ebf78128846b49
+SHA256: e9cfe58bd5344ad04e9e85070da0ca15884f59718e04ec6d0eef2639daf2255c
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rsjK0Xrf/IMG-6783.jpg
+Name: Calculator Air
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CalculatorAir.json
+
+Package: com.blatant.calculatorair
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.calculatorair_1.0_iphoneos-arm64.deb
+Size: 474138
+MD5sum: 987c3aba93cd6bd3dc01ced63c333b39
+SHA1: eecaf7bd4f3489f5f4c44bb0ee8ea68335ef7085
+SHA256: 966fd3ba60e1893131b1d805c9c719273895181c6bab5ae94f3375be756a8303
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rsjK0Xrf/IMG-6783.jpg
+Name: Calculator Air
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CalculatorAir.json
+
 Package: com.blatant.chessmovepro
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1256,13 +1313,13 @@ Package: com.blatant.epik
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm64.deb
-Size: 16358
-MD5sum: 9cbab0a77a82facb9349bc0eed5025f7
-SHA1: 15cca10c26b7b80ca2cbe24534e1a4463433988b
-SHA256: bcb51c2113ab2edea814e51835c28b266bf6bec4715b4e921babf7e271a7422a
+Size: 478624
+MD5sum: 43fef6a4498d52b095a9350118ac4f1a
+SHA1: 69e25171135289070d5dfb907aa4689dc7d3e706
+SHA256: 46820edc9375f146fbe10513ed5ad7f61e07f58f8f87de0cfc2478364955d99b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1275,13 +1332,13 @@ Package: com.blatant.epik
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3296
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm.deb
-Size: 16314
-MD5sum: 3c9551e13effed4a8294ed180217c717
-SHA1: 6ba7af24057481e9185af10af491adc756ff97dd
-SHA256: b67f2df9166ec544cb2a4435a5e64b15ab75c6ce3f706901383be55632b45dd2
+Size: 491396
+MD5sum: 4bf0da679bc3dcc0322617ccddf6ccc9
+SHA1: bd7c39210a3aa46b2a6e63e9b228e3dc94ffa4c9
+SHA256: e3dd36f3e218f119521aa6ddcef8854d8a15d3fd5e5a4aa04633032d2ee1476d
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1294,13 +1351,13 @@ Package: com.blatant.epik
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2780
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.0_iphoneos-arm64e.deb
-Size: 16286
-MD5sum: a89179a22ccd972b079218d06f5de291
-SHA1: 458214c293ebd32730d277fc93398f788bae0e98
-SHA256: a31aa72f96593e285c89db55885ada1ad9f285d96d96cfa18ec4a2f19a36a7ef
+Size: 428954
+MD5sum: ba8acd1113720007bfebdcc245948ec8
+SHA1: b49e8022097fc5d22180ab3324a1d043380c789a
+SHA256: 08275d3834cc890ef8245dff9fd08b22dda7bdc39e96259dfd3b1087397d19fa
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4277,13 +4334,13 @@ Package: com.blatant.soundlab
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm64e.deb
-Size: 32662
-MD5sum: 7aae7e1b3aa84018ca8f9e91739c3840
-SHA1: 5a1e6fda246d643f1cb5029648753d72672247e5
-SHA256: cf82fe83894fe1af6159fcb6fb7745329812ac83b0c1bf20ded396462d22fbe1
+Size: 495810
+MD5sum: 7c05523cc0a2a86c5c9dacd7582fa7cf
+SHA1: 4f82cf0f63b1a8c87a0695e08ba8f5ee36676e84
+SHA256: 0dd616ee9e2715dc8c7b0fb0f7b8062b3e377718d2dd777d858357a833b0fa84
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4296,13 +4353,13 @@ Package: com.blatant.soundlab
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm64.deb
-Size: 32884
-MD5sum: e800c4b59c007850b4437d41fc7a79dd
-SHA1: 6ebdba717041f2da171ccfcde069aefc03dec93c
-SHA256: dc8974407fb1fde7866da07a47b74de82277fa7d6b27c4cfce43610c5028ccfe
+Size: 492740
+MD5sum: 553abdf61ace00a494c8ef4d8799a65b
+SHA1: 24dcee7a2d8a00b19b58052c5affc5ae14caceb1
+SHA256: 396a0471299f3a48f540ab42f671316ff84fd0789d817bcd52b436da569a3279
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4315,13 +4372,13 @@ Package: com.blatant.soundlab
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 2976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.soundlab_1.0_iphoneos-arm.deb
-Size: 32634
-MD5sum: b30166fd689a421bd327df34b76f7c49
-SHA1: 538a1440bbdc8e3d8c739bf469ed83791ea648ce
-SHA256: 6ac0d71b5a4136f093e3517781fbc7e15af88de6bcce5cc15622ea7be490dffa
+Size: 451642
+MD5sum: 0458b97ea25e548a3bd67b8be62070c3
+SHA1: 7ace53a750db623d21cd5059172abd742e2abc2c
+SHA256: 7a9a8b2519d4c10eed5aaafbb997440827588b0195479f614a03ca70d2241475
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4505,13 +4562,13 @@ Package: com.blatant.swipewipe
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64.deb
-Size: 23622
-MD5sum: d2868ca21ee0180bb859f03e70515a73
-SHA1: ddae392d37dde3a47b1e1b6713b8eb0c2a506ed7
-SHA256: 918bd08a25a581c21ce5c37eee10cdafcf0bc62dc65b1d1fa2f1c11c7ee913f6
+Size: 446108
+MD5sum: af65bcad71e570d890becf78e54147c6
+SHA1: 7d52d553610488ce6735865454821d12f1520785
+SHA256: 47af759c15f80189c2745d98bf2fe6a12e4274ab7dab41f6427a70ba9bcdf3cf
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4524,13 +4581,13 @@ Package: com.blatant.swipewipe
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm.deb
-Size: 23612
-MD5sum: ee05437fd7b2e570b7195e2d23584507
-SHA1: 8aa7b0ddcb158d0793c52ee55698fd97ef188c01
-SHA256: 11e7e5e70d7b9d3a5e8cfd6a825640c805153f06603bfba6d04bbe5e0ff64c64
+Size: 462594
+MD5sum: 744b1ede89f708942bc83097e2f92b2e
+SHA1: e19d7daf628485686edb68f42e21201763fa0a01
+SHA256: 1137dd9a1fccec9a10f375875682949c9b40909a1d7d2c9227a6d24b94007237
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4543,13 +4600,13 @@ Package: com.blatant.swipewipe
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.swipewipe_1.0_iphoneos-arm64e.deb
-Size: 23552
-MD5sum: 1c8ac8d3f21e335389dcfc3bace60826
-SHA1: f26bf0ccfb9bc2d326aa657e6fbccb0f22d1a9c4
-SHA256: b8605ca703a83749e41fb7306df94c5ba911381b5f5b9d83c547f0103ce9a15a
+Size: 458684
+MD5sum: 7ef7be96ec64eeab67b7c2c6795f3241
+SHA1: 130dd4d3096dcfe4ad17c96e6300c9b536d7a87b
+SHA256: 4b65fdf353eb54f0f2fb3d4c5c4d49ff219165cc2c8b5c7c537d1b6c81b50dd4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5189,13 +5246,13 @@ Package: com.blatant.waterminder
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm64e.deb
-Size: 28404
-MD5sum: 4cdfff5051c09461db7218114cb329f5
-SHA1: 5027ce9b02aff47b237f3969a9a7ad9b679c2415
-SHA256: c9fc2f33ce19c1a36a1c0cd442fe0bb81f8db88b0ab090baf99ab680955e3d6c
+Size: 454584
+MD5sum: 5396d248e1669bcfd1a6e5173d8a9807
+SHA1: 39f171fc9f37c2f47fdee43ee99f7bb82d492c86
+SHA256: 06724decc8d73196c96b2eb9694c405f66778ecfa8a9c7232eea7dce4c9aebb9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5208,13 +5265,13 @@ Package: com.blatant.waterminder
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm64.deb
-Size: 28526
-MD5sum: 5e8ca507ab2fede9d712e75a079108a2
-SHA1: 4b39e0fdd7dbe5badf1a6df167755e9774e396e4
-SHA256: 99e5d4678fed5393bc5f9e035b921a463241e978f79bfa428515f0c5f6fb1cf7
+Size: 488386
+MD5sum: 52d9b1417bf03e19e255dd919ebca855
+SHA1: 0e54fedf6ec80f38114a0e3686f0e3d8e8094059
+SHA256: 16484f7853062289dde97ca75550d0444407177060a8d361d28186ae99a21dd6
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5227,13 +5284,13 @@ Package: com.blatant.waterminder
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 236
+Installed-Size: 3184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.waterminder_1.0_iphoneos-arm.deb
-Size: 28396
-MD5sum: 8ae9e618761928906c7bdfaa4ccb5b4d
-SHA1: 0a62897e96072bcb99baaa7d37a33e9efcfefafb
-SHA256: 9c3695803398bb05127c94266310519081dea717d901b9b9b539b29d72005f01
+Size: 473926
+MD5sum: cb04f0cf8a889b8bfbf07196e4739f65
+SHA1: eeb92d3601bbd31e6126af16bb265a3dfa7f239c
+SHA256: 214bc4494cfdf6434b83802c784444fadb77b1e2135ae05226a748bfc33d7697
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
