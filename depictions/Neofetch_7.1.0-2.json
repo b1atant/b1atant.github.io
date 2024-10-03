@@ -99,7 +99,7 @@
                 },
                 {
     "class": "DepictionMarkdownView",
-    "markdown": "Added support for iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and iPhone 13 Mini.\n- Added support for iPhone 14 models (iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14 Plus).\n- Added support for iPhone 15 models (iPhone 15, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 15 Plus).\n- Added support for iPad Air 4 and iPad mini 6.",
+    "markdown": "\n- Added support for iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and iPhone 13 Mini.\n- Added support for iPhone 14 models (iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14 Plus).\n- Added support for iPhone 15 models (iPhone 15, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 15 Plus).\n- Added support for iPad Air 4 and iPad mini 6.",
     "useSpacing": true
               }
             ]
