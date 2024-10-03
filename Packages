@@ -454,6 +454,63 @@ Icon: https://i.postimg.cc/YqmvvQ2y/image.png
 Name: AutoRevenueCat
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRC.json
 
+Package: com.blatant.autorc
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.1_iphoneos-arm64e.deb
+Size: 26606
+MD5sum: c5bd5620f416f788e9aa31e3b7ae6a4c
+SHA1: 8729130f431b3c5e189ae21bb02f086cc23dd64d
+SHA256: a1d7541b107512e6bbe573da24d841b1bf70f37cc24aae2dd69244f4cafeb5ca
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.1.json
+
+Package: com.blatant.autorc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.1_iphoneos-arm.deb
+Size: 26690
+MD5sum: cb6c23e28fbb72c744aabcb3f56a12cc
+SHA1: 057b4f4d02092cc08432902ef794c0d7365dc7ea
+SHA256: c49cff47d14b7729d160cde5568def1b66d6e13dab152b23fab11f142595bcff
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.1.json
+
+Package: com.blatant.autorc
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 236
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.1_iphoneos-arm64.deb
+Size: 26758
+MD5sum: 9b775251e4ca864a9064f1f51c583094
+SHA1: 5d7256fa1031f86fc9b791914c674ed41e0ad526
+SHA256: 7f85266f4c9bc2800e1f4753d0413acacce9d79afce870ebe96747e3435bfb17
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.1.json
+
 Package: com.blatant.avatarify
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -4049,13 +4106,13 @@ Package: com.blatant.shred
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm64.deb
-Size: 16638
-MD5sum: 8b70f5ec78b6969fa83ab8c9125a3160
-SHA1: 029daba8d6947b2d5809c0fdc17e0601e848ea59
-SHA256: ad1a83b9c032f9f3580c9d3e9057c1b57200231984535c300d8fce23bf7ccc60
+Size: 471606
+MD5sum: c6d327b97233d96bf91e64e67ce28192
+SHA1: 1459032fec309d47db146b213ded2584c1e91a78
+SHA256: df78409ac007fcea4f63885fe98ebfe6addb7b97181bbfcaec2e9b7c1bf18720
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4068,13 +4125,13 @@ Package: com.blatant.shred
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm64e.deb
-Size: 16500
-MD5sum: 1f64ffef333f4df1f43599c80cb8ef4f
-SHA1: 67d4a9693f712848aa92afbd597d5d3a3ed37b89
-SHA256: 71418924193bb93429e2149a790e1906d8f460bcc7f11604b286c0b243069ec6
+Size: 478046
+MD5sum: de6f6a040605cd946278367b60bd0449
+SHA1: 3e86b26674b82e63d27fa4e63f67abe868a60680
+SHA256: 753a122992109d6cf5059979ca82ca20b6ba4f040a090c07036ef0f7da45c950
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4087,13 +4144,13 @@ Package: com.blatant.shred
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 2960
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.shred_1.0_iphoneos-arm.deb
-Size: 16540
-MD5sum: 88c83150f7e1ffbbbb4a13412ec1f68b
-SHA1: e21eb79d84a8d2f09ace1c65049a0c1ee119c695
-SHA256: 4cd8079a27a83837a1499e6818922026006b709342929cee2f65862b55b6bd8a
+Size: 457584
+MD5sum: 60b0e8b139d0de576d9a0389f7a49134
+SHA1: 3290a5092f816c3d7fa77fa99bbf59bcb45a9b43
+SHA256: b2635ca601a685db75ab3088a3c56e91f4b85de8de969828ff35265d71854053
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant

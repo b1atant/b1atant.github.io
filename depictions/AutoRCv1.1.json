@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#AB8AF7",
+    "tintColor":"#F1545B",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#AB8AF7"
+                    "tintColor": "#F1545B"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/9FWDKhkD/IMG_5992.png"
+                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/arrow.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/ZYP9wRwk/IMG_5991.png"
+                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/arrow.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/MHYvHPnZ/IMG_5993.png"
+                            "url": "https://raw.githubusercontent.com/b1atant/Logo/main/emoji.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way.",
+                    "markdown": "Automatically unlock's subscription for most RevenueCat-based apps",
                     "useSpacing": true
                 },
                 {
@@ -59,17 +59,17 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "7.1.0-2"
+                    "text": "1.1"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Author",
-                    "text": "dylanaraps"
+                    "text": "blatant"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Section",
-                    "text": "System"
+                    "text": "Cracks"
                 }
             ]
         },
@@ -79,13 +79,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 7.1.0-2",
+                    "title": "Version 1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "• Fixed Tweak not working on rootless/rootful jailbreaks",
+                    "markdown": "Optimized the code\nBlocked review popups\nToast will only show once",
                     "useSpacing": true
                 },
                 {
@@ -93,15 +93,15 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 7.1.0-1",
+                    "title": "Version 1.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
-    "class": "DepictionMarkdownView",
-    "markdown": "Added support for iPhone 13, iPhone 13 Pro, iPhone 13 Pro Max, and iPhone 13 Mini.\n- Added support for iPhone 14 models (iPhone 14, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 14 Plus).\n- Added support for iPhone 15 models (iPhone 15, iPhone 15 Pro, iPhone 15 Pro Max, iPhone 15 Plus).\n- Added support for iPad Air 4 and iPad mini 6.",
-    "useSpacing": true
-              }
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
             ]
         }
     ]
