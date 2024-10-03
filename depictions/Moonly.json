@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription  \nClick Restore Purchases.",
+                    "markdown": "Unlock's In-App Subscription  \n⚠️Disable tweak injection into this app with choicy and only allow Moonly Tweak or else app will crash  \nRestart app if subscription isn't unlocked.",
                     "useSpacing": true
                 },
                 {
