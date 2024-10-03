@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Optimized the code\nBlocked review popups\nToast will only show once",
+                    "markdown": "•Optimized the code  \n•Blocked review popups  \n•Toast will only show once",
                     "useSpacing": true
                 },
                 {
