@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription  \nClick Restore Purchases and restart the app.",
+                    "markdown": "Unlock's In-App Subscription  \n⚠️Disable tweak injection into this app with choicy and only allow Drafts Tweak or else app will crash  \nClick restore and restart the app to unlock subscription.",
                     "useSpacing": true
                 },
                 {
