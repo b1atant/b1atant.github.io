@@ -914,13 +914,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2992
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm64.deb
-Size: 471656
-MD5sum: 4ee99aa332aa594712384d8755e282db
-SHA1: 5fc9b1a22de1cb67b63adab380035293a40761a0
-SHA256: 767c02a2321f8a467878caa9629b76d16a2d8d75caadc65240470b56280c22d1
+Size: 474818
+MD5sum: 8606e7f905deb05944a19f2573b7d6e0
+SHA1: d57f253ff10b48838940b6d549298e2293fb8383
+SHA256: 6d1fed60f84a8ee8775e173cbca7ddcffa4af26c7b0502b3f598e74c3785e3b4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -933,13 +933,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3024
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm.deb
-Size: 451732
-MD5sum: 21c909fa2567721749b3184201eb1f4e
-SHA1: c73579c5526ab10bf181265a029bc4b20766e564
-SHA256: 1838eaeb6a4738c9df9bb23ceb06e01c3b6d0c461b7a67099e0467b44520a813
+Size: 461294
+MD5sum: 0cdd31c57826e555aeccd721d27e770e
+SHA1: 851ce52c75237979048d23bf4e7e9bc901460f4e
+SHA256: e324bcdc8fb89745752adc85cc3f54f7185cdd1c01800d49927bbb14126d6e18
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -952,13 +952,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2992
+Installed-Size: 3184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm64e.deb
-Size: 463774
-MD5sum: 25342f9cff7b317ded7556b431ff7fa2
-SHA1: 199371c1bc80b3e688bb88e54566fc67dc65f31f
-SHA256: 8e319c15cfb918d9a6e31e93c3060a779900609b02a3df4b33e7e146fcb13108
+Size: 497902
+MD5sum: e1e667b24e8c8e566fadde7e789b83b2
+SHA1: e1ac0a2d731d78b7f74f01330cb64bb6c86f538c
+SHA256: e804ccda2e9e2b00e8750d4c22521ef971213a287365188561857eae277c4312
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1080,6 +1080,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/Z588K4wd/IMG-5410.jpg
 Name: Coin ID
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Coin-Id.json
+
+Package: com.blatant.collanote
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.collanote_1.0_iphoneos-arm64e.deb
+Size: 483400
+MD5sum: 167e540a772f4dd479ea7a73c572f6dd
+SHA1: 90d9d2920e9dd59d232e179c4cd99765aed1f909
+SHA256: 1fbbba30259af68946e1dfbaa0ffe86d2b87a47483bb12191fff4278d02ac949
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/3r6hY120/IMG-6999.jpg
+Name: CollaNote
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CollaNote.json
+
+Package: com.blatant.collanote
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.collanote_1.0_iphoneos-arm64.deb
+Size: 501252
+MD5sum: 78b6c0a057f6ea308750368ad50657d4
+SHA1: b60e948175b38b527fd9eed71bb96ff95a84df97
+SHA256: d380a2568a164c2c5a7992e832521c30ba905ab82a42e4129cf2ab3a5d4ea914
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/3r6hY120/IMG-6999.jpg
+Name: CollaNote
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CollaNote.json
+
+Package: com.blatant.collanote
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.collanote_1.0_iphoneos-arm.deb
+Size: 493272
+MD5sum: 87f403cb93dea8c54413d0aff20ed162
+SHA1: 4d07c6679bcd85fbaeb19c0cc09e0540fa28322d
+SHA256: aea612193544da483eb2dee97bd15d652e86f660cc2b0bcd005e27a36aaffa78
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/3r6hY120/IMG-6999.jpg
+Name: CollaNote
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/CollaNote.json
 
 Package: com.blatant.coloringbookforme
 Version: 1.0
