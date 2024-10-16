@@ -2054,13 +2054,13 @@ Package: com.blatant.focos
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3120
+Installed-Size: 3152
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.focos_1.0_iphoneos-arm.deb
-Size: 491698
-MD5sum: 308fd8fe161980f182cf34cb426f310b
-SHA1: 14c69a460a3e21ae4f1f4d1df44ab9f6cc5407d5
-SHA256: e7672072f80c730a2fb87171b4e18d05f7795e5197632e619ee4b959d30937ca
+Size: 477074
+MD5sum: 9188524a33149efe4a196389c43b58c6
+SHA1: ea360c10a9d70cc86745e54baa89c6771e8dba6f
+SHA256: 40e2a69965ac462deabeefdc146415471ca2e24425cf7ee6d5c7379b30ce1796
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2073,13 +2073,13 @@ Package: com.blatant.focos
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.focos_1.0_iphoneos-arm64e.deb
-Size: 462124
-MD5sum: a0a03ef9db3c6169e3cbcdc3716ba156
-SHA1: cf6998588575b030d72929867837fcf1d90b354e
-SHA256: a6e094a8552d067cd1683bec6165ac5fa90ed2bdcb3fac22dc54208186e1817e
+Size: 486456
+MD5sum: 982935d639d21e7592a852feddd20cd0
+SHA1: 6e94ae2138f8403d0f761d26f451ecf0bd6e8eb8
+SHA256: 68854d33e0c0d7eae53c14dd0101445834c93db6d6929b9ac5d5b6579747fc07
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2092,13 +2092,13 @@ Package: com.blatant.focos
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2860
+Installed-Size: 2960
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.focos_1.0_iphoneos-arm64.deb
-Size: 427266
-MD5sum: d2c030a6c3ad65ccc41c2d8b410d7504
-SHA1: 36b03bd8edfacdbfbeadf648f2112c2a000281d6
-SHA256: ecdba751eb929e997053a427a6657835ce9eda27a1cb9b6ae46c18ac13f5812b
+Size: 458960
+MD5sum: bbe51df0d46630bd59bc685947d4bfc8
+SHA1: 03f9dc8a5a58880a0c9d6d89b355445980584669
+SHA256: a659b6c13b28ed529a37c4d895d2a80ddf325a9d4c04f03ebba5b0e18e6ad095
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4899,63 +4899,6 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/mDX8ZQKF/IMG-6768.jpg
 Name: SnoreLab
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnoreLab.json
-
-Package: com.blatant.snowhaze
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.snowhaze_1.0_iphoneos-arm64.deb
-Size: 457958
-MD5sum: eb41dc3312c2da84f47ac61331798897
-SHA1: 1f7088cd6e5491dae715af2b3198180f8ace0d7f
-SHA256: 123f3a7611439e637ee59e0984dc5976765244cdea49c25a52be0e2bf10dfa88
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/T3F4mzKG/IMG-7107.jpg
-Name: SnowHaze
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnowHaze.json
-
-Package: com.blatant.snowhaze
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.snowhaze_1.0_iphoneos-arm64e.deb
-Size: 457820
-MD5sum: 64ee76bfcaca2fda1ce5639f9b4c80b2
-SHA1: f550b9069b99a146dcc5f9a95c3a31a0275bf2a7
-SHA256: 3a8ab14b0544c67ad6dda78865476625ff1c3483b1996401ef0aede5084f5cfe
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/T3F4mzKG/IMG-7107.jpg
-Name: SnowHaze
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnowHaze.json
-
-Package: com.blatant.snowhaze
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2764
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.snowhaze_1.0_iphoneos-arm.deb
-Size: 417348
-MD5sum: 636f342b11369d68621de0e56cbffebf
-SHA1: 0c7e37155a44c098b6a83ed7eb7baaf828c7781c
-SHA256: f0e80390d36d0ce6910ec62d31d5ccd36149085a6d9727971f06bf85d4e62240
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/T3F4mzKG/IMG-7107.jpg
-Name: SnowHaze
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/SnowHaze.json
 
 Package: com.blatant.soundlab
 Version: 1.0
