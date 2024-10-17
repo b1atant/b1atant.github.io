@@ -5128,6 +5128,63 @@ Icon: https://i.postimg.cc/x15P39LS/IMG-5437.jpg
 Name: Stemz
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stemz.json
 
+Package: com.blatant.stepz
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2960
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.stepz_1.0_iphoneos-arm64.deb
+Size: 437808
+MD5sum: d97b0168e70c94177038f2bb41222e9b
+SHA1: f25aae47bb69e2d973236132b401e1c261559fc1
+SHA256: 4a510542139efa1810096cda1c7d21b679e853b78d0c02f180068d333f1120a8
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/C2kjsrg/IMG-7194.jpg
+Name: Stepz
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stepz.json
+
+Package: com.blatant.stepz
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.stepz_1.0_iphoneos-arm.deb
+Size: 458636
+MD5sum: 62e57739a48c60e449e3b012abd0fc48
+SHA1: 30c6fb82d705da06c5a9bc2ae8edc4a96472764b
+SHA256: bfc1db97d18b6cd6b2bcfa02354c52f96c1da23fe237bee2d2157d77c3a49cf3
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: replaceThis
+Name: Stepz
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stepz.json
+
+Package: com.blatant.stepz
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.stepz_1.0_iphoneos-arm64e.deb
+Size: 439726
+MD5sum: e88d1f21e09069a7481487786e665e2c
+SHA1: 69c5006d600aee4092d7d1f2698d491d343b8d9a
+SHA256: ce24fbed6c714b70ca376698b4378294124d9a753a85c286e97f3aa10cb3f364
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/C2kjsrg/IMG-7194.jpg
+Name: Stepz
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Stepz.json
+
 Package: com.blatant.stresswatch
 Version: 1.0
 Architecture: iphoneos-arm
