@@ -1651,6 +1651,63 @@ Icon: https://i.postimg.cc/WpZ11SmZ/IMG-6084.jpg
 Name: Duet Display
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DuetDisplay.json
 
+Package: com.blatant.endel
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.endel_1.0_iphoneos-arm64.deb
+Size: 495264
+MD5sum: 84fd72f00d76e04eff7ce8e859d4ccc2
+SHA1: 3a779d09286e63dbc7ccc1a448bc2d3623c79524
+SHA256: e2ef2acc043aa67e1968b8e6a773683404e9e448120303f17786ecde086dd94b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GP5p21J/IMG-7286.jpg
+Name: Endel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Endel.json
+
+Package: com.blatant.endel
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2880
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.endel_1.0_iphoneos-arm64e.deb
+Size: 445496
+MD5sum: b3e55721ffae500b5ed2403a0e158426
+SHA1: b468b1a4d6666cd9463b2947b692ac7b2b396452
+SHA256: 2207137e4af775c244d47b29e7c538e1d7ab05935bd6088b91ed5303fcaf3ce1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GP5p21J/IMG-7286.jpg
+Name: Endel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Endel.json
+
+Package: com.blatant.endel
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.endel_1.0_iphoneos-arm.deb
+Size: 440750
+MD5sum: 06447e8379094a91021228991bda73c2
+SHA1: be41220023fc6814a1f5021076c180cb1d91dbc2
+SHA256: f9d9fe40aca40d25b169d0058bb6840bc9f3698b24597fc1b3d80b627b866a61
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GP5p21J/IMG-7286.jpg
+Name: Endel
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Endel.json
+
 Package: com.blatant.epik
 Version: 1.0
 Architecture: iphoneos-arm64
