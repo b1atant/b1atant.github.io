@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#292E38",
+    "tintColor":"#E58331",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#292E38"
+                    "tintColor": "#E58331"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/YBB5J1g/IMG-7287.png"
+                            "url": "https://i.ibb.co/YT3Bgwj/IMG-7332.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/b51JjwB/IMG-7288.png"
+                            "url": "https://i.ibb.co/Tm7qdmC/IMG-7333.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/CH9PxT2/IMG-7289.png"
+                            "url": "https://i.ibb.co/QMPwGYv/IMG-7334.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow Endel Tweak or else app will crash  \nIgnore purchase page and restart app if subscription isn't unlocked.",
+                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow Device Monitor 2 Tweak or else app will crash.",
                     "useSpacing": true
                 },
                 {
