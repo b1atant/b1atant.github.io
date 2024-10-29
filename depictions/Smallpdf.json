@@ -1,0 +1,94 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#5FCE72",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Buy Me A ☕️",
+                    "action": "https://ko-fi.com/blatant",
+                    "openExternal": true,
+                    "tintColor": "#5FCE72"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/XW5YkVm/IMG-7456.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/xYhr2BP/IMG-7457.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/HGCnDy7/IMG-7458.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow Smallpdf Tweak or else app will crash.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "blatant"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cracks"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}
