@@ -1651,6 +1651,63 @@ Icon: https://i.postimg.cc/kgc3gtHS/IMG-7020.jpg
 Name: Dictionary Air
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/DictionaryAir.json
 
+Package: com.blatant.documents
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.documents_1.0_iphoneos-arm64e.deb
+Size: 22832
+MD5sum: c13a60f839a16bc74444dbaf27c49530
+SHA1: 8573548b5322184c56d041f73c8c35b29e8babf6
+SHA256: c7209ddce7ba3d6d600b29076096635a5f2a00e4feb69c947f7a8c33657abba7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/M95NY2B/IMG-7506.jpg
+Name: Documents
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Documents.json
+
+Package: com.blatant.documents
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.documents_1.0_iphoneos-arm64.deb
+Size: 22928
+MD5sum: 033d5d7c505c137658f0e16b0ab06eda
+SHA1: d7817890ebfd51ba195403f25cd23fa532ef1bd1
+SHA256: be894b667152799784e059f2e26018be74b25b0840cd4aed1da32e37cec6ffa6
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/M95NY2B/IMG-7506.jpg
+Name: Documents
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Documents.json
+
+Package: com.blatant.documents
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.documents_1.0_iphoneos-arm.deb
+Size: 22868
+MD5sum: 9819b9de5269e58a5dcc218116a3fd31
+SHA1: 884825a5ba91d0683999757fd65bbc0181d4be0e
+SHA256: 9ada6627d365dd20f128f2c2e08ba8cb34d45915723f05863b3b2113dd306fd7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/M95NY2B/IMG-7506.jpg
+Name: Documents
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Documents.json
+
 Package: com.blatant.drafts
 Version: 1.0
 Architecture: iphoneos-arm64e
