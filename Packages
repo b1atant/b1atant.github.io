@@ -2449,6 +2449,63 @@ Icon: https://i.ibb.co/bKwLxbs/IMG-7172.jpg
 Name: Focos
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Focos.json
 
+Package: com.blatant.focoslive
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.focoslive_1.0_iphoneos-arm64e.deb
+Size: 479194
+MD5sum: adbb979cd7bf4ea5346096c6e88d5392
+SHA1: 7e45298c6360174d9365ae52993fd58393f915bb
+SHA256: 10d36298bcd04e6754fa4585e3c5a9e56e6572b31c6d64d8dbac2f4289d6e5ec
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/MCysw1D/IMG-7551.jpg
+Name: Focos Live
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FocosLive.json
+
+Package: com.blatant.focoslive
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.focoslive_1.0_iphoneos-arm64.deb
+Size: 472040
+MD5sum: f07e243f5f60b40c0a95629d92b62d90
+SHA1: 88e9c7eaf19a37c3c15e795f4da349f03b6219a3
+SHA256: 604f5359b925a890695aa37e0d20d17af42eaf8b9b3a2e61f2d92e314a9e7dcd
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/MCysw1D/IMG-7551.jpg
+Name: Focos Live
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FocosLive.json
+
+Package: com.blatant.focoslive
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.focoslive_1.0_iphoneos-arm.deb
+Size: 465690
+MD5sum: e91cbcde9b0b694e4e04e5eddad6edb2
+SHA1: 8228d14423604d8fc02de5ad0b48fe35e72d385f
+SHA256: 756be78c9c8cd67836e5990fcfde2df33b4d51bdf8417e5871cdd95ffc9a4dd6
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/MCysw1D/IMG-7551.jpg
+Name: Focos Live
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FocosLive.json
+
 Package: com.blatant.freeyourmusic
 Version: 1.0
 Architecture: iphoneos-arm64e
