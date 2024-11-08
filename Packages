@@ -3532,63 +3532,6 @@ Icon: https://i.ibb.co/hWDPTgH/IMG-7258.jpg
 Name: KineMaster
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/KineMaster.json
 
-Package: com.blatant.lifesum
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm64e.deb
-Size: 15410
-MD5sum: 0b0432398f8a5b659d6e6ab51319780c
-SHA1: ec487cdb6c50b3bd873eefd6094eca4693ee8fd0
-SHA256: b66e0ee95d3d7cc1d5eab19f561d13544f996c6e8e83ca37bb29ad65146aa734
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
-Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
-
-Package: com.blatant.lifesum
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm.deb
-Size: 15478
-MD5sum: 7bd58887eebb64670c99aff424c81b19
-SHA1: 530f1ddd2cccf66de585f05085b683a21760a5f7
-SHA256: ce1a1ae3682d09409e20c9c6f3f0cff183bf1af8501cff876e47e0c47a21d380
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
-Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
-
-Package: com.blatant.lifesum
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: blatant
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.lifesum_1.0_iphoneos-arm64.deb
-Size: 15552
-MD5sum: 2db1b15645f14f8927e1532a84a17485
-SHA1: a70d943dcdee5e28f5440f189a3cd28540928f72
-SHA256: 915acca7d2b4bac8fa23c2c8b3e8659748e690c6ad111fdefbb46ed1775a591c
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
-Name: Lifesum
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
-
 Package: com.blatant.lifesumcrack
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4215,6 +4158,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/P53MkmsM/IMG-5909.jpg
 Name: Mimo
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Mimo.json
+
+Package: com.blatant.mockview
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mockview_1.0_iphoneos-arm.deb
+Size: 20986
+MD5sum: aa7a7a5eedb3cad47ca95b2ce94cd704
+SHA1: e15e177b4dca2484670453056fef3a2f81ea4dbb
+SHA256: 57145303f7b863a2f0cf5f46fffd12b3fd3fcd6aae3c3a5af4a8f56d846b496b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ZTrqWsn/IMG-7652.jpg
+Name: Mockview
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.mockview
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mockview_1.0_iphoneos-arm64.deb
+Size: 21080
+MD5sum: 0b328cf7d9b9b77370e192403ac73739
+SHA1: e0cead5db5c2750824034130d784356737006854
+SHA256: 8903ed2ff447f5756caa2c836687951cef1b3ea91c7fd9b92c714bd4959ea6ad
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ZTrqWsn/IMG-7652.jpg
+Name: Mockview
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.mockview
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.mockview_1.0_iphoneos-arm64e.deb
+Size: 20962
+MD5sum: bb53659d9202ce0430d515dc42414add
+SHA1: b4ba211292189200234592d16772a500d768545e
+SHA256: e88047222a9eae292d569ae9dc5c1270569f7baf2bb955b6fa2d714c34e975de
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ZTrqWsn/IMG-7652.jpg
+Name: Mockview
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
 
 Package: com.blatant.monet
 Version: 1.0
