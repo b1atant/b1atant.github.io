@@ -3589,6 +3589,63 @@ Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
 Name: Lifesum
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
 
+Package: com.blatant.lifesumcrack
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lifesumcrack_1.0_iphoneos-arm64.deb
+Size: 15476
+MD5sum: cefd13c90ba76c89a4f57f8a85397c97
+SHA1: 499147fec70d4dad082ba7c36d800fbeac0ef4e7
+SHA256: c26102a7761b4fd59144af2d702d816fe64b19e6361ae273d066c6d4e3725d2d
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
+Name: LifesumCrack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
+
+Package: com.blatant.lifesumcrack
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lifesumcrack_1.0_iphoneos-arm64e.deb
+Size: 15498
+MD5sum: b61f2ed04763694ee3badf695b0a9b29
+SHA1: fce3e8a2e6057657c4bdc51ad5222342466cf4aa
+SHA256: a5120bdcc879ddb8ff0512e66eeac914a589bfebb4c0cfc65f9f0df4669b11f9
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
+Name: LifesumCrack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
+
+Package: com.blatant.lifesumcrack
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lifesumcrack_1.0_iphoneos-arm.deb
+Size: 15468
+MD5sum: 253401f71bf4e1ef0ef2ae0b29c5ce25
+SHA1: bffbcfa7306582f2f65dad97153f34e586f8e20e
+SHA256: 33243e7f79cd99f7548e280d3f96e29bc563f463c824f2b51f7133ddf164a00b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/MKRPVksW/IMG-5424.jpg
+Name: LifesumCrack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Lifesum.json
+
 Package: com.blatant.lightleap
 Version: 1.0
 Architecture: iphoneos-arm64e
