@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#512da8",
+    "tintColor":"#222222",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#512da8"
+                    "tintColor": "#222222"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/m0m49nY/IMG-7688.png"
+                            "url": "https://i.ibb.co/kJ2ffLT/IMG-7552.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/59qVMNK/Untitled-design.png"
+                            "url": "https://i.ibb.co/RQ06cNz/IMG-7553.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.ibb.co/TcNzStt/Untitled-design.png"
+                            "url": "https://i.ibb.co/y6snmXM/IMG-7554.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription/Purchases \n⚠️Disable tweak injection into this app with choicy and only allow this Tweak or else app will crash.",
+                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow FocosLive Tweak or else app will crash  \nRestart app if subscription isn't unlocked.",
                     "useSpacing": true
                 },
                 {
