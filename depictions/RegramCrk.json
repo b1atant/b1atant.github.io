@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#222222",
+    "tintColor":"#AE3475",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#222222"
+                    "tintColor": "#AE3475"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Crack For Regramb15 install alongside with regram deb\n⚠️Disable tweak injection into this app with choicy and only allow RegramCrk Tweak or else app will crash.",
+                    "markdown": "Crack For Regramb15 install alongside with regram deb\n⚠️If instagram crashes use choicy and only allow Regram and the crack.",
                     "useSpacing": true
                 },
                 {
