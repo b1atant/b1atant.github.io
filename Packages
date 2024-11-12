@@ -5588,13 +5588,13 @@ Package: com.blatant.regramcrack
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3120
+Installed-Size: 2976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.regramcrack_1.0_iphoneos-arm.deb
-Size: 491156
-MD5sum: 534a3609478b7cc5eb22012ccbc841bc
-SHA1: 3f087c61e2488fdf0d02532de4e8356e47784be1
-SHA256: 4958919560d0d3cccb8baaa5431a8006c22fa1dde27a021ca0457a02087f3cb0
+Size: 454224
+MD5sum: b18fd0ae5e9fc7fb98df559859e1165d
+SHA1: 187a172917a901cae51356a1cba2a069f3bb54cf
+SHA256: fdd224bcb7933590d62a4efe9446899cadaf66ae412bc35c95cd210fbc2fa133
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5607,13 +5607,13 @@ Package: com.blatant.regramcrack
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3008
+Installed-Size: 2976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.regramcrack_1.0_iphoneos-arm64e.deb
-Size: 474094
-MD5sum: 25596fb13c606998ea41a57c8882fd49
-SHA1: b82e483a754f0bbb7b6f94bde54fc37c317850f5
-SHA256: 33f9c3b846098ed6c036225de5354f11f1171b911c5859c36940f2e7792b9240
+Size: 462690
+MD5sum: 205e2a594b00536e1ed4fbcc7fb33e8c
+SHA1: 44fe5a084131487053ca0e4e91fe2aa9b2685c02
+SHA256: 8d35f1f96024e130b92cc196958da4a31cfb4036477aef5a72a4935902b89b07
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5629,10 +5629,10 @@ Maintainer: blatant <blatantzzz@protonmail.com>
 Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.regramcrack_1.0_iphoneos-arm64.deb
-Size: 475218
-MD5sum: 6996795f36f738d63016cb393aa7b3e9
-SHA1: 8ef04b7ff89ea04712b58a9fa237bdb0c846e8d8
-SHA256: 286a22e10a6416ee3c7d9f5c04f71aa2f4c7b6bb8a42d513359feb5477639654
+Size: 462804
+MD5sum: 58908c36e7b7e2878c2f4178f9b7aeaf
+SHA1: fb317190d97e41dc7420bd0677a676f5b678174d
+SHA256: 90d99fe992b311f6e8847a2686d81efca90fd42cb5a89ca9645a7800bca4208b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
