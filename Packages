@@ -1541,14 +1541,14 @@ Package: com.blatant.crackfouad
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3008
+Installed-Size: 3172
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.0_iphoneos-arm64e.deb
-Size: 476904
-MD5sum: a8da6735b346f204081175ddeb892965
-SHA1: e432b32bb064ae41fa0010b4382fa51f748f7dfb
-SHA256: 0dd1ebf67d124da6c513197002a1d3c6e82a5215a4e49c263073c349c44f6a87
+Size: 488274
+MD5sum: 5bb7acca9ac16e706737cdb35f8da4a5
+SHA1: d0be79fb318d7e2a56f6cb9cf9822ebbd6bfb657
+SHA256: c4f48ee7c3094df86b91ff5f08d6ad574808a4b34286d1b40a82a37266c85e9f
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1561,14 +1561,14 @@ Package: com.blatant.crackfouad
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3316
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.0_iphoneos-arm64.deb
-Size: 525150
-MD5sum: 9c97979ce4cc2f00d1d2eaa81099cbe4
-SHA1: 9e86cf21ea4ce3ae8f8eef9f82771318ed250855
-SHA256: 9faed831953cefc054ac51ca56957f739c87485e7d2430c5d6f45cd7d6cb0379
+Size: 469558
+MD5sum: 504804089ef4bd30e522f06d50035e08
+SHA1: 773dcf0b5309cdaca637a94722b6f7ffa3811153
+SHA256: 1af3f14de91d0251de61938cdd5a049f5e2aa58ca0c3aa2f0e0709c8b9b703a5
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1581,14 +1581,14 @@ Package: com.blatant.crackfouad
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3252
+Installed-Size: 3172
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.0_iphoneos-arm.deb
-Size: 497012
-MD5sum: ea2fa831880d3dbc86c8efdb44f49119
-SHA1: 235ae6b15ddf57ead981ca3e5705a008f24ca3c3
-SHA256: 8a5239ccdb6f6c9a974c56e36ea722be94beb8512fdd6f78c599d97b81b69674
+Size: 489706
+MD5sum: fae82f12c961c0a2757c45af69ac36ef
+SHA1: f0989f241920db8dd1833fde5d021e0abbfebd0b
+SHA256: b92f7d5625ef9732b712d1b26cf43771d1fe8afceec86a9b76b1e4cd817e99bb
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
