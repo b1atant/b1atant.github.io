@@ -1,0 +1,108 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#AE3475",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Buy Me A ☕️",
+                    "action": "https://ko-fi.com/blatant",
+                    "openExternal": true,
+                    "tintColor": "#AE3475"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/m0m49nY/IMG-7688.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/59qVMNK/Untitled-design.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.ibb.co/TcNzStt/Untitled-design.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+    "class": "DepictionMarkdownView",
+    "markdown": "**⚠️ Important Notice:**\nPlease backup your WhatsApp chats before using this tweak. I am not responsible for any data loss.\n\n---\n\n#### Crack for All Fouad Tweaks\n\n**Tested Versions:**\n- **WatusiTools:** v2.4.40  \n- **ContactSync:** v1.1.11  \n- **Stalky:** v4.1.31  \n- **Regram:** B15  \n- **Watusi 3:** v1.2.45  \n\n---\n\n**Steps to Follow:**\n1. Log out from tweak settings.\n2. Restart the app twice.\n3. No account login required.",
+    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "blatant"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cracks"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Removed DRM  \nAll your tweaks will now work with this crack enjoy.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}
