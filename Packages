@@ -1657,6 +1657,66 @@ Icon: https://i.ibb.co/D4vsppW/Untitled-design.png
 Name: Fouad Crack
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FouadCrack_v1.1.json
 
+Package: com.blatant.crackfouad
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2980
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.blatant.regramcrack (= 1.0)
+Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm64e.deb
+Size: 461184
+MD5sum: 6fb3ac691c05a623c4835a4c07659523
+SHA1: d8ecfaf91e59fbfeb236b7d912f8e97a375afe63
+SHA256: b54d27f3a32f0a12b6135c3ad159012964f75923d0310840a642aa8dc3b406ce
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/D4vsppW/Untitled-design.png
+Name: Fouad Crack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FouadCrack_v1.2.json
+
+Package: com.blatant.crackfouad
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3252
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.blatant.regramcrack (= 1.0)
+Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm.deb
+Size: 508384
+MD5sum: 18e27bee49dbdb339a6a4d697168d767
+SHA1: d6e213d4b3185a58467a8bfbc335d0c9717d8388
+SHA256: ac56f3d0b8f96d462fd98aaa29610f2a6470515c0d95e54a343ea1ece3b4cf20
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/D4vsppW/Untitled-design.png
+Name: Fouad Crack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FouadCrack_v1.2.json
+
+Package: com.blatant.crackfouad
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3172
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.blatant.regramcrack (= 1.0)
+Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm64.deb
+Size: 499302
+MD5sum: 22b096aed31818cafa8190a1a4d076ec
+SHA1: 4daf59aed705a43ffaafe147b09bd6f4766dd86b
+SHA256: b090905535764744bdfee9d64ae3a868823e50ae1c7b8ec5ea04114ba6aaab6c
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/D4vsppW/Untitled-design.png
+Name: Fouad Crack
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FouadCrack_v1.2.json
+
 Package: com.blatant.devicemonitor2
 Version: 1.0
 Architecture: iphoneos-arm64
