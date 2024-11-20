@@ -8044,6 +8044,63 @@ Icon: https://i.postimg.cc/MpLFxjmF/IMG-6568.jpg
 Name: Window
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Window.json
 
+Package: com.blatant.wolframalpha
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.wolframalpha_1.0_iphoneos-arm.deb
+Size: 459946
+MD5sum: e99fe5606f80bfdc7c1ac90ba1c66732
+SHA1: f9e7d6d2d12bd9b035472f8d0f01bac9c59dba5e
+SHA256: d7d44e22eb68db0401d61d525d347a3faa84a34155e0bf24a9a620623eb8365a
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/bbWc94j/IMG-7828.jpg
+Name: Wolfram Alpha
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplateNoDrm.json
+
+Package: com.blatant.wolframalpha
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.wolframalpha_1.0_iphoneos-arm64.deb
+Size: 490016
+MD5sum: d2b68fd4e969ac89dd7ad2b73d7de41e
+SHA1: d813c8f0e7b1fe518bbd0f6a210894d67ebc7a54
+SHA256: c3ff8f82c16a3b515a0a052c0d69c67a073956a7b37fcc2d61e084234184afcc
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/bbWc94j/IMG-7828.jpg
+Name: Wolfram Alpha
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplateNoDrm.json
+
+Package: com.blatant.wolframalpha
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.wolframalpha_1.0_iphoneos-arm64e.deb
+Size: 450068
+MD5sum: ad6d79ad7808bdf063b2f0d76af73aba
+SHA1: 0f676fa7520fabed20b8f1a117febbff270c87f8
+SHA256: cbd8c23c98acaf47ffd9c273af772f128e479a6daf16aaf706a7023999720971
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/bbWc94j/IMG-7828.jpg
+Name: Wolfram Alpha
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplateNoDrm.json
+
 Package: com.blatant.wordotd
 Version: 1.0
 Architecture: iphoneos-arm64
