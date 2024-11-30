@@ -2234,13 +2234,13 @@ Package: com.blatant.epik
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 3120
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.1_iphoneos-arm64.deb
-Size: 486652
-MD5sum: 2dd77bfad44836d5a7ed8c99577e2eb1
-SHA1: 315b0a6bc90913cbf77777600e15b846cdd0cb4f
-SHA256: 674d2e96381db0ec164fd3552d2238ddfc0f3d2438116f6b7cbaaaa6ea5bf9e8
+Size: 457246
+MD5sum: 855ef063701c073f92b72ad1fe9ed268
+SHA1: b083801a17dd2f0d5b0f4d4b66ddf13ebe13f5c8
+SHA256: 0ca02e1cf907277e924cbe1e369736ef3f67af5350f8b03b58771f1263cbba84
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2253,13 +2253,13 @@ Package: com.blatant.epik
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 2880
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.1_iphoneos-arm.deb
-Size: 445122
-MD5sum: 5bea551e1f3e0b8a01631204c64f0db9
-SHA1: e57e9de6bf6260267024361a20032986b1a25e63
-SHA256: 90e6564ebe5440b595f9ebf3059905644a691d59c894a16bf39e3bc3bcc7a4c5
+Size: 487980
+MD5sum: 13ef765b12ada63223c8c97ff7bb140f
+SHA1: 8b190c2301520344e9143da9228c56abba5fda4a
+SHA256: 600a040bb26f45a05561c1930e3fda005c77ac47a322c98460c2ab3c2b3faae3
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2272,13 +2272,13 @@ Package: com.blatant.epik
 Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 2928
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.epik_1.1_iphoneos-arm64e.deb
-Size: 460660
-MD5sum: 7c13bb5df7f9a0f3d98d3762632cd67f
-SHA1: dec296344f8ea42289d5f03c48c59894754fb665
-SHA256: 6e55983f6eab05b69ed4347155947c5c2fa8db19147a560e9481ff71cd87051b
+Size: 459194
+MD5sum: b51308da964e4c515acae9e480fd3abd
+SHA1: 22799c7c8ab803719f305a691e1a2ae61da2418e
+SHA256: d68ffc3aa1bc31df00c2ea0a33c9f6a93fab85318a3f561d565151fd1cb869c4
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
