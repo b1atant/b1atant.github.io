@@ -2230,6 +2230,63 @@ Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
 Name: EPIK
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIK.json
 
+Package: com.blatant.epik
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.epik_1.1_iphoneos-arm64.deb
+Size: 486652
+MD5sum: 2dd77bfad44836d5a7ed8c99577e2eb1
+SHA1: 315b0a6bc90913cbf77777600e15b846cdd0cb4f
+SHA256: 674d2e96381db0ec164fd3552d2238ddfc0f3d2438116f6b7cbaaaa6ea5bf9e8
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
+Name: EPIK
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIKv1.1.json
+
+Package: com.blatant.epik
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 2880
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.epik_1.1_iphoneos-arm.deb
+Size: 445122
+MD5sum: 5bea551e1f3e0b8a01631204c64f0db9
+SHA1: e57e9de6bf6260267024361a20032986b1a25e63
+SHA256: 90e6564ebe5440b595f9ebf3059905644a691d59c894a16bf39e3bc3bcc7a4c5
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
+Name: EPIK
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIKv1.1.json
+
+Package: com.blatant.epik
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 2928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.epik_1.1_iphoneos-arm64e.deb
+Size: 460660
+MD5sum: 7c13bb5df7f9a0f3d98d3762632cd67f
+SHA1: dec296344f8ea42289d5f03c48c59894754fb665
+SHA256: 6e55983f6eab05b69ed4347155947c5c2fa8db19147a560e9481ff71cd87051b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/g04384Fc/IMG-5413.jpg
+Name: EPIK
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/EPIKv1.1.json
+
 Package: com.blatant.evertag
 Version: 1.0
 Architecture: iphoneos-arm64e
