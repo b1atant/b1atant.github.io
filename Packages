@@ -2173,25 +2173,6 @@ Icon: https://i.ibb.co/GP5p21J/IMG-7286.jpg
 Name: Endel
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Endel.json
 
-Package: com.blatant.englishdictonary
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2992
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.englishdictonary_1.0_iphoneos-arm.deb
-Size: 455736
-MD5sum: c83a5cf26a7692feec2a9c3fe69d5b9b
-SHA1: 0534fbf93c4b1ad80157fdde8df4c91306cc282c
-SHA256: 64de5c577b813a237f08835a238ee235d8106f424ee23be7ed03a275b4134c54
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: replaceThis
-Name: English Dictonary
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
-
 Package: com.blatant.enki
 Version: 1.0
 Architecture: iphoneos-arm64e
