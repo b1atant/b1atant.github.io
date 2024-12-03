@@ -910,6 +910,63 @@ Icon: https://i.postimg.cc/8z7kwNYr/IMG-6180.jpg
 Name: BXNG
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BXNG.json
 
+Package: com.blatant.bxng
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bxng_2.0_iphoneos-arm64.deb
+Size: 464282
+MD5sum: 1b2665f7a2375996887494413dc1f5a4
+SHA1: 0025f49efef36ea7f95a9007471315465b71eba6
+SHA256: 974a5e7c4d5eab7d7f6eff31a0cbe8911ee3c7c3f923ab1d701e26468f2e6dd1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/8z7kwNYr/IMG-6180.jpg
+Name: BXNG
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BXNGv2.json
+
+Package: com.blatant.bxng
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bxng_2.0_iphoneos-arm64e.deb
+Size: 520076
+MD5sum: 1ac62da21acd59e8fec4102c6c105ec4
+SHA1: a05b6d12acd11aad1d9031043d42310c4193b6a0
+SHA256: 289677b4fe534bffb30111c5bf8b13a6cb7b0f99a3268fe804657a1de74f03ef
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/8z7kwNYr/IMG-6180.jpg
+Name: BXNG
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BXNGv2.json
+
+Package: com.blatant.bxng
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2880
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bxng_2.0_iphoneos-arm.deb
+Size: 445106
+MD5sum: 31a07c289526eb6dab708fb2bcf14e80
+SHA1: 4174670695165590ac76530455e84fffe3b2aa45
+SHA256: 7805b4c6f6fd4e94cae3845611e589c3c8ddb61203b138734ce6d3421d5a2e37
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/8z7kwNYr/IMG-6180.jpg
+Name: BXNG
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BXNGv2.json
+
 Package: com.blatant.calculator+
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2116,6 +2173,25 @@ Icon: https://i.ibb.co/GP5p21J/IMG-7286.jpg
 Name: Endel
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Endel.json
 
+Package: com.blatant.englishdictonary
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.englishdictonary_1.0_iphoneos-arm.deb
+Size: 455736
+MD5sum: c83a5cf26a7692feec2a9c3fe69d5b9b
+SHA1: 0534fbf93c4b1ad80157fdde8df4c91306cc282c
+SHA256: 64de5c577b813a237f08835a238ee235d8106f424ee23be7ed03a275b4134c54
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: replaceThis
+Name: English Dictonary
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.enki
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -2633,13 +2709,13 @@ Package: com.blatant.flighttracker+
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm.deb
-Size: 17688
-MD5sum: b8c7ffec64e5604386ed524893dc0423
-SHA1: f9c052e10e41ba8aa9da556a23127a56da4ab3b6
-SHA256: 1c3be9792b77e0a72427a6ffefdfb9605721f02e2ff566bade1b36300de216b0
+Size: 28554
+MD5sum: 8b6cddc35d826b5f862c451d109a1266
+SHA1: a4ae0596c32773e2da926ab17e07c1600d3997cf
+SHA256: ca347bc6e0592ecc4290c2829b6daa5e665dfd5a2211fc5eadeaf11ccf4f7116
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2652,13 +2728,13 @@ Package: com.blatant.flighttracker+
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm64.deb
-Size: 17778
-MD5sum: 1ea835c1b0609d4a2003220b24d48977
-SHA1: 26908b7c9016bb32cccdcf445e0286284f82d917
-SHA256: 53659658e903ccb4745c2c33e6cd185df3dacada40c441a45d4d6362255a8c50
+Size: 28822
+MD5sum: 9f8e691cf5ed76ab2151efc4f76ae345
+SHA1: df6ac7196ab31946c0ebc178f40961b4908d6e19
+SHA256: 5d1fa7ba56997f0dfbbedcc71d7f52f3364b4157f3a6d93d42217cce243a6720
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -2671,13 +2747,13 @@ Package: com.blatant.flighttracker+
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 204
+Installed-Size: 236
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.flighttracker+_1.0_iphoneos-arm64e.deb
-Size: 17660
-MD5sum: 7a70b06c901b38be4096d3e297e6612f
-SHA1: 44b6912183b350a8ebc963b97f4857945e2eba8e
-SHA256: 52db777eea9fd3d5f63a00d3650a47723658968db46ee26189b21e6c0b35f5c3
+Size: 28726
+MD5sum: 72b80ce4d91c6739526814c72789c80c
+SHA1: 7d045f0fe9e34d4af84e0341ae39fd5b2bd808d5
+SHA256: 0137e84b3975fa00f0fd54b7165ea20296b9e1d5eb36d74e30dd0b414989a8d8
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
