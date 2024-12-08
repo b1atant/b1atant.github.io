@@ -682,6 +682,63 @@ Icon: https://i.postimg.cc/tJ837T0h/IMG-5408.jpg
 Name: Avatarify
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Avatarify.json
 
+Package: com.blatant.bazaart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bazaart_1.0_iphoneos-arm.deb
+Size: 460738
+MD5sum: 3e3bf9fc799eb4ade8969aff20304a49
+SHA1: c1641143adbd528f9d0ddbd4a693eb426c2597de
+SHA256: cda9f7cbc899ccc98577e8054f3f6aa4e251b94ff41b0d8dea5f4f1a91c5e38e
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/jgLPWdG/IMG-8076.jpg
+Name: Bazaart
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.bazaart
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2864
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bazaart_1.0_iphoneos-arm64.deb
+Size: 428310
+MD5sum: 64f00d7efec4548eb72cf3bb2b4427c4
+SHA1: 196e9b6ed3531e4cce3794da8c47ffe6ccbe1905
+SHA256: 6d59153f5098d9c91a31a91e2aa7ec0d2ba63ce863a0cbde3c6bee1bbe486a67
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/jgLPWdG/IMG-8076.jpg
+Name: Bazaart
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.bazaart
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.bazaart_1.0_iphoneos-arm64e.deb
+Size: 475896
+MD5sum: 37586c1e9289ff74459cda07235c64d0
+SHA1: dfdf69ae527d9aadf89791d27e473db590dd0b54
+SHA256: 220afa51e7b8dd7daf5578456f750e5e6738e585169d9287c449a961a3d07c87
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/jgLPWdG/IMG-8076.jpg
+Name: Bazaart
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.bettersleep
 Version: 1.0
 Architecture: iphoneos-arm64e
