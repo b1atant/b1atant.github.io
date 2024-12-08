@@ -1256,13 +1256,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3056
+Installed-Size: 2880
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm64.deb
-Size: 474818
-MD5sum: 8606e7f905deb05944a19f2573b7d6e0
-SHA1: d57f253ff10b48838940b6d549298e2293fb8383
-SHA256: 6d1fed60f84a8ee8775e173cbca7ddcffa4af26c7b0502b3f598e74c3785e3b4
+Size: 443192
+MD5sum: 379493a5b013d68bbb1d087087edc309
+SHA1: 27e8a0c976ad86f956e20de02dba8b41cd85a040
+SHA256: 3874625210190288c79a566672ed17d415d5b1a77a9e598d2bb69039af7eadc5
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1275,13 +1275,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3056
+Installed-Size: 2960
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm.deb
-Size: 461294
-MD5sum: 0cdd31c57826e555aeccd721d27e770e
-SHA1: 851ce52c75237979048d23bf4e7e9bc901460f4e
-SHA256: e324bcdc8fb89745752adc85cc3f54f7185cdd1c01800d49927bbb14126d6e18
+Size: 447844
+MD5sum: 5e4432f638cd755401eb47b8a137d8a5
+SHA1: 0ea64ea7443a5fd5139ca9b399c77c6d26735c76
+SHA256: b87a544c7792209905fb0fb7270aa2af2b50006cd6b00a7f1ca0d97dc7bb3a13
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1294,13 +1294,13 @@ Package: com.blatant.clime
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3184
+Installed-Size: 3264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_1.0_iphoneos-arm64e.deb
-Size: 497902
-MD5sum: e1e667b24e8c8e566fadde7e789b83b2
-SHA1: e1ac0a2d731d78b7f74f01330cb64bb6c86f538c
-SHA256: e804ccda2e9e2b00e8750d4c22521ef971213a287365188561857eae277c4312
+Size: 502758
+MD5sum: 31c4f595efc6812735c1d34593abccde
+SHA1: 1ac34af4de7df5d58891542cc79ebdb6b9c65a31
+SHA256: 1622ecd9483bf030a6b832f408369f4ab34d5b5800694b33f7bf60c4c5eb9a69
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1308,6 +1308,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/DzL6sbVq/IMG_6402.jpg
 Name: Clime
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Clime.json
+
+Package: com.blatant.clime
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.clime_2.0_iphoneos-arm.deb
+Size: 507166
+MD5sum: 76871189318c7f70704209890562afee
+SHA1: f2a8144e7b2036c8ff5350b6b147049d00cf13b4
+SHA256: ff3fbd7018ffacb0def08e759c54b76f763f8313ba59ea55990fd7c29bddcfd7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/DzL6sbVq/IMG_6402.jpg
+Name: Clime
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Clime_v2.0.json
+
+Package: com.blatant.clime
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.clime_2.0_iphoneos-arm64e.deb
+Size: 460942
+MD5sum: 3464c721dac61b08571f6ff3b8db0ac1
+SHA1: 1c160fb084cac30f29fa32361b1363de51d29c46
+SHA256: 13738f98dcbe5d08ef4fee798341d90ae68b47be4a34c559524c63ac5b8c26ab
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/DzL6sbVq/IMG_6402.jpg
+Name: Clime
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Clime_v2.0.json
+
+Package: com.blatant.clime
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.clime_2.0_iphoneos-arm64.deb
+Size: 462476
+MD5sum: f42f4545757ee43ac0ba66641c2e614a
+SHA1: 3b02f50b293ac1f8e3a2f2be8840494a05bfb9e8
+SHA256: 81dabe459d751bc75e35fb615d72621e46d36914bc546c38242622c0ca218da1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/DzL6sbVq/IMG_6402.jpg
+Name: Clime
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Clime_v2.0.json
 
 Package: com.blatant.cmprocalc
 Version: 1.0
@@ -3768,6 +3825,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/rpBqCLDS/IMG-6302.jpg
 Name: iTranslate Translator
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iTranslateTranslator.json
+
+Package: com.blatant.itranslatetranslator
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3248
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm64e.deb
+Size: 498456
+MD5sum: cdce8eac5e412feaa0565499e1ac9db8
+SHA1: 94959ec70585d5c4cb9c02150547012350fd9b5c
+SHA256: 2638c31a426a79581193561158fc486df7237e1fcef33f1b7e49bff5eb1fd946
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rpBqCLDS/IMG-6302.jpg
+Name: iTranslate Translator
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iTranslateTranslator_v2.0.json
+
+Package: com.blatant.itranslatetranslator
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm64.deb
+Size: 469248
+MD5sum: c18ee5c0a190240859f21c633e3c5f55
+SHA1: 95fe1d272edaf8502b1249a63017e910a767b835
+SHA256: 134ba41ca2b8177de626b2c74ffa69b28a22cd438b4a37ea080ca7abba8a3d14
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rpBqCLDS/IMG-6302.jpg
+Name: iTranslate Translator
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iTranslateTranslator_v2.0.json
+
+Package: com.blatant.itranslatetranslator
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2864
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm.deb
+Size: 428780
+MD5sum: 7476668191dd66c46ee1fb34c083fc83
+SHA1: 408540420435843cf285bb1bb38447d84f6e6481
+SHA256: e562d7cd0c8b5d4a1272ad060942b2b468981745d85c0bd683ed315feb0a97a5
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/rpBqCLDS/IMG-6302.jpg
+Name: iTranslate Translator
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/iTranslateTranslator_v2.0.json
 
 Package: com.blatant.kegel
 Version: 1.0
