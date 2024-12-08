@@ -3203,13 +3203,13 @@ Package: com.blatant.genie
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 3120
+Installed-Size: 3264
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_2.0_iphoneos-arm64.deb
-Size: 470496
-MD5sum: dedea2eff8d076a47a0e2dc5fe019a53
-SHA1: b8efb85aabc4239e1aeebd0441de3aba4c22f336
-SHA256: 8d2439e8c060519137f7fbf2bbf276d4bbfff0a4eb3894fcb2faea7777524135
+Size: 506164
+MD5sum: 3604e7ad70b7cd75838193c29cd52278
+SHA1: e7884790feefb520e7e9edd65f7d1d8dc7075a4c
+SHA256: bd07edde6396681a756e28517693c04e6ec9ae138ae81695a48fae96fe41b401
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -3222,13 +3222,13 @@ Package: com.blatant.genie
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 2912
+Installed-Size: 3056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_2.0_iphoneos-arm.deb
-Size: 433280
-MD5sum: 9807770a5894e5eaa0d30a73efcc16c5
-SHA1: 26a4aca71ae3e911f52dbf1cf09d731860e001ca
-SHA256: 5c5cd26b36fe3a6f4be8aa50b148bc23da3d57589f1e30ebc7d7c3863f9b2d58
+Size: 451768
+MD5sum: 14e6ace93dd9ad92ed01c3e7504625e7
+SHA1: dc7d35f579fd2e42a0e05063d6bee2a1d2af0b81
+SHA256: 1f72bac803f27d26ab3eb53502f4d6393965ad8bd826ba0c692c815269f48dd6
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -3241,13 +3241,13 @@ Package: com.blatant.genie
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 3104
+Installed-Size: 3248
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.genie_2.0_iphoneos-arm64e.deb
-Size: 466984
-MD5sum: 1af0190e97ded1680ff2267c29393aa4
-SHA1: dbdb533f2ed5a7b519352cf3fc53b63dbe61194e
-SHA256: c1645ade5b618acb67213a3092ccd68a4203c2b72dc0163607a1f87c1cfa05d3
+Size: 486258
+MD5sum: 76bf4a6528ba0217c71934266d015e3e
+SHA1: 852cf16b060f5d391a9d598a63390357431b86d5
+SHA256: 458bb836041d0d75b107b2b45e2e4d8f49c17494f4e9315faa4fa32ceed2923b
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
