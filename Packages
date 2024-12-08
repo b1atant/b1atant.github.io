@@ -3199,6 +3199,63 @@ Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
 Name: genie
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie-V1.1.json
 
+Package: com.blatant.genie
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 3120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_2.0_iphoneos-arm64.deb
+Size: 470496
+MD5sum: dedea2eff8d076a47a0e2dc5fe019a53
+SHA1: b8efb85aabc4239e1aeebd0441de3aba4c22f336
+SHA256: 8d2439e8c060519137f7fbf2bbf276d4bbfff0a4eb3894fcb2faea7777524135
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie_v2.0.json
+
+Package: com.blatant.genie
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 2912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_2.0_iphoneos-arm.deb
+Size: 433280
+MD5sum: 9807770a5894e5eaa0d30a73efcc16c5
+SHA1: 26a4aca71ae3e911f52dbf1cf09d731860e001ca
+SHA256: 5c5cd26b36fe3a6f4be8aa50b148bc23da3d57589f1e30ebc7d7c3863f9b2d58
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie_v2.0.json
+
+Package: com.blatant.genie
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.genie_2.0_iphoneos-arm64e.deb
+Size: 466984
+MD5sum: 1af0190e97ded1680ff2267c29393aa4
+SHA1: dbdb533f2ed5a7b519352cf3fc53b63dbe61194e
+SHA256: c1645ade5b618acb67213a3092ccd68a4203c2b72dc0163607a1f87c1cfa05d3
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/PxRZFx5B/IMG-5418.jpg
+Name: genie
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Genie_v2.0.json
+
 Package: com.blatant.goodnotes6
 Version: 1.0
 Architecture: iphoneos-arm64
