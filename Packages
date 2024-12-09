@@ -7702,6 +7702,63 @@ Icon: https://i.postimg.cc/zXJ31kWr/IMG-7025.jpg
 Name: Translate Now
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/TranslateNow.json
 
+Package: com.blatant.truecaller
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.truecaller_1.0_iphoneos-arm.deb
+Size: 455284
+MD5sum: e4259f370bd6764f102ca035f2615b1f
+SHA1: b5e7cbf6887d1d39279ee88416f1bdf71bc163af
+SHA256: 1dbaaac2e9e0e11e55efb54c71d7038259d1e0d40d355c431c42ced0c093a055
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/mzsSCx3/IMG-8098.jpg
+Name: Truecaller
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.truecaller
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.truecaller_1.0_iphoneos-arm64.deb
+Size: 517176
+MD5sum: 9fd3163687563332524d8922610f5a6d
+SHA1: e3374e479d3f1397c6444d2b75e7b57eee79f788
+SHA256: cdbaa8a2d498ada0b11f1bf69230cd3f57d86b1ba22932ed6061909fbf3ece20
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/mzsSCx3/IMG-8098.jpg
+Name: Truecaller
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.truecaller
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.truecaller_1.0_iphoneos-arm64e.deb
+Size: 471518
+MD5sum: b4d18ed667bdac0ad0b376b933c4b94e
+SHA1: bbfd5ac65b8dee8bf18d896984a963c4208a97f7
+SHA256: 0b7b08a42bc0d87332b8c1bc376422d879f2d9930c5e100151089620eeb63c6d
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/mzsSCx3/IMG-8098.jpg
+Name: Truecaller
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.umbravpn
 Version: 1.0
 Architecture: iphoneos-arm64
