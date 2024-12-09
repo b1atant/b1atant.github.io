@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#1EC693",
+    "tintColor": "#1EC693",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -59,7 +59,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.1"
+                    "text": "2.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -77,6 +77,20 @@
             "class": "DepictionStackView",
             "tabname": "Changelog",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Fixed keyboard not working for certificate users.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "Version 1.1",
