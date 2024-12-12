@@ -1832,14 +1832,14 @@ Package: com.blatant.crackfouad
 Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2980
+Installed-Size: 3188
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm64e.deb
-Size: 461184
-MD5sum: 6fb3ac691c05a623c4835a4c07659523
-SHA1: d8ecfaf91e59fbfeb236b7d912f8e97a375afe63
-SHA256: b54d27f3a32f0a12b6135c3ad159012964f75923d0310840a642aa8dc3b406ce
+Size: 509350
+MD5sum: c0e291b3a3504b9c9d0ea2b06d93f9a3
+SHA1: d01cb8de21747ccda462312dd19081fe27c95ba4
+SHA256: f6157c99f2ed922dfafe83895582150b2333ead0a00202a8e2ec3a6e2b5e6ffd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1852,14 +1852,14 @@ Package: com.blatant.crackfouad
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3252
+Installed-Size: 3172
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm.deb
-Size: 508384
-MD5sum: 18e27bee49dbdb339a6a4d697168d767
-SHA1: d6e213d4b3185a58467a8bfbc335d0c9717d8388
-SHA256: ac56f3d0b8f96d462fd98aaa29610f2a6470515c0d95e54a343ea1ece3b4cf20
+Size: 489394
+MD5sum: f214d84806ae1450d653dec0ced675b9
+SHA1: c0c446467cec7b932d19ee2f3f69d63e0c0f15c1
+SHA256: ab920f90e6c832120f57e7a40cae43276381bbf8a9f57110fbc60d7a45338dff
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1876,10 +1876,10 @@ Installed-Size: 3172
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.blatant.regramcrack (= 1.0)
 Filename: debs/com.blatant.crackfouad_1.2_iphoneos-arm64.deb
-Size: 499302
-MD5sum: 22b096aed31818cafa8190a1a4d076ec
-SHA1: 4daf59aed705a43ffaafe147b09bd6f4766dd86b
-SHA256: b090905535764744bdfee9d64ae3a868823e50ae1c7b8ec5ea04114ba6aaab6c
+Size: 493100
+MD5sum: ffc582b042d995644b6bdd52ee61bd44
+SHA1: cf1107acbd88f61b42d7dda631ef7b462b462d06
+SHA256: 101145c10932f3e4d8b031a5c87101af7b6bc81aa78bf5f345194be58abfa3f1
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -3027,6 +3027,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.ibb.co/MCysw1D/IMG-7551.jpg
 Name: Focos Live
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FocosLive.json
+
+Package: com.blatant.framegrabber
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.framegrabber_1.0_iphoneos-arm64e.deb
+Size: 494032
+MD5sum: bdda178f0a928a4065d1817ede38c113
+SHA1: b37d086c88b11dfad364b1c2798d9ffd018fa1ff
+SHA256: 84f0354ed435422d8657b609043fbc674778638da83e69d2dd2a4cecbbecffba
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/LZwNJPr/IMG-8130.jpg
+Name: FrameGrabber
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.framegrabber
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.framegrabber_1.0_iphoneos-arm64.deb
+Size: 482620
+MD5sum: fe8ffd3f0715e555be61389dc47bbcbd
+SHA1: a70e85c6daaddef0477361f8134839b6aacfeda8
+SHA256: 31c55e5373af27d3e31e4ae570079d77823f1a2f642cea1d2dc768980704a2a6
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/LZwNJPr/IMG-8130.jpg
+Name: FrameGrabber
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.framegrabber
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.framegrabber_1.0_iphoneos-arm.deb
+Size: 504784
+MD5sum: 63b1f8af1cfbf1300f7464fd702de862
+SHA1: b0df8b110246e0c8aa55d1f1d6475ded7422fbe8
+SHA256: ec79125491169881aa4467f84e5aef66ae53c5a998064eb0871a95c088dc86f2
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/LZwNJPr/IMG-8130.jpg
+Name: FrameGrabber
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
 
 Package: com.blatant.freeyourmusic
 Version: 1.0
@@ -6675,6 +6732,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/k5xjJK56/IMG-6464.jpg
 Name: Sleep
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Sleep.json
+
+Package: com.blatant.sleepcycle
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.sleepcycle_1.0_iphoneos-arm64.deb
+Size: 490036
+MD5sum: 9840600238c3a4feba6846c3ac8ca9c8
+SHA1: 817c45106f7001dadea958d63f4d0b3e64bf90ff
+SHA256: eefa54e924674670619eabdebfd67a78f67b716a2ed23deb4cefcdb56f5f93ad
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/NsBsMTf/IMG-8135.jpg
+Name: SleepCycle
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.sleepcycle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.sleepcycle_1.0_iphoneos-arm.deb
+Size: 456074
+MD5sum: 6a0319dcdc97e0ee5967c73304f5a92e
+SHA1: efc0a3be5d79038956b2e5f4aaee869be22c6e27
+SHA256: dc64f88102c82a97f2e21b7d681f8d4472ced5dde8a5889904248bd944efaf86
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/NsBsMTf/IMG-8135.jpg
+Name: SleepCycle
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.sleepcycle
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.sleepcycle_1.0_iphoneos-arm64e.deb
+Size: 450090
+MD5sum: 4cd5bf7c7fce5acaec4f6dd5e0423e25
+SHA1: 0d77b1054d20bf3eaa06833bba926ddbe77ca038
+SHA256: 70ebb4bbc7ec30c4ae1a490e90af31a0c673da50eb8401248be668e09f2f756e
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/NsBsMTf/IMG-8135.jpg
+Name: SleepCycle
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
 
 Package: com.blatant.sleepzy
 Version: 1.0
