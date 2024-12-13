@@ -7645,6 +7645,63 @@ Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
 Name: Thenx
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx.json
 
+Package: com.blatant.thenx
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 2992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.thenx_2.0_iphoneos-arm64.deb
+Size: 452566
+MD5sum: 76a0b841e26d3c53d79998b100082a2f
+SHA1: 5b9816a9c71fa86eeb07671d22a7213b3798e6c3
+SHA256: c54aedf1b2bead82ad80e3df5c31808f30e2804fe736fd65ded99403c340bca0
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
+Name: Thenx
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx_v2.0.json
+
+Package: com.blatant.thenx
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.thenx_2.0_iphoneos-arm.deb
+Size: 492060
+MD5sum: 30d9e5325734f12e5796b46a4701147d
+SHA1: 607700743bb82fdb017da8bc53d4ba5363463eef
+SHA256: 66ef12fe27af43bfdb2f96abfb122bbb48dc825fd64fdf6f07259093fd8f54ac
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
+Name: Thenx
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx_v2.0.json
+
+Package: com.blatant.thenx
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 3072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.thenx_2.0_iphoneos-arm64e.deb
+Size: 481418
+MD5sum: 26f767a65b0afd3d5202e27b99723ef5
+SHA1: a75c101cb1d6346bbe4d2cf7461d982f35af6fcd
+SHA256: 6b246cda0b47114f24ac8585cb5e1ed25b7dd90764a9cf2a4ffb59c55256af21
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/7PzMQ3S9/IMG-5439.jpg
+Name: Thenx
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Thenx_v2.0.json
+
 Package: com.blatant.theweather
 Version: 1.0
 Architecture: iphoneos-arm
