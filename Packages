@@ -796,63 +796,6 @@ Icon: https://i.postimg.cc/ryHCfhdK/IMG-5409.jpg
 Name: BetterSleep
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/BetterSleep.json
 
-Package: com.blatant.blatantiap
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.blatantiap_1.0_iphoneos-arm.deb
-Size: 440392
-MD5sum: 65a974645bb2baabb861e967de8b0dfe
-SHA1: f10baf033f8b187e0c99aa8faf19e7083677ee0a
-SHA256: 27ea4f22fc33df9a32a8ab9b641a6b45064ca2dcbb208a1a465e0b2e5b99bf84
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: replaceThis
-Name: BlatantIAP
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
-
-Package: com.blatant.blatantiap
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2992
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.blatantiap_1.0_iphoneos-arm64.deb
-Size: 457548
-MD5sum: 12fbd89f6c7cf5c69fbea1b3cad445ad
-SHA1: 0be207b8cd628b0b7a8e9e8d61262b91c4275e64
-SHA256: 64c3dc2155579dd0c92feee9390e7328693015b3fce2c38b18f1e32d51cf52d6
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: replaceThis
-Name: BlatantIAP
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
-
-Package: com.blatant.blatantiap
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3056
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.blatant.blatantiap_1.0_iphoneos-arm64e.deb
-Size: 461078
-MD5sum: d3f29d12dec59487427d7a05f81134fc
-SHA1: 1f0e9c86516c28a046755852019f93eea070ebc8
-SHA256: 58349d39bbf3e0e44867f8625bd63b5d810871aa0a79c77b38a31309e8c39117
-Section: Cracks
-Description: Cracked By Blatant
-Author: blatant
-Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
-Icon: replaceThis
-Name: BlatantIAP
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
-
 Package: com.blatant.blossom
 Version: 1.0
 Architecture: iphoneos-arm
