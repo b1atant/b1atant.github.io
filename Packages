@@ -1313,13 +1313,13 @@ Package: com.blatant.clime
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3248
+Installed-Size: 2832
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_2.0_iphoneos-arm.deb
-Size: 485970
-MD5sum: 7abad5196a07a214dde6c4f4fe150ac2
-SHA1: 5e836c026b9062bb6454b426369da5fb5fb264bb
-SHA256: 334af8dbfbe3d7134afe905ade7babe645451d7c8039a9c10f7ea1fb7afbec7f
+Size: 445966
+MD5sum: 96fb103e3e35442f0923de06373d3ae2
+SHA1: 679b18deb25bfa8912ead3c91cc8af81dcf457df
+SHA256: aa3b34631645c1fe6f1c924709a13221317303bf7a95fa51e4d407757a8710dd
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1332,13 +1332,13 @@ Package: com.blatant.clime
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3120
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_2.0_iphoneos-arm64e.deb
-Size: 484764
-MD5sum: 42b101e0a13a1c02b283e66f3bd067d8
-SHA1: 32b2b18d748a4a508312f24c145a6461bedb11c9
-SHA256: f4871f40510cdfc68e0ea5e21bfd621dea304ed8d243535d6a4367bcc90266b5
+Size: 454014
+MD5sum: 42dd77f5afeaea863d2cb4962bab5dbe
+SHA1: 948eb495096452e8d12d98d2aed2886de4340fd5
+SHA256: 253b755bfc3ab3996d877f324999163403d9d3337f0ccd2f6bb69bb76df98939
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -1351,13 +1351,13 @@ Package: com.blatant.clime
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3296
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.clime_2.0_iphoneos-arm64.deb
-Size: 488588
-MD5sum: 5d7b78dc32d8bfbe3624dd8abb445f6c
-SHA1: 4d50a827b301c2a4f55905d39789aff92a4cea60
-SHA256: 9cceca3dd77f8ccbf23985a10f0776e8b41be31fc6f9f251d1ab018ef2e5ded2
+Size: 472384
+MD5sum: 12b803cd74a236c4078ec8044ff8f687
+SHA1: 107611308109f7e3539f595fb958ad220a122841
+SHA256: b0a9e294e130dda9f6f28c860615cb51b0440a51df4a76ef47e33795ef46b1ee
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4118,10 +4118,10 @@ Maintainer: blatant <blatantzzz@protonmail.com>
 Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm64e.deb
-Size: 451312
-MD5sum: 7ab6dbb4954467319e411ea8f483eb96
-SHA1: 9448fb1d56adab1e03d2464ddf55471debe1ab15
-SHA256: fbf3a63033d3363dab034972f41934901b7a2fd3af54dea994e72a81bdd33c30
+Size: 457062
+MD5sum: cab77eaeb10210ad6c762f74ff02c759
+SHA1: 19b1622cf7b49c5ac6dfb3854bfe6ce9ed3b40d5
+SHA256: d6a6f323e2b3f6b4fe64c7842c383458bf85d4d28c5903cf7791b081735a7a31
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4134,13 +4134,13 @@ Package: com.blatant.itranslatetranslator
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2912
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm64.deb
-Size: 440536
-MD5sum: f15f8bb92c1c3904dfd3ae31483eac37
-SHA1: 3fd7e756a9de21b584a29ac0df3bbcfc1b448944
-SHA256: 86cf71567f02f4a56c656669084f37d58373e1fc6747a350d351f882b90b3cfb
+Size: 489726
+MD5sum: 52762feb47ff5cb19056a71f8cf5a678
+SHA1: 3ec8909bc84bfe7724e1dd44eb3c48540fde5f9d
+SHA256: 9c6887d0c37aa3cb4e0cade466459ca3c61394baf9bf04c580259deb28685616
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4153,13 +4153,13 @@ Package: com.blatant.itranslatetranslator
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.itranslatetranslator_2.0_iphoneos-arm.deb
-Size: 450504
-MD5sum: 9115cec0726d43bfdd7a5329122d9d0b
-SHA1: 188269f4a4c21596b3d40df069764fb1f10555a4
-SHA256: 95d674cebfafbae98875005d444b43a3b0c13466ccf2a7d2f6514b833f8d9f80
+Size: 484452
+MD5sum: e571aa5e0c220972b556019184f18e43
+SHA1: 70dd43dabc503e79c867ab98d3d523b4e3501251
+SHA256: e23185ad3f281590da1b1a202cfe62e295cdf5faee9ecc0c64f68c8892eff466
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6167,13 +6167,13 @@ Package: com.blatant.pixomatic
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3024
+Installed-Size: 2928
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.pixomatic_1.0_iphoneos-arm64.deb
-Size: 458256
-MD5sum: df7fb2a66e4923d41fb9fd3891c63424
-SHA1: 7920b8a918104dadb3ddc2a7ef43b01c7f753b00
-SHA256: b469f31ddac40cf2c36c7578b0a28ce7d5dbf465f33e25b04ebc3d36a70102ba
+Size: 458972
+MD5sum: 0ed1daa07587af979360a836ac9fad73
+SHA1: c1958370c2ccc9671aefaa81d4cc4c03dc910acf
+SHA256: 5af65f1fe55c774503823dcd1d395379739ec56fc9d27edd73f27d8b5da366f0
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6186,13 +6186,13 @@ Package: com.blatant.pixomatic
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2960
+Installed-Size: 2832
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.pixomatic_1.0_iphoneos-arm64e.deb
-Size: 443356
-MD5sum: 2a6500eeaf1384167c129446dcc6f0ec
-SHA1: 6a331bfe904d494184043342e27a7ae241bc53bc
-SHA256: 98a7536ccb991eb042867fee4359704fc54783c91a03ef7902b49a2bd3f22fc5
+Size: 440310
+MD5sum: 7bebcc92b4171c950044efb546a7723e
+SHA1: 2860d6a60b2280505cb0c8db82bfb813accc0ecd
+SHA256: fe176d6340ef3b7ccfb46d6bdee8c8e06f89bc14ff6d2da5cab7a1304980e16a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6205,13 +6205,13 @@ Package: com.blatant.pixomatic
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3312
+Installed-Size: 3216
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.pixomatic_1.0_iphoneos-arm.deb
-Size: 514852
-MD5sum: fb146664aaef684550fb61b8db71ba70
-SHA1: ab79111913c92ec1ac039dd6cb31e9d81fb2ff6a
-SHA256: 4da506c5891b4bc5ad2b06ff0f17f49f910907e7544fa94088fefa8c9db7084c
+Size: 503398
+MD5sum: e1015eab5531e693f01d46b038ef1acf
+SHA1: b8f3386a5903537a6388a4d4c5062e1e51105b77
+SHA256: 4bc9413c0175b89fe66f083788731a191421be5a02a6503114154f65d7b8e77e
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6224,13 +6224,13 @@ Package: com.blatant.planeslive
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 3056
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.planeslive_1.0_iphoneos-arm64.deb
-Size: 458920
-MD5sum: ed1192feb7827cdb84cdb77db1d2f3cc
-SHA1: 10a471f9bf360b3e10315e0583f5e47f1c7b0a7e
-SHA256: 62ca47b251f17579d8978919131c90b2883a6a8af092c42a63d13d6b317a07d7
+Size: 458322
+MD5sum: b1c5f31aa6403da63c653071b5040d7e
+SHA1: dfcb0972fa7ddfc2a824388f98bcce36a58f7e75
+SHA256: b9395c77f7b5c53c6252ccd4e5b4b9b31a047f4ec553b9932dae153d16100bc1
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6243,13 +6243,13 @@ Package: com.blatant.planeslive
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 3296
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.planeslive_1.0_iphoneos-arm.deb
-Size: 494676
-MD5sum: fe6420f07fa48310d55c364faeb5e17c
-SHA1: e68446fa06eeeb320c77f510ee02100b1e6a0b68
-SHA256: 79f5e709e94f68e9b658875d922f87bfa17eb36bc0c1fe50d6e03614a573e926
+Size: 469456
+MD5sum: 95afbb7f5dab4bc6aef3c719a4a4eaa7
+SHA1: f4a97175f7b1bee2c91124eea98ac15329a73a00
+SHA256: 66c9a21fb412731963f017f2bd1269f98b4711269d8b24842be8c9310ea890ef
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -6262,13 +6262,13 @@ Package: com.blatant.planeslive
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 3008
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.planeslive_1.0_iphoneos-arm64e.deb
-Size: 469052
-MD5sum: 2ad99c4189e6f8d074b63f16206ffe83
-SHA1: 114abbfdf89b979424b2b8985c8bd2217f60093a
-SHA256: 58c514194a01fedb3d6106e8b39243db1ec30defa19d016658068837e62fd0eb
+Size: 476940
+MD5sum: 80ee4a8968f69cd5434dbb2af9e459bd
+SHA1: d7c47572396daf76d910f78780275183c50f6039
+SHA256: 91b7c06c46261fa1dbf2c4df3d808f392e3083c2a5dd5f59731f65194a5b9cbc
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
