@@ -7497,13 +7497,13 @@ Package: com.blatant.splice
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3264
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.splice_1.0_iphoneos-arm64.deb
-Size: 508448
-MD5sum: fb3499657e8d7e27c6190ad7f00d2f5d
-SHA1: dae4c850005f255cd88cc315a5ffd0929373084a
-SHA256: d772d762e5b8eb82433fda2c68f9e25446aabd7e1c367db21a8d7c4d7b9e6961
+Size: 470814
+MD5sum: cbdac44af860a96a493e314d219009a6
+SHA1: 03048a18fcab954fca1d7ad2033379982cfdf7d6
+SHA256: 75366a8847b62eab990eb96a09bdc76dade38762605f317b2a487f6f422d1baa
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
