@@ -112,6 +112,63 @@ Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
 Name: AdGuard
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard.json
 
+Package: com.blatant.adguard
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 2976
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_2.0_iphoneos-arm.deb
+Size: 461464
+MD5sum: ad6d4248a6c356b268064fb16688b958
+SHA1: fe89aaf9e9b14743d8238d48b498a0e67c6f6907
+SHA256: 82e1383c630fb4d2ba46c658e368d9c9e1e837c7ccad199f7394374ec52440c2
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard_v2.0.json
+
+Package: com.blatant.adguard
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 2928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_2.0_iphoneos-arm64e.deb
+Size: 449328
+MD5sum: 056ca9124ac0de33ea2208898dc63718
+SHA1: 843da00766ca69b6a3cea4c89e5e7b13d94dc894
+SHA256: 84d6765f26f977e214068c668813f32762465e15f79047706d3ad67a10a3d05e
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard_v2.0.json
+
+Package: com.blatant.adguard
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 3184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.adguard_2.0_iphoneos-arm64.deb
+Size: 498016
+MD5sum: 5cb12d44aeaa4913eed2aff617ffa4a1
+SHA1: 5348ce95b97cbfc2ea958ffb2d97a719f1e7e66b
+SHA256: 962a38d31a1a871f0da8e6897c00440ddf758cc1c3ee7f3e2419caef3b1346f1
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/nzbcs1MZ/IMG-5783.jpg
+Name: AdGuard
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AdGuard_v2.0.json
+
 Package: com.blatant.alarmclockforme
 Version: 1.0
 Architecture: iphoneos-arm64e
