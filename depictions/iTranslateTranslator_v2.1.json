@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "minVersion": "0.4",
     "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
-    "tintColor":"#68BC71",
+    "tintColor":"#408EF7",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -13,7 +13,7 @@
                     "text": "Buy Me A ☕️",
                     "action": "https://ko-fi.com/blatant",
                     "openExternal": true,
-                    "tintColor": "#68BC71"
+                    "tintColor": "#408EF7"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -25,15 +25,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/W3QhTvcN/IMG-5788.png"
+                            "url": "https://i.postimg.cc/jSCWMtS9/IMG-6307.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/FFLYG707/IMG-5789.png"
+                            "url": "https://i.postimg.cc/mgqPqJcr/IMG-6308.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://i.postimg.cc/6qnTQmBd/IMG-5790.png"
+                            "url": "https://i.postimg.cc/tCBZdYpW/IMG-6306.png"
                         }
                     ]
                 },
@@ -46,7 +46,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Unlock's In-App Subscription  \n⚠️Disable tweak injection into this app with choicy and only allow AdGuard Tweak or else app will crash  \nRestart app if subscription isn't unlocked..",
+                    "markdown": "Unlock's In-App Subscription \n⚠️Disable tweak injection into this app with choicy and only allow iTranslator Tweak or else app will crash  \nRestart app if subscription isn't unlocked.",
                     "useSpacing": true
                 },
                 {
@@ -59,7 +59,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "2.0"
+                    "text": "2.1"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -79,13 +79,27 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "Version 2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Fixed the keyboard asking for \"pro\".",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "Version 2.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Updated the crack.",
+                    "markdown": "Updated the crack to work with v17.4.17 and up hopefully.",
                     "useSpacing": true
                 },
                 {
