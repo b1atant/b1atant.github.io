@@ -4685,13 +4685,13 @@ Package: com.blatant.lookup
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3152
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lookup_1.0_iphoneos-arm.deb
-Size: 490058
-MD5sum: 953d9b24798488cb39524815e188c166
-SHA1: 203b3748b90e169125f27be888be18a3c62a0afc
-SHA256: 14018c5b0a52da8d67a1da8cbc85f40c46971481a55c1e6e7c1fcadbd2efb7ac
+Size: 484878
+MD5sum: 21e6e4afa105de4a84de8b4adc0c394d
+SHA1: e5523863d6b72045df8586f164144511bf81ee52
+SHA256: 47b1d595cb77deaaf0098456712fb534fa802862dfaf06b7a1fbb02e6179d1b1
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4704,13 +4704,13 @@ Package: com.blatant.lookup
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 3136
+Installed-Size: 3072
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lookup_1.0_iphoneos-arm64.deb
-Size: 486034
-MD5sum: a9387454c465a415a1b83ae7e21dd75b
-SHA1: ead126186d684ec192e337bbb08e2c80cdb714de
-SHA256: 55c82b75ff68461a3cf03c75f707c42ecff3d1880596ca486029a6f49cb71cd0
+Size: 475424
+MD5sum: 5aa58988d64c26f271863b3d66ca7e72
+SHA1: dbe39185cdfbb8a1836f8a0477d99e89013ade32
+SHA256: b3b1d8aa283e742307bc005e6170bbe8c6f9170dbde2be0dac39749536fbbc41
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -4723,13 +4723,13 @@ Package: com.blatant.lookup
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant <blatantzzz@protonmail.com>
-Installed-Size: 2912
+Installed-Size: 2992
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.lookup_1.0_iphoneos-arm64e.deb
-Size: 438688
-MD5sum: 2031bb60e096806599534f750ccc53bd
-SHA1: e8b6d0ffeefc87036bf887f543c33f800e995396
-SHA256: 8eec2ff9c880687cb063f6624daeb1044422d89b657686aaf5d87b809256cbb7
+Size: 467814
+MD5sum: 2f2b4ca9c16c90ec040cbaebccb28ec9
+SHA1: 0444e8c1622b1079442b92054994666570e66812
+SHA256: bf398f7fda80715c924387a11d6da207079b89ad2d4e2de77315773a6cd31c6e
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
