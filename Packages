@@ -4681,6 +4681,63 @@ Icon: https://i.postimg.cc/VNQwkbVw/IMG-6327.jpg
 Name: Live Wallpaper
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/LiveWallpaper.json
 
+Package: com.blatant.lookup
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lookup_1.0_iphoneos-arm.deb
+Size: 490058
+MD5sum: 953d9b24798488cb39524815e188c166
+SHA1: 203b3748b90e169125f27be888be18a3c62a0afc
+SHA256: 14018c5b0a52da8d67a1da8cbc85f40c46971481a55c1e6e7c1fcadbd2efb7ac
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ckVvgSh/IMG-8330.jpg
+Name: LookUp
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.lookup
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lookup_1.0_iphoneos-arm64.deb
+Size: 486034
+MD5sum: a9387454c465a415a1b83ae7e21dd75b
+SHA1: ead126186d684ec192e337bbb08e2c80cdb714de
+SHA256: 55c82b75ff68461a3cf03c75f707c42ecff3d1880596ca486029a6f49cb71cd0
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ckVvgSh/IMG-8330.jpg
+Name: LookUp
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.lookup
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lookup_1.0_iphoneos-arm64e.deb
+Size: 438688
+MD5sum: 2031bb60e096806599534f750ccc53bd
+SHA1: e8b6d0ffeefc87036bf887f543c33f800e995396
+SHA256: 8eec2ff9c880687cb063f6624daeb1044422d89b657686aaf5d87b809256cbb7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/ckVvgSh/IMG-8330.jpg
+Name: LookUp
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.m3u8
 Version: 1.0
 Architecture: iphoneos-arm
