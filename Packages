@@ -116,13 +116,13 @@ Package: com.blatant.adguard
 Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 2976
+Installed-Size: 3040
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.0_iphoneos-arm.deb
-Size: 461464
-MD5sum: ad6d4248a6c356b268064fb16688b958
-SHA1: fe89aaf9e9b14743d8238d48b498a0e67c6f6907
-SHA256: 82e1383c630fb4d2ba46c658e368d9c9e1e837c7ccad199f7394374ec52440c2
+Size: 481608
+MD5sum: 90811edabc4a4c40c8695d6ef61a0e73
+SHA1: d32d7d444c0e45ec5e25fad00bf89ea99b564f79
+SHA256: 82fe18fe539f7dc074d97ceccccdabd23d4480f18a0586acaaea6b91a30c3170
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -135,13 +135,13 @@ Package: com.blatant.adguard
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 2928
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.0_iphoneos-arm64e.deb
-Size: 449328
-MD5sum: 056ca9124ac0de33ea2208898dc63718
-SHA1: 843da00766ca69b6a3cea4c89e5e7b13d94dc894
-SHA256: 84d6765f26f977e214068c668813f32762465e15f79047706d3ad67a10a3d05e
+Size: 477616
+MD5sum: 3f4f6eeedd3956fcf9d4c1d715f11f17
+SHA1: 907a38b8efb5b3438b3189a7301dd7bed1baabed
+SHA256: 0bb404deb829b0d918d8feeb33607649e27a0134395cf427d8857b6d6f7d8915
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -154,13 +154,13 @@ Package: com.blatant.adguard
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 3184
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.0_iphoneos-arm64.deb
-Size: 498016
-MD5sum: 5cb12d44aeaa4913eed2aff617ffa4a1
-SHA1: 5348ce95b97cbfc2ea958ffb2d97a719f1e7e66b
-SHA256: 962a38d31a1a871f0da8e6897c00440ddf758cc1c3ee7f3e2419caef3b1346f1
+Size: 473566
+MD5sum: 5e16bdba36d9efa0dc3ec22cb613394f
+SHA1: 8b61d2d5a60860fd7ad8a0e839ec41cc27f086fa
+SHA256: 865cf552bfd8311f351afe178858c94d3dc072832f1dfe3d77443e53b3573bf9
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
