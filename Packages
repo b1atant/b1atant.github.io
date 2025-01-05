@@ -173,13 +173,13 @@ Package: com.blatant.adguard
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 3056
+Installed-Size: 3104
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.1_iphoneos-arm.deb
-Size: 465352
-MD5sum: 800eef23bb6b098ab1ba1a76ce6cb3a9
-SHA1: c76efff605d5ea73df4a4c645e6695222358d312
-SHA256: 2a3b47202eb58ceb2059b98ada2d3823acbccd551af0f0a163148114d3f25d5d
+Size: 467026
+MD5sum: c6feea1ea22b7d1b8fe6171a6e3c83be
+SHA1: 90e6af19cc256942f0299d6bd5caf7d81b6fd9d5
+SHA256: 8a19c381b9d49a832edc06114986ad27c947a252f8bc23440fd210f2bfb6e886
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -192,13 +192,13 @@ Package: com.blatant.adguard
 Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: blatant
-Installed-Size: 3104
+Installed-Size: 2976
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.1_iphoneos-arm64.deb
-Size: 479186
-MD5sum: 94538fab5982ef9d3988e7f016644ef9
-SHA1: bce8f3a8c2a3718322b19bd8d94bbd3270215e8c
-SHA256: fd250e46ffa2ed742e7532eb5f918adb2794a2a52d0cfc9afd4cf22c39826c78
+Size: 461756
+MD5sum: 97cd6b028eac93989245c61e79e02c77
+SHA1: 0b96d08a2d13ad13993dbb174c99eb57eb1a740d
+SHA256: 46f13ba886cd329c8109c1bdf7e45927c7df4907f5cccc8370a70769cb47fb9a
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -211,13 +211,13 @@ Package: com.blatant.adguard
 Version: 2.1
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 3120
+Installed-Size: 3024
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.adguard_2.1_iphoneos-arm64e.deb
-Size: 470620
-MD5sum: 6c473ba6b296087983426c915bf4aeda
-SHA1: f71eaa9c3be8e5c9d991e7c8fa928ab78b16c810
-SHA256: 0c06c64f1fe74a2bc8a80e75daaf75c99e7936d3147500b8d598a8d9cc6b0b62
+Size: 460574
+MD5sum: bb0ef8a59f80039d308d01c161ca5d19
+SHA1: 4c86eb4d32407edce5b206c31c0b1da734895869
+SHA256: 78556b2840edaa13e621238ed236380b9bf755c1541ee485bf369918b1548cc7
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -5650,6 +5650,63 @@ Icon: https://i.postimg.cc/hvBGPmLB/IMG-6796.jpg
 Name: Offline Music Player
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/OfflineMusicPlayer.json
 
+Package: com.blatant.opener
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.opener_1.0_iphoneos-arm64e.deb
+Size: 484226
+MD5sum: 459ac9a31d64f77d3cd8524ce0d623d5
+SHA1: b85845fbb58caa4232439d2bfa87ba9ab8096a94
+SHA256: e4ecfe73ea63aaf7739b7c6f95cd234282a7920b7b427e1dc5efdab40a1c1231
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/yPG7GvG/IMG-8373.jpg
+Name: Opener
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.opener
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3040
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.opener_1.0_iphoneos-arm64.deb
+Size: 463320
+MD5sum: 33948c91510f978a9b5d2b57cc2c4eb5
+SHA1: b25e3ec4d477082a10245487ba9c9916e53a6194
+SHA256: 8c023af7c0580a650967fef8165be7cbe61f348d26fc23e8877930c0aef1c8db
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/yPG7GvG/IMG-8373.jpg
+Name: Opener
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.opener
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2864
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.opener_1.0_iphoneos-arm.deb
+Size: 452564
+MD5sum: 694e81eb1dd9e65693e8e2881da76370
+SHA1: 266279de509d49a413bf92d70aaef28a1bde1727
+SHA256: f3b1f5696e8a0d6ddb171801b71d70a9694c84327b796fe88513f8a8491fc07b
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/yPG7GvG/IMG-8373.jpg
+Name: Opener
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.osmosismedical
 Version: 1.0
 Architecture: iphoneos-arm
@@ -6960,6 +7017,63 @@ Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wjgVN1yV/IMG-5436.jpg
 Name: Shred
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Shred.json
+
+Package: com.blatant.shuteye
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.shuteye_1.0_iphoneos-arm64e.deb
+Size: 457016
+MD5sum: b8464b607d4c3bb61cca4e20e11a3804
+SHA1: 1a8e6455615f7a70dacc9f8c561b0d92eece81e9
+SHA256: af23aa9690a27cc48c9bfc93161c486aab6dbbb64b100a14fa59b496a9009ad5
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/BKVqWTf/IMG-8374.jpg
+Name: ShutEye
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.shuteye
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2764
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.shuteye_1.0_iphoneos-arm.deb
+Size: 444412
+MD5sum: 0cd0be37dd8c159b91bf147d982abf1e
+SHA1: 5109e038ad17e590e3d9da1d039c5fc88e8d0d6a
+SHA256: 3464a022f7e14c81463a4789340263d574951c634d4613fab51ccab82dad8740
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/BKVqWTf/IMG-8374.jpg
+Name: ShutEye
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.shuteye
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 2944
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.shuteye_1.0_iphoneos-arm64.deb
+Size: 464368
+MD5sum: bdcff9e184f94584415ea98f9e7e320c
+SHA1: 37fe5eadd75815ac2d013077ffd668207820e9f1
+SHA256: 9836d915ad3bcdc6754f7418d45e0876097807e3004cf3b37fc4ba3975282899
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/BKVqWTf/IMG-8374.jpg
+Name: ShutEye
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
 
 Package: com.blatant.sleep
 Version: 1.0
