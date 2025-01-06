@@ -4453,6 +4453,63 @@ Icon: https://i.ibb.co/hWDPTgH/IMG-7258.jpg
 Name: KineMaster
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/KineMaster.json
 
+Package: com.blatant.lampa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lampa_1.0_iphoneos-arm.deb
+Size: 489872
+MD5sum: b04cdf8c4ad04dff7cac12f2682f7b7d
+SHA1: 69d60a2f28b48f43f943d01cc11603ba9d399283
+SHA256: faf55e1c7805aeea2f06db2f63386feb23dca937c885faed000b6940a05357c7
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GT4w0Pn/IMG-8417.jpg
+Name: Lampa
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.lampa
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lampa_1.0_iphoneos-arm64e.deb
+Size: 470832
+MD5sum: 5beb834664cd425242b563d878169e48
+SHA1: 9bbce4f35207e56fa681d1e5af498e5742a267d0
+SHA256: 047c1b9cc150ca8f9af9ff44deb024aedce08aaa101be6cefef8189292c31f71
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GT4w0Pn/IMG-8417.jpg
+Name: Lampa
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.lampa
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3232
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.lampa_1.0_iphoneos-arm64.deb
+Size: 487962
+MD5sum: 34043786154d0581e5ba972332aaa40f
+SHA1: e1ae90502fd420af3af66627c300aa9f5302af03
+SHA256: 323680b8b7a79a91cda8c2aaecc87c23ecf203823dc06dc4fbb56b020f62e237
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.ibb.co/GT4w0Pn/IMG-8417.jpg
+Name: Lampa
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.lifesumcrack
 Version: 1.0
 Architecture: iphoneos-arm64
