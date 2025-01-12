@@ -87,7 +87,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "**Changelog**\n\n- Updated the crack to work with the latest versions of the app.\n- Patched the in-app purchases:\n  - Simply click 'Buy' and then cancel the purchase to top up your photo/video credits.",
                     "useSpacing": true
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
