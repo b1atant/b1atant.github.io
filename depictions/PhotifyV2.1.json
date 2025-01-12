@@ -1,0 +1,108 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.4",
+    "headerImage": "https://raw.githubusercontent.com/b1atant/Logo/main/header.png",
+    "tintColor":"#BFF15E",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Buy Me A ☕️",
+                    "action": "https://ko-fi.com/blatant",
+                    "openExternal": true,
+                    "tintColor": "#BFF15E"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "[160, 346]",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/gcLRNP4n/IMG-6231.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/02gS4HHZ/IMG-6232.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://i.postimg.cc/fLpdDHWz/IMG-6233.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Description"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Unlimited token's just click buy and then cancel the purchase.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Package Info"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "2.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Author",
+                    "text": "blatant"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Cracks"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "**Changelog**\n\n- Updated the crack to work with the latest versions of the app.\n- Patched the in-app purchases:\n  - Simply click 'Buy' and then cancel the purchase to top up your photo/video credits.",
+                    "useSpacing": true
+                }
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial Release",
+                    "useSpacing": true
+                }
+            ]
+        }
+    ]
+}
