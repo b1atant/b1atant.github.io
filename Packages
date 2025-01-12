@@ -6338,39 +6338,39 @@ Package: com.blatant.photify
 Version: 2.1
 Architecture: iphoneos-arm64e
 Maintainer: blatant
-Installed-Size: 3264
+Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photify_2.1_iphoneos-arm64e.deb
-Size: 509224
-MD5sum: 0abaee9b887e53302f5b47eb51012b32
-SHA1: f67066876f627fcdcacc5f04162f0f20a9a13eac
-SHA256: d830c3da2e2312b25ebbacbce846e0219763045e516fb59d66a957358cf52439
+Size: 491990
+MD5sum: dac54677d6b9239d3e6450a55cb3671c
+SHA1: eb245b2624f07469bffb1c25beb5b644083dfeb7
+SHA256: 1cdf955da3c75ad7e57a318b83fe49d63bacb68e649d047b4bed6f555c9d45d2
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
 Name: Photify AI
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify_v2.1.json
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotifyV2.1.json
 
 Package: com.blatant.photify
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: blatant
-Installed-Size: 3200
+Installed-Size: 3184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photify_2.1_iphoneos-arm.deb
-Size: 500530
-MD5sum: ee2f89538be2c1d9c2703804d5a6124d
-SHA1: 954e37c4d8333a16c63699e9e521eb3709fc5fdf
-SHA256: 7f92062c57e2f25aeb09adf84fbaa47a193c6204b2368167568482c756530090
+Size: 501598
+MD5sum: 1f88f1968c7f9171b844af22662771d0
+SHA1: 9549449ac92cbefbceb7572b3eec7b17a9e32310
+SHA256: 6988700fbeccb9657be6af60fe4dae1ccfff301672e01aac139a1e2f98708994
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
 Name: Photify AI
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify_v2.1.json
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotifyV2.1.json
 
 Package: com.blatant.photify
 Version: 2.1
@@ -6379,17 +6379,17 @@ Maintainer: blatant
 Installed-Size: 3120
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.photify_2.1_iphoneos-arm64.deb
-Size: 492804
-MD5sum: d6e38ce14bcb60cecc203fec36b2b96f
-SHA1: 002e905d6a4298c24d97873f4964229e070f9b9c
-SHA256: 9132931a1047ce86cdb8829cbce419065c1dfb03de49a7f1b3a7d78530d3dc9a
+Size: 494140
+MD5sum: 54661c7b01da14a597023b9daabd0e03
+SHA1: f74a027c38cc36af9ec9c0eeb74d26d0bbaef169
+SHA256: 853fc41c7d9f1d479a06fc7bd5c6eb18f437b87ca36a5eabffe2d128aaeb3463
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
 Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
 Icon: https://i.postimg.cc/wTQfvHh1/IMG-6226.jpg
 Name: Photify AI
-Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/Photify_v2.1.json
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/PhotifyV2.1.json
 
 Package: com.blatant.photoeraser
 Version: 1.0
