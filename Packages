@@ -739,6 +739,63 @@ Icon: https://i.postimg.cc/YqmvvQ2y/image.png
 Name: AutoRevenueCat
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.1.json
 
+Package: com.blatant.autorc
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.2_iphoneos-arm64e.deb
+Size: 18002
+MD5sum: 7def23992ca119d594e189143d8c4b92
+SHA1: 557aae48204c591f5c8b8985d010951e4ed24c20
+SHA256: 47b51e6018720a2d7a8496d533f45b84d7d56c489dbc9e2eecf3e5524e58b1c8
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.2.json
+
+Package: com.blatant.autorc
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.2_iphoneos-arm64.deb
+Size: 18054
+MD5sum: 0fa7d9ce131347d541863abb935b8e70
+SHA1: a652f2d86b5bd57bc8354462adb5a45024d2d78e
+SHA256: 6011f06d9cbacc09cfd41c5832bd03712bbbf740bb1013be320435efa01a2468
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.2.json
+
+Package: com.blatant.autorc
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: blatant
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.autorc_1.2_iphoneos-arm.deb
+Size: 17974
+MD5sum: 16ff4d05d6b6330ce04f62ec4adffd6b
+SHA1: 25491a290e6faad4d2275e89ec275c888e9c53de
+SHA256: 9ce380cf262bfb235a69dff19b302a61b3ee229ba6c07b9e44cbda7488a8f8cc
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: https://i.postimg.cc/YqmvvQ2y/image.png
+Name: AutoRevenueCat
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/AutoRCv1.2.json
+
 Package: com.blatant.avatarify
 Version: 1.0
 Architecture: iphoneos-arm64e
