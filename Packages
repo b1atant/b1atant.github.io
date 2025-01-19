@@ -746,10 +746,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.2_iphoneos-arm64e.deb
-Size: 18002
-MD5sum: 7def23992ca119d594e189143d8c4b92
-SHA1: 557aae48204c591f5c8b8985d010951e4ed24c20
-SHA256: 47b51e6018720a2d7a8496d533f45b84d7d56c489dbc9e2eecf3e5524e58b1c8
+Size: 17984
+MD5sum: c77237905809d75b5e30b69f3859a26c
+SHA1: 5e304986c25b060221fa027b4b92d9bd9eb76686
+SHA256: 0e8584b1a51a108f6039b2e0625d048e3551ff761546ff1d52dfec07e13ab8ec
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -765,10 +765,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.2_iphoneos-arm64.deb
-Size: 18054
-MD5sum: 0fa7d9ce131347d541863abb935b8e70
-SHA1: a652f2d86b5bd57bc8354462adb5a45024d2d78e
-SHA256: 6011f06d9cbacc09cfd41c5832bd03712bbbf740bb1013be320435efa01a2468
+Size: 18146
+MD5sum: 54b5849c418432f41ca72860c9e6d173
+SHA1: bbb627fb893a8fe8127d5878e943883225b46d86
+SHA256: c46b88374f7fa06c8a60af80c93fe551c63608658b8ee155bd82e5dfc80d5e10
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
@@ -784,10 +784,10 @@ Maintainer: blatant
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.blatant.autorc_1.2_iphoneos-arm.deb
-Size: 17974
-MD5sum: 16ff4d05d6b6330ce04f62ec4adffd6b
-SHA1: 25491a290e6faad4d2275e89ec275c888e9c53de
-SHA256: 9ce380cf262bfb235a69dff19b302a61b3ee229ba6c07b9e44cbda7488a8f8cc
+Size: 17966
+MD5sum: e6e1e9e078b8772e3ee29fd75c3916a1
+SHA1: 67f4c6b2fd8da1a1adbb1f111c85a34510aa8920
+SHA256: 6853b45addf641bceb26ab3d6f90df2bafb9dd5492945c5cc93da56ba7259b80
 Section: Cracks
 Description: Cracked By Blatant
 Author: blatant
