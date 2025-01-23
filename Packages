@@ -2059,6 +2059,63 @@ Icon: https://i.ibb.co/D4vsppW/Untitled-design.png
 Name: Fouad Crack
 Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/FouadCrack_v1.2.json
 
+Package: com.blatant.dazzcam
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3040
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.dazzcam_1.0_iphoneos-arm64e.deb
+Size: 481040
+MD5sum: 964599dbcd31d7549b6bcc1509467442
+SHA1: 67d9484ed29327d92ea5a0f1c65dae5a8a935001
+SHA256: f68fcee45f576abc98849723a6c0f06c3427c4e98c986149700138d79a9b80a3
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: replaceThis
+Name: Dazzcam
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.dazzcam
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3104
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.dazzcam_1.0_iphoneos-arm64.deb
+Size: 487384
+MD5sum: 47a20521677c6d0eaf9da4b90c55122b
+SHA1: 2569bd595d262458048bfcc78c203d9173a46ed7
+SHA256: 980fa0a01c6d4625c1b01ec73512fafdb6232d22a826599795ee333fae562f22
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: replaceThis
+Name: Dazzcam
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
+Package: com.blatant.dazzcam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: blatant <blatantzzz@protonmail.com>
+Installed-Size: 3152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.blatant.dazzcam_1.0_iphoneos-arm.deb
+Size: 497704
+MD5sum: 95b95b2e848ed292dbca659a0e814b75
+SHA1: ddf66c8f11541a8d2439b7862518015c426fddc7
+SHA256: ce33d8ba5dec49419034d0624e370807f3e95c366b437a9f798142d56457bfc0
+Section: Cracks
+Description: Cracked By Blatant
+Author: blatant
+Depiction: https://raw.githubusercontent.com/b1atant/Logo/main/MadeByS.PNG
+Icon: replaceThis
+Name: Dazzcam
+Sileodepiction: https://github.com/b1atant/b1atant.github.io/raw/main/depictions/StockTemplate.json
+
 Package: com.blatant.devicemonitor2
 Version: 1.0
 Architecture: iphoneos-arm64
